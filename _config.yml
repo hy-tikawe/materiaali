@@ -20,13 +20,13 @@ permalink: /:title/
 # If you want a collection of pages for course material:
 collections:
   # In Finnish you might want to write e.g. "materiaali:" instead.
-  materiaali:
+  material:
     output: true
-    permalink: /:collection/:title/
+    permalink: /:title/
 
 # Uncomment to hide the section submenus in navigation
 # for pages other than the current one:
-# hide_other_section_menus: true
+hide_other_section_menus: true
 
 defaults:
   -
