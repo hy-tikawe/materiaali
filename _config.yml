@@ -4,7 +4,7 @@ lang: fi # Or fi for Finnish
 baseurl: "/materiaali"
 url: "https://hy-tikawe.github.io"
 # Uncomment to change the theme color:
-theme-color: '#cccccc'
+theme_color: '#cccccc'
 
 remote_theme: ollpu/jekyll-course-theme@v2
 
@@ -27,6 +27,8 @@ collections:
 # Uncomment to hide the section submenus in navigation
 # for pages other than the current one:
 hide_other_section_menus: true
+
+small_code_block_font: true
 
 defaults:
   -
