@@ -28,7 +28,7 @@ collections:
 # for pages other than the current one:
 hide_other_section_menus: true
 
-small_code_block_font: true
+small_code_font: true
 
 defaults:
   -
