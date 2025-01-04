@@ -452,7 +452,7 @@ Tämä komento siirtää repositorion tilan yhtä askelta aiemmaksi ja kaikki on
 $ git log
 commit 7cfdfabca6b021bbe314d77b1ff0718cc415b9d5 (HEAD -> main)
 Author: Antti Laaksonen <ahslaaks@cs.helsinki.fi>
-Date:   Tue Dec 10 17:36:10 2020 +0300
+Date:   Sat Jan 4 17:36:10 2020 +0300
 
     First commit
 
