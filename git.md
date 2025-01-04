@@ -6,19 +6,83 @@ hide: true
 
 # Gitin käyttäminen
 
-Kun projektia kehitetään, omalla koneella on paikallinen projektin _työhakemisto_ sekä siihen liittyvä repositorio. Kun työhakemiston muutokset halutaan talteen repositorioon, tiedostot valitaan ensin komennolla `git add` ja sitten suoritetaan komento `git commit`.
-
-Tämän lisäksi GitHubissa on toinen repositorio, jonka sisällön on tarkoitus olla sama kuin oman koneen repositoriossa. Komento `git push` siirtää muutoksia omalta koneelta GitHubiin, ja komento `git pull` puolestaan siirtää muutoksia GitHubista omalle koneelle.
+TODO
 
 ## Projektin aloitus
 
-Tehdään esimerkkinä projekti nimellä `tikawe-test`, jonka pohjana on materiaalin osassa 1 oleva esimerkkisovellus. Luodaan projektille hakemisto, jossa on Pythonin virtuaaliympäristö, ja lisätään projektiin kaksi tiedostoa:
+Tehdään GitHubiin uusi repositorio nimellä `tikawe-test`. Valitaan, että repositorio on julkinen (public) ja siinä on valmiina README-tiedosto (add README file).
+
+Repositoriossa on valmiina tiedosto `README.md`, jonka sisällön pitäisi olla seuraava:
+
+```
+# tikawe-test
+```
+
+Muutetaan tiedostoa GitHubissa seuraavasti:
+
+```
+# Testiprojekti
+
+Tämä on esimerkki repositorion luomisesta.
+```
+
+Katsotaan seuraavaksi, miten voimme käsitellä repositoriota omalla koneellamme. Kun repositorio on luotu GitHubiin, voimme kloonata eli tehdä repositoriosta kopion omalle koneelleemme seuraavasti:
 
 ```console
-$ mkdir tikawe-test
+$ git clone git@github.com:[tunnus]/tikawe-test.git
+Cloning into 'tikawe-test'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (3/3), done.
+```
+
+Tässä komento `git clone` luo hakemiston `tikawe-test` ja kloonaa siihen saman nimisen repositorion sisällön GitHubista. Komennossa kohdassa `[tunnus]` tulee olla GitHub-tunnus, jolle repositorio on luotu.
+
+Repositorion kloonaamisen jälkeen voimme siirtyä hakemistoon `tikawe-test` ja tarkastaa, että hakemiston sisältö näyttää oikealta:
+
+```console
 $ cd tikawe-test
+$ ls
+README.md
+$ cat README.md
+# Testiprojekti
+
+Tämä on esimerkki repositorion luomisesta.
+```
+
+Tilanne näyttää hyvältä, koska hakemistossa on tiedosto `README.md`, jonka sisältö on oikea. Katsotaan vielä repositorion muokkaushistoria komennolla `git log`:
+
+```console
+$ git log
+commit f1fb51cbbd60f3227d6d02bcd73ab98617d28a39 (HEAD -> main, origin/main, origin/HEAD)
+Author: Antti Laaksonen <ahslaaks@cs.helsinki.fi>
+Date:   Sat Jan 4 16:37:05 2025 +0200
+
+    Update README.md
+
+commit c8b5097693799c4e542d71cd1cc4acbba7d65a68
+Author: Antti Laaksonen <ahslaaks@cs.helsinki.fi>
+Date:   Sat Jan 4 16:32:30 2025 +0200
+
+    Initial commit
+```
+
+Tässä näkyy, että repositorioon on tehty kaksi commitia: aloituscommit sekä aiemmin GitHubissa tekemämme tiedoston `README.md` muokkaus.
+
+Voimme nyt kehittää sovellusta hakemistossa `tikawe-test` ja tallentaa muutokset versionhallintaan. Tehdään kokeeksi hakemistoon yksinkertainen esimerkkisovellus samaan tapaan kuin kurssimateriaalin alussa. Seuraavat komennot ottavat käyttöön virtuaaliympäristön ja asentavat Flask-kirjaston:
+
+```console
 $ python3 -m venv venv
-$ cat > app.py
+$ source venv/bin/activate
+$ pip install flask
+```
+
+Lisätään hakemistoon tiedosto `app.py`, jonka sisältö on seuraava:
+
+{: .code-title }
+app.py
+```python
 from flask import Flask
 
 app = Flask(__name__)
@@ -26,52 +90,15 @@ app = Flask(__name__)
 @app.route("/")
 def index():
     return "Heipparallaa!"
-(Control+D)
-$ cat > README.md
-TODO
-(Control+D)
 ```
 
-Tässä luotiin tiedostot `app.py` ja `README.md`. Tiedostossa `app.py` on sama sisältö kuin osassa 1. Tiedostossa `README.md` on pohja sovelluksen kuvaukselle.
-
-Yllä on käytetty `cat`-komentoa tiedostojen luomiseen. Komento `cat > [nimi]` luo tiedoston `[nimi]`, minkä jälkeen voi kirjoittaa rivejä. Kun tiedoston sisältö on valmis, rivit siirtyvät tiedostoon painamalla Control+D.
-
-Luodaan tämän jälkeen GitHubissa projektia varten repositorio nimellä `tikawe-test` oletusasetuksilla:
-
-![](../img/github1.png)
-
-Repositorion luomisen jälkeen GitHub antaa ohjeet, joita voimme seurata melko suoraan. Luodaan paikallinen repositorio ja tehdään ensimmäinen commit, jossa lisätään tiedostot `app.py` ja `README.md`:
+Kokeillaan vielä, että sovellus toimii:
 
 ```console
-$ git init
-Initialised empty Git repository in /tikawe-test/.git/
-$ git add app.py
-$ git add README.md
-$ git commit -m "First commit"
-[master (root-commit) 3b8f8ea] First commit
- 2 files changed, 8 insertions(+)
- create mode 100644 README.md
- create mode 100644 app.py
-``` 
-
-Seuraavaksi kytketään yhteen paikallinen repositorio sekä GitHubissa oleva repositorio. Tässä `[tunnus]` tarkoittaa GitHub-tunnusta.
-
-```console
-$ git branch -M main
-$ git remote add origin git@github.com:[tunnus]/tikawe-test.git
-$ git push -u origin main
-Enumerating objects: 4, done.
-...
-To github.com:[tunnus]/tikawe-test.git
- * [new branch]      main -> main
-Branch 'main' set up to track remote branch 'main' from 'origin'.
+$ flask run
 ```
 
-Tämän jälkeen projektin pitäisi näyttää seuraavalta GitHubissa:
-
-![](../img/github2.png)
-
-Tarkastetaan nyt projektin tilanne komennolla `git status`:
+Sovellus näyttää toimivan, joten voimme tehdä commitin eli tallentaa tekemämme muutokset versionhallintaan. Tarkastetaan ensin komennolla `git status`, mitä on muuttunut:
 
 ```console
 $ git status
@@ -81,128 +108,82 @@ Your branch is up-to-date with 'origin/main'.
 Untracked files:
   (use "git add <file>..." to include in what will be committed)
 	__pycache__/
+	app.py
 	venv/
 
 nothing added to commit but untracked files present (use "git add" to track)
 ```
 
-Tästä näkee, että projektissa on vielä kaksi versionhallinnan ulkopuolista hakemistoa `__pycache__` ja `venv`, jotka liittyvät Python-koodin suorittamiseen ja virtuaaliympäristöön. Nämä hakemistot eivät kuulu versionhallintaan, koska ne liittyvät sovelluksen paikalliseen suorittamiseen.
+Komento näyttää, että hakemistossa on tiedosto `app.py` sekä kaksi alihakemistoa `__pycache__` ja `venv`, jotka eivät ole repositoriossa. Tiedoston `app.py` loimme itse ja alihakemistot syntyivät automaattisesti virtuaaliympäristön luomisen ja sovelluksen suorittamisen yhteydessä.
 
-Tiedostossa `.gitignore` voidaan listata tiedostot ja hakemistot, joiden tulee jäädä versionhallinnan ulkopuolelle. Tässä tapauksessa voimme luoda tiedoston seuraavasti ja lisätä sen repositorioon:
+Hyvä periaate on säilyttää repositoriossa sovelluksen koodia mutta ei oman koneen ympäristöön liittyviä tiedostoja. Tässä tapauksessa haluamme lisätä tiedoston `app.py` repositorioon mutta emme alihakemistoja.
 
-```console
-$ cat > .gitignore
-__pycache__
-venv
-(Control+D)
-$ git add .gitignore
-$ git commit -m "Add .gitignore"
-[main 5e0c950] Add .gitignore
- 1 file changed, 2 insertions(+)
- create mode 100644 .gitignore
-$ git push
-Enumerating objects: 4, done.
-...
-To github.com:[tunnus]/tikawe-test.git
-   3b8f8ea..5e0c950  main -> main
-```
-
-Tämän jälkeen git tietää, että hakemistot `__pycache__` ja `venv` tulee jättää huomiotta, eikä komento `git status` näytä enää niitä:
-
-```console
-$ git status
-On branch main
-Your branch is up-to-date with 'origin/main'.
-
-nothing to commit, working tree clean
-```
-
-Tarkastetaan vielä komennon `git log` avulla repositorion tilanne:
-
-```console
-$ git log
-commit 5e0c95017f89127fea233b55ed88f2f0a2aea852 (HEAD -> main, origin/main)
-Author: Antti Laaksonen <ahslaaks@cs.helsinki.fi>
-Date:   Mon Dec 9 16:37:08 2024 +0200
-
-    Add .gitignore
-
-commit 3b8f8ea11aa4c7afeae3669d1227c17541c5ad81
-Author: Antti Laaksonen <ahslaaks@cs.helsinki.fi>
-Date:   Mon Dec 9 16:34:23 2024 +0200
-
-    First commit
-```
-
-Tässä näkyvät oikealla tavalla kaksi commitia, jotka olemme tehneet. Tästä on hyvä jatkaa projektin kehittämistä.
-
-## Projektin kehitys
-
-Projektin kehityksen aikana hyvä tapa käyttää versionhallintaa on
-
-Tehdään esimerkin vuoksi projektiin muutos, jossa sovellus näyttää viestin `Heipparallaa!` sijasta viestin `Tervetuloa!`. Muutos tulee tiedostoon `app.py` ja haluamme viedä muutoksen versionhallintaan.
-
-Tarkastetaan muutoksen jälkeen projektin tilanne komennolla `git status`:
-
-```console
-$ git status
-On branch main
-Your branch is up-to-date with 'origin/main'.
-
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-	modified:   app.py
-
-no changes added to commit (use "git add" and/or "git commit -a")
-```
-
-Tästä näkee, että tiedosto `app.py` on muuttunut, kuten pitääkin. Komento `git diff` näyttää tarkemmin, miten tiedosto on muuttunut:
-
-```console
-$ git diff
-diff --git a/app.py b/app.py
-index 00cc2a0..28e40dc 100644
---- a/app.py
-+++ b/app.py
-@@ -4,4 +4,4 @@ app = Flask(__name__)
- 
- @app.route("/")
- def index():
--    return "Heipparallaa!"
-+    return "Tervetuloa!"
-```
-
-Tästä näkee, että viesti `Heipparallaa!` on muuttunut muotoon `Tervetuloa!`.
+Komento `git add` lisää tiedoston ehdolle lisättäväksi repositorioon seuraavassa commitissa. Voimme käyttää komentoa näin:
 
 ```console
 $ git add app.py
-$ git commit -m "Change message"
-[main c83aefc] Change message
- 1 file changed, 1 insertion(+), 1 deletion(-)
 ```
 
+Tämän jälkeen on taas hyvä tarkastaa hakemiston tilanne:
 
 ```console
 $ git status
 On branch main
-Your branch is ahead of 'origin/main' by 1 commit.
-  (use "git push" to publish your local commits)
+Your branch is up-to-date with 'origin/main'.
 
-nothing to commit, working tree clean
-$ git log
-commit c83aefc8718cb56a129cfb710dd3271759344d63 (HEAD -> main)
-Author: Antti Laaksonen <ahslaaks@cs.helsinki.fi>
-Date:   Mon Dec 9 18:07:06 2024 +0200
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	new file:   app.py
 
-    Change message
-
-...
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	__pycache__/
+	venv/
 ```
+
+Tilanne näyttää hyvältä, koska tiedosto `app.py` on menossa repositorioon ja alihakemistot eivät ole menossa. Suoritetaan seuraavaksi komento `git commit`, joka tekee muutoksen paikalliseen repositorioon:
 
 ```console
-$ git push
+$ git commit -m "Add application"
+[main d39396c] Add application
+ 1 file changed, 7 insertions(+)
+ create mode 100644 app.py
 ```
+
+Tässä `Add application` on commit-viesti, joka ilmaisee, millä tavalla kyseinen commit muuttaa repositoriota.
+
+Nyt muutos on tehty oman koneemme repositorioon mutta ei vielä GitHubin repositorioon. Suoritetaan vielä komento `git push`, joka kopioi paikallisen repositorion sisällön GitHubiin:
+
+```console
+(venv) $ git push
+```
+
+Tämän komennon suorittamisen jälkeen repositorioon lisätty tiedosto `app.py` näkyy myös GitHubissa.
+
+Tarkastetaan vielä lopuksi repositorion muutoshistoria:
+
+```console
+$ git log
+commit d39396c7fd791c60bc30adcd66cd54a3a44a7112 (HEAD -> main, origin/main, origin/HEAD)
+Author: Antti Laaksonen <ahslaaks@cs.helsinki.fi>
+Date:   Sat Jan 4 17:13:20 2025 +0200
+
+    Add application
+
+commit f1fb51cbbd60f3227d6d02bcd73ab98617d28a39
+Author: Antti Laaksonen <ahslaaks@cs.helsinki.fi>
+Date:   Sat Jan 4 16:37:05 2025 +0200
+
+    Update README.md
+
+commit c8b5097693799c4e542d71cd1cc4acbba7d65a68
+Author: Antti Laaksonen <ahslaaks@cs.helsinki.fi>
+Date:   Sat Jan 4 16:32:30 2025 +0200
+
+    Initial commit
+```
+
+Tilanne näyttää hyvältä, koska äsken tekemämme commit on ilmestynyt listaan aiempien commitien perään.
 
 ## Miten tehdä hyvä commit?
 
