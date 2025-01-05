@@ -6,7 +6,7 @@ hide: true
 
 # Tekninen tarkastuslista
 
-Seuraavan listan avulla voit tarkastaa, että sovelluksesi tekniset asiat ovat kunnossa. Monista tämän sivun aiheista on tarkempaa tietoa kurssimateriaalin muissa osissa.
+Seuraavan listan avulla voit tarkastaa sovellukseen liittyviä teknisiä asioita. Monista listan aiheista on tarkempaa tietoa kurssimateriaalin muissa osissa.
 
 ## Versionhallinta
 

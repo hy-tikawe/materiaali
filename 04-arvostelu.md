@@ -17,6 +17,8 @@ Sovelluksesta on mahdollista saada 0–100 pistettä. Kurssin arvostelussa kokon
 
 Tähdellä (*) merkityistä vaatimuksista tulee saada vähintään yksi piste, jotta kurssista saa suorituksen.
 
+Löydät lisätietoa teknisistä vaatimuksista [teknisestä tarkastuslistasta](../lista).
+
 <style>
 table {display: table; width:100%;}
 </style>
@@ -81,7 +83,7 @@ Vinkki: Pystyt tarkastamaan useimmat yllä olevat asiat [Pylint-työkalun](TODO)
 | Taulut ja sarakkeet on nimetty englanniksi | 1 p | |
 | Taulut ja sarakkeet on nimetty hyvin | 3 p | |
 | Käytetty `REFERENCES`-määrettä, kun viittaus toiseen tauluun | 1 p | |
-| Käytetty `UNIQUE`-määrettä, kun tulee olle eri arvo joka rivillä | 1 p | |
+| Käytetty `UNIQUE`-määrettä, kun tulee olla eri arvo joka rivillä | 1 p | |
 | Ei kyselyjä muotoa `SELECT *` | 1 p | |
 | Pitkät SQL-komennot jaettu usealle riville | 1 p | |
 | Kaikki tiedot haetaan yhdellä SQL-kyselyllä, jos järkevästi mahdollista | 3 p | |
