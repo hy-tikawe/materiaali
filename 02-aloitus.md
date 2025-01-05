@@ -1,10 +1,9 @@
 ---
-title: Aloitussivu
+title: Kurssin aloitus
 permalink: /aloitus/
-hide: true
 ---
 
-# Aloitussivu
+# Kurssin aloitus
 
 Kurssilla toteutetaan web-sovellus käyttäen Python-kieltä ja Flask-kirjastoa. Sovelluksen tiedot tallennetaan SQLite-tietokantaan.
 
@@ -18,7 +17,6 @@ Sovellus tulee toteuttaa niin, että käyttäjät pystyvät lisäämään sovell
 
 Sovelluksen perusvaatimukset ovat:
 
-* Sovelluksessa toteutetaan palvelu, jossa käyttäjät pystyvät jakamaan tietoa toisilleen.
 * Käyttäjä pystyy luomaan tunnuksen ja kirjautumaan sisään sovellukseen.
 * Käyttäjä pystyy lisäämään, muokkaamaan ja poistamaan tietokohteita.
 * Käyttäjä näkee sovellukseen lisätyt tietokohteet.
@@ -33,13 +31,13 @@ Tämän sivun lopussa olevat esimerkkiaiheet selventävät, mitä perusvaatimuks
 
 Tekniset perusvaatimukset ovat:
 
+* Sovellus on toteutettu samaan tapaan kuin kurssimateriaalin esimerkeissä.
 * Sovellus on toteutettu Python-kielellä ja Flask-kirjastoa käyttäen.
 * Sovellus käyttää SQLite-tietokantaa.
 * Kehitystyössä on käytetty Git-versionhallintaa ja GitHub-palvelua.
-* Sovellus on toteutettu samaan tapaan kuin kurssimateriaalin esimerkeissä ja esimerkkisovelluksessa.
 * Sovelluksen käyttöliittymä muodostuu HTML-sivuista.
 * Sovelluksessa ei ole käytetty JavaScript-koodia.
-* Tietokantaa käytetään suoraan SQL-komennoilla (ei esimerkiksi ORMin kautta).
+* Tietokantaa käytetään suoraan SQL-komennoilla (ei ORMin kautta).
 * Sovellus ei käytä kirjaston `flask` lisäksi muita erikseen asennettavia kirjastoja.
 
 ## Esimerkkiaiheita

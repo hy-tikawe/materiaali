@@ -30,7 +30,7 @@ Seuraavan listan avulla voit tarkastaa, että sovelluksesi tekniset asiat ovat k
 
 * Kirjoita kaikki koodi englanniksi. Tämä koskee koodin muuttujien, funktioiden yms. nimiä sekä kommentteja.
 
-* Nimeä muuttujat kuvaavasti mutta älä tarpeettoman pitkästi. Hyvä nimi on esimerkiksi `user_count`, huonoja nimiä ovat `x` ja `total_number_of_users`. Pythonin käytäntönä on, että nimet kirjoitetaan kokonaan pienillä kirjaimilla ja sanojen väliin laitetaan alaviiva. Huomaa, että esimerkiksi Javassa on toisenlainen käytäntö ja muuttuja `user_count` kirjoitettaisiin `userCount`.
+* Nimeä muuttujat ja funktiot kuvaavasti mutta älä tarpeettoman pitkästi. Hyvä nimi on esimerkiksi `user_count`, huonoja nimiä ovat `x` ja `total_number_of_users`. Pythonin käytäntönä on, että nimet kirjoitetaan kokonaan pienillä kirjaimilla ja sanojen väliin laitetaan alaviiva. Huomaa, että esimerkiksi Javassa on toisenlainen käytäntö ja muuttuja `user_count` kirjoitettaisiin `userCount`.
 
 * Pythonissa merkkijonon voi merkitä kahdella tavalla: `'esimerkki'` ja `"esimerkki"`. Valitse toinen tapa ja käytä sitä yhdenmukaisesti kaikkialla koodissa.
 
