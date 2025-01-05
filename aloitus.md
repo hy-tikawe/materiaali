@@ -8,7 +8,7 @@ hide: true
 
 Kurssilla toteutetaan web-sovellus käyttäen Python-kieltä ja Flask-kirjastoa. Sovelluksen tiedot tallennetaan SQLite-tietokantaan.
 
-Löydät sovelluksen toteuttamisen tueksi kurssimateriaalin tältä sivustolta. Lisäksi sinun kannattaa tutustua [esimerkkisovellukseen](../esimerkki).
+Löydät sovelluksen toteuttamisen tueksi kurssimateriaalin tältä sivustolta. Lisäksi sinun kannattaa tutustua [esimerkkisovellukseen](../esimerkki) ja siihen liittyvään videosarjaan.
 
 ## Aiheen valinta
 

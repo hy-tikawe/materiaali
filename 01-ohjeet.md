@@ -21,9 +21,9 @@ Voit keskustella kurssiin liittyvistä asioista kurssin [Discord-ryhmässä](htt
 
 Kurssilla toteutetaan tietokantaa käyttävä web-sovellus. Kurssilla käytetään Python-kieltä, Flask-kirjastoa ja SQLite-tietokantaa sovelluksen toteuttamiseen.
 
-Kurssin [aloitussivu](../aloitus) antaa ohjeet aiheen valintaan ja kuvaa sovellukseen liittyvät perusvaatimukset. Sivulla on esimerkkiaiheita, ja voit myös valita oman aiheen.
+Kurssin [aloitussivu](../aloitus) antaa ohjeet aiheen valintaan ja kuvaa sovellukseen liittyvät perusvaatimukset. Sivulla on joitakin sovelluksen esimerkkiaiheita.
 
-Kurssin [esimerkkisovellus](../esimerkki) on malli siitä, millainen lopullisen sovelluksen tulisi olla. Esimerkkisovelluksen yhteydessä on videosarja, joka näyttää vaihe vaiheelta, miten sovellus on luotu.
+Kurssin [esimerkkisovellus](../esimerkki) on malli siitä, millainen lopullisen sovelluksen tulisi olla. Esimerkkisovellukseen liittyy videosarja, joka näyttää sovelluksen luontiprosessin.
 
 Kurssin [arvostelusivu](../arvostelu) kuvaa tarkemmin kurssin vaatimukset ja arvostelutavan.
 
@@ -34,26 +34,26 @@ Kurssiin kuuluu kolme välipalautusta ja lopullinen palautus. Kaikkien palautust
 ### Välipalautus 1
 
 * Luo GitHubiin julkinen repositorio harjoitustyötä varten. Nimeä repositoriosi kuvaavasti.
-* Valitse projektille aihe ja kirjoita `README.md`-tiedostoon kuvaus, joka esittelee sovelluksen keskeiset toiminnot.
+* Valitse projektille aihe ja kirjoita `README.md`-tiedostoon kuvaus, joka esittelee sovelluksen keskeiset toiminnot. Kirjoita kuvaus samassa muodossa kuin aloitussivun esimerkkiaiheissa ja esimerkkisovelluksessa.
 * Kirjaudu [Labtooliin](https://study.cs.helsinki.fi/labtool/courses/TKT20019.2025.K.K.2) ja ilmoita siellä projektisi GitHub-osoite.
 * Saat seuraavan viikon alussa ohjaajalta palautteen aiheesta Labtooliin.
 
 ### Välipalautus 2
 
 * Tavoitteena on, että sovelluksessa on ainakin seuraavat toiminnot:
-  - Käyttäjä pystyy luomaan tunnuksen ja kirjautumaan sisään
-  - Käyttäjä pystyy lisäämään, muokkaamaan ja poistamaan tietoa
-  - Käyttäjät näkevät toistensa lisäämää tietoa
+  - Käyttäjä pystyy luomaan tunnuksen ja kirjautumaan sisään sovellukseen.
+  - Käyttäjä pystyy lisäämään, muokkaamaan ja poistamaan tietokohteita.
+  - Käyttäjä näkee sovellukseen lisätyt tietokohteet.
+  - Käyttäjä pystyy etsimään tietokohteita hakusanalla tai muulla perusteella.
 * `README.md`-tiedoston tulee kuvata, mikä on sovelluksen nykyinen tilanne.
 * Saat seuraavan viikon alussa ohjaajalta palautteen sovelluksesta Labtooliin.
 
 ### Välipalautus 3
 
 * Tavoitteena on, että sovelluksessa on ainakin seuraavat toiminnot:
-  - Tietoa pystyy ryhmittelemään sovelluksessa
-  - Käyttäjä pystyy lähettämään toissijaista tietoa
-  - Käyttäjä pystyy hakemaan tietoa hakusanalla
-  - Käyttäjillä on sivut, joissa näkyy tilastoja käyttäjistä
+  - Sovelluksessa on käyttäjäsivut, jotka näyttävät tilastoja ja käyttäjän lisäämät tietokohteet.
+  - Käyttäjä pystyy valitsemaan tietokohteelle yhden tai useamman luokittelun. Mahdolliset luokat ovat tietokannassa.
+  - Käyttäjä pystyy lähettämään toisen käyttäjän tietokohteeseen liittyen jotain lisätietoa, joka tulee näkyviin sovelluksessa.
 * `README.md`-tiedoston tulee kuvata, mikä on sovelluksen nykyinen tilanne.
 * Saat seuraavan viikon alussa ohjaajalta palautteen sovelluksesta Labtooliin.
 
