@@ -27,6 +27,8 @@ Kurssin [esimerkkisovellus](../esimerkki) on malli siitä, millainen lopullisen 
 
 Kurssin [arvostelusivu](../arvostelu) kuvaa tarkemmin kurssin vaatimukset ja arvostelutavan.
 
+Kurssilla on sallittua käyttää vapaasti nettilähteitä ja tekoälyä kurssin suorittamisen tukena. Huomaa kuitenkin, että sovelluksen tulee olla kurssin vaatimusten mukainen ja saman tyylinen kuin kurssimateriaalissa.
+
 ## Kurssin eteneminen
 
 Kurssiin kuuluu kolme välipalautusta ja lopullinen palautus. Kaikkien palautusten deadline on klo 23:59 sunnuntaina.
