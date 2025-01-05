@@ -55,7 +55,7 @@ table {display: table; width:100%;}
 ### Versionhallinta (10 p)
 
 | Kehitystyön aikana on tehty commiteja säännöllisesti | 1 p | * |
-| Commit-viestit on kirjoitettu englanniksi | 1 p | * |
+| Commit-viestit on kirjoitettu englanniksi | 1 p | |
 | Commitit ovat hyviä kokonaisuuksia ja niissä on hyvät viestit | 5 p | |
 | Versionhallinnassa ei ole sinne kuulumattomia tiedostoja | 1 p | |
 | Tiedosto `README.md` antaa hyvän kuvan sovelluksesta | 2 p |
