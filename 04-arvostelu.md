@@ -7,7 +7,7 @@ permalink: /arvostelu/
 
 Tälle sivulle on koottu asiat, jotka kurssin ohjaaja käy läpi työsi arvostelussa.
 
-Sovelluksesta on mahdollista saada 0–100 pistettä. Kurssin arvostelussa kokonaispistemäärä muutetaan arvosanaksi seuraavasti:
+Sovelluksesta on mahdollista saada 0–100 pistettä. Kurssin hyväksytty suoritus vaatii, että saat vähintään 50 pistettä. Kurssin arvosana lasketaan näin:
 
 * 50–59 pistettä: arvosana 1
 * 60–69 pistettä: arvosana 2
@@ -15,9 +15,9 @@ Sovelluksesta on mahdollista saada 0–100 pistettä. Kurssin arvostelussa kokon
 * 80–89 pistettä: arvosana 4
 * 90–100 pistettä: arvosana 5
 
-Tähdellä (*) merkityistä vaatimuksista tulee saada vähintään yksi piste, jotta kurssista saa suorituksen.
+Lisäksi jokaisesta tähdellä (*) merkitystä vaatimuksesta tulee saada vähintään yksi piste, jotta kurssista saa suorituksen.
 
-Löydät lisätietoa teknisistä vaatimuksista [teknisestä tarkastuslistasta](../lista).
+Lisätietoa teknisistä vaatimuksista on [teknisessä tarkastuslistassa](../lista).
 
 <style>
 table {display: table; width:100%;}
@@ -45,9 +45,11 @@ table {display: table; width:100%;}
 | Tietokantaa käytetään suoraan SQL-komennoilla (ei ORMia) | 1 p | * |
 | Kirjaston `flask` lisäksi käytössä ei muita erikseen asennettavia kirjastoja | 1 p | * |
 
-### Toimivuus ja käytettävyys (20 p)
+Kaikki nämä vaatimukset täyttyvät, jos toteutat sovelluksen kuten kurssimateriaalissa ja esimerkkisovelluksessa.
 
-| Käyttäjän yleiskokemus sovelluksen toimivuudesta | 10 p | |
+### Toimivuus ja käytettävyys (15 p)
+
+| Käyttäjän yleiskokemus sovelluksen toimivuudesta | 5 p | |
 | Käyttäjän yleiskokemus sovelluksen käytettävyydestä | 5 p | |
 | Käyttäjän lähettämässä tekstissä rivinvaihdot näkyvät selaimessa | 1 p | |
 | Kuvissa käytetty `alt`-attribuuttia (jos sovelluksessa kuvia) | 1 p | |
@@ -64,7 +66,7 @@ table {display: table; width:100%;}
 
 ### Ohjelmointityyli (15 p)
 
-| Yleiskuva koodin laadusta (selkeys ja luettavuus) | 5 p | |
+| Yleiskuva koodin laadusta (selkeys, luettavuus ja tyyli) | 5 p | |
 | Sisennyksen leveys on neljä välilyöntiä | 1 p | |
 | Koodi on kirjoitettu englanniksi | 1 p | |
 | Muuttujien ja funktioiden nimet muotoa `total_count` (ei `totalCount`) | 1 p | |
@@ -99,6 +101,16 @@ Vinkki: Pystyt tarkastamaan useimmat yllä olevat asiat [Pylint-työkalun](../py
 | SQL-komennoissa käytetty parametreja | 2 p | * |
 | Sivut muodostetaan sivupohjien kautta | 2 p | * |
 | Lomakkeissa on estetty CSRF-aukko | 2 p | * |
+
+Jokaisessa kohdassa pistemäärä riippuu siitä, miten kattavasti asia on otettu huomioon sovelluksen koodissa.
+
+### Suuren tietomäärän käsittely (5 p)
+
+| Sovellusta testattu suurella tietomäärällä ja raportoitu tulokset | 3 p | |
+| Sovelluksessa käytössä tietokohteiden sivutus | 1 p | |
+| Tietokantaan lisätty indeksi, joka nopeuttaa suuren tietomäärän käsittelyä | 1 p | |
+
+Sopiva tapa raportoida tulokset on lisätä tiedosto `seed.py` repositorioon ja kirjoittaa tiedostoon `README.md` selostus sovelluksen toiminnasta suurella tietomäärällä.
 
 ### Vertaisarviointi ja palaute (5 p)
 
