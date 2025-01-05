@@ -76,7 +76,7 @@ table {display: table; width:100%;}
 | Ei sulkeita `if`- ja `while`-rakenteiden ehtojen ympärillä | 1 p | |
 | Ei ehtoja tyyliin `result == None` ja `result is None` | 1 p | |
 
-Vinkki: Pystyt tarkastamaan useimmat yllä olevat asiat [Pylint-työkalun](TODO) avulla
+Vinkki: Pystyt tarkastamaan useimmat yllä olevat asiat [Pylint-työkalun](../pylint) avulla
 
 ### Tietokanta-asiat (15 p)
 

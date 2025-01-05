@@ -24,7 +24,7 @@ Seuraavan listan avulla voit tarkastaa sovellukseen liittyviä teknisiä asioita
 
 * [Pythonin tyyliohje](https://www.python.org/dev/peps/pep-0008/) (PEP 8) antaa ohjeita Python-koodin kirjoittamiseen. Tutustu tyyliohjeeseen ja pyri noudattamaan sitä omassa koodissasi.
 
-* [Pylint](TODO) on kätevä työkalu, joka antaa palautetta Python-koodin tyylistä. Sen avulla voit löytää automaattisesti monia ongelmia koodista.
+* [Pylint](../pylint) on kätevä työkalu, joka antaa palautetta Python-koodin tyylistä. Sen avulla voit löytää automaattisesti monia ongelmia koodista.
 
 * Pythonissa sisennyksen leveys on *neljä välilyöntiä*. Paras tapa on säätää editorin asetukset niin, että editori pitää huolta tästä.
 
