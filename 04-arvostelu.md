@@ -114,9 +114,9 @@ Sopiva tapa raportoida tulokset on lisätä tiedosto `seed.py` repositorioon ja 
 
 ### Vertaisarviointi ja palaute (5 p)
 
-| Ensimmäinen vertaisarviointi annettu | 1 p | |
+| Ensimmäinen vertaisarviointi annettu | 1 p | * |
 | Ensimmäinen vertaisarviointi tehty kattavasti | 1 p | |
-| Toinen vertaisarviointi annettu | 1 p | |
+| Toinen vertaisarviointi annettu | 1 p | * |
 | Toinen vertaisarviointi tehty kattavasti | 1 p | |
 | Kurssipalaute annettu | 1 p | |
 

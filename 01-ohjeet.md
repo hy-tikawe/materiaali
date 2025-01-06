@@ -21,13 +21,15 @@ Voit keskustella kurssiin liittyvistä asioista kurssin [Discord-ryhmässä](htt
 
 Kurssilla toteutetaan tietokantaa käyttävä web-sovellus. Kurssilla käytetään Python-kieltä, Flask-kirjastoa ja SQLite-tietokantaa sovelluksen toteuttamiseen.
 
-Kurssin [aloitussivu](../aloitus) antaa ohjeet aiheen valintaan ja kuvaa sovellukseen liittyvät perusvaatimukset. Sivulla on joitakin sovelluksen esimerkkiaiheita.
+[Aloitussivu](../aloitus) antaa ohjeet aiheen valintaan ja kuvaa sovellukseen liittyvät perusvaatimukset. Sivulla on joitakin sovelluksen esimerkkiaiheita.
 
-Kurssin [esimerkkisovellus](../esimerkki) on malli siitä, millainen lopullisen sovelluksen tulisi olla. Esimerkkisovellukseen liittyy videosarja, joka näyttää sovelluksen luontiprosessin.
+[Esimerkkisovellus](../esimerkki) on malli siitä, millainen lopullisen sovelluksen tulisi olla. Esimerkkisovellukseen liittyy videosarja, joka näyttää sovelluksen luontiprosessin.
 
-Kurssin [arvostelusivu](../arvostelu) kuvaa tarkemmin kurssin vaatimukset ja arvostelutavan.
+[Arvostelusivu](../arvostelu) kuvaa tarkemmin kurssin vaatimukset ja arvostelutavan.
 
 Kurssilla on sallittua käyttää vapaasti nettilähteitä ja tekoälyä kurssin suorittamisen tukena. Huomaa kuitenkin, että sovelluksen tulee olla kurssin vaatimusten mukainen ja saman tyylinen kuin kurssimateriaalissa.
+
+[Kysymyksiä ja vastauksia](../kysymykset)
 
 ## Kurssin eteneminen
 
@@ -77,5 +79,5 @@ Kurssiin kuuluu kaksi [vertaisarviointia](../vertaisarviointi), joissa annetaan 
 * Sovellus ja tietokanta rakentuvat pikkuhiljaa ja niihin tulee muutoksia. Kannattaa aloittaa yksinkertaisesta ja muuttaa rakennetta tarvittaessa myöhemmin.
 * Palautuksissa ohjaaja tutustuu projektisi uusimpaan versioon GitHubissa. Pidä huoli siitä, että sovelluksen ajantasainen versio on saatavilla näissä paikoissa.
 * Sovelluksen dokumentaatio luodaan tiedostoon `README.md`, joka näkyy GitHubissa projektin etusivulla. Kirjoita dokumentaatio sellaista henkilöä varten, joka haluaa saada käsityksen sovelluksesta ja mahdollisesti ottaa sen käyttöön itse tai kehittää sovellusta.
-* Oleellinen asia kurssilla on sovelluksen toimivuus: millainen käyttökokemus tulee testaajalle, joka käyttää sovellusta tuotannossa. Jos sovellus ei toimi, muut osa-alueet eivät voi pelastaa sitä.
+* Oleellinen asia kurssilla on sovelluksen toimivuus: millainen käyttökokemus tulee testaajalle, joka käyttää sovellusta. Jos sovellus ei toimi, muut osa-alueet eivät voi pelastaa sitä.
 * Jos jokin asia kurssilla on epäselvä, niin otathan yhteyttä ohjaajaan tai kurssin [vastuuhenkilöön](mailto:ahslaaks@cs.helsinki.fi).

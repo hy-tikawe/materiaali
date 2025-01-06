@@ -1,9 +1,9 @@
 ---
-title: Kurssin aloitus
+title: Projektin aloitus
 permalink: /aloitus/
 ---
 
-# Kurssin aloitus
+# Projektin aloitus
 
 Kurssilla toteutetaan web-sovellus käyttäen Python-kieltä ja Flask-kirjastoa. Sovelluksen tiedot tallennetaan SQLite-tietokantaan.
 
@@ -24,6 +24,8 @@ Sovelluksen perusvaatimukset ovat:
 * Sovelluksessa on käyttäjäsivut, jotka näyttävät tilastoja ja käyttäjän lisäämät tietokohteet.
 * Käyttäjä pystyy valitsemaan tietokohteelle yhden tai useamman luokittelun. Mahdolliset luokat ovat tietokannassa.
 * Käyttäjä pystyy lähettämään toisen käyttäjän tietokohteeseen liittyen jotain lisätietoa, joka tulee näkyviin sovelluksessa.
+
+Voit halutessasi toteuttaa näiden lisäksi sovellukseen muitakin ominaisuuksia.
 
 Tämän sivun lopussa olevat esimerkkiaiheet selventävät, mitä perusvaatimukset tarkoittavat käytännössä.
 
