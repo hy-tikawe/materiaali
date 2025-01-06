@@ -50,6 +50,10 @@ Kurssilla on tavoitteena saada käsitys SQL-tietokantojen ja web-ohjelmoinnin pe
 
 Tällä kurssilla opitaan perinteistä web-ohjelmointia. Jos haluat oppia JavaScriptia ja Reactia, hyvä valinta on kurssi [Full Stack Open](https://fullstackopen.com/).
 
+**Saako käyttää CSS-kirjastoja (kuten Bootstrap)?**
+
+CSS-tyylit tulee toteuttaa itse ilman kirjastoja. Myös tässä on tavoitteena saada matalan tason käsitystä, miten asiat toimivat.
+
 **Miten kurssin ohjaajaksi pääsee?**
 
 Lähetä kurssin suorituksen jälkeen viesti kurssin [vastuuhenkilölle](mailto:ahslaaks@cs.helsinki.fi). Laita viestiin mukaan linkit kurssilla tekemääsi harjoitustyöhön (GitHub-repositorio) sekä antamaasi vertaispalautteeseen.
