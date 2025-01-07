@@ -7,7 +7,7 @@ permalink: /ohjeet/
 
 Kevään 2025 periodin 3 ryhmän aikataulu on seuraava:
 
-| ti 14.1.2025 | Aloitusluento klo 16–18 (Exactum) |
+| ti 14.1.2025 | Aloitusluento klo 16–18 (Exactum D122) |
 | su 19.1.2025 | Välipalautus 1 |
 | su 2.2.2025 | Välipalautus 2 |
 | pe 7.2.2025 | Vertaisarvioinnin deadline |
