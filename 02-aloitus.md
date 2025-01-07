@@ -9,9 +9,11 @@ Kurssilla toteutetaan web-sovellus käyttäen Python-kieltä ja Flask-kirjastoa.
 
 Löydät sovelluksen toteuttamisen tueksi kurssimateriaalin tältä sivustolta. Lisäksi sinun kannattaa tutustua [esimerkkisovellukseen](../esimerkki) ja siihen liittyvään videosarjaan.
 
+Kurssilla käytetään Git-versionhallintaa ja GitHub-palvelua. Jos et tunne näitä ennestään hyvin, sinun kannattaa tutustua myös [Git-ohjeisiin](../git).
+
 ## Aiheen valinta
 
-Sinun kannattaa valita sovellukselle itseäsi kiinnostava aihe. Sovelluksen voi toteuttaa hyvin monenlaisista aiheista, kunhan perusvaatimukset täyttyvät.
+Hyvä aihe sovellukselle on itseäsi kiinnostava aihe. Sovelluksen voi toteuttaa hyvin monenlaisista aiheista, kunhan perusvaatimukset täyttyvät.
 
 Sovellus tulee toteuttaa niin, että käyttäjät pystyvät lisäämään sovellukseen _tietokohteita_. Sovelluksen aiheesta riippuu, mitä tietokohteet ovat käytännössä. Esimerkkisovelluksessa tietokohde on tavaran myynti-ilmoitus.
 
