@@ -15,7 +15,9 @@ Kevään 2025 periodin 3 ryhmän aikataulu on seuraava:
 | pe 21.2.2025 | Vertaisarvioinnin deadline |
 | su 2.3.2025 | Lopullinen palautus |
 
-Voit keskustella kurssiin liittyvistä asioista kurssin [Discord-ryhmässä](https://study.cs.helsinki.fi/discord/join/tikawe), jossa on paikalla kurssin ohjaajia ja opiskelijoita. Kurssilla on myös tarjolla pajaohjausta, josta tulee tarkempaa tietoa myöhemmin.
+Voit keskustella kurssiin liittyvistä asioista kurssin [Discord-ryhmässä](https://study.cs.helsinki.fi/discord/join/tikawe), jossa on paikalla kurssin ohjaajia ja opiskelijoita.
+
+Lisäksi ohjausta on tarjolla Kumpulan kampuksella Exactumin salissa BK107 tiistaisin klo 14–18, keskiviikkoisin klo 12–15 sekä torstaisin klo 10–13.
 
 ## Kurssin yleiskuva
 
