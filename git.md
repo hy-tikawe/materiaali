@@ -427,13 +427,13 @@ Tässä vaiheessa commit näkyy jo tehtyjen commitien listalla:
 $ git log
 commit eff67d3743e37837e99b278c3843b30280e86925 (HEAD -> main)
 Author: Antti Laaksonen <ahslaaks@cs.helsinki.fi>
-Date:   Sat Jan 4 19:18:55 2024 +0300
+Date:   Sat Jan 4 19:18:55 2025 +0300
 
     Change file
 
 commit 7cfdfabca6b021bbe314d77b1ff0718cc415b9d5
 Author: Antti Laaksonen <ahslaaks@cs.helsinki.fi>
-Date:   Sat Jan 4 17:36:10 2024 +0300
+Date:   Sat Jan 4 17:36:10 2025 +0300
 
     First commit
 
@@ -452,7 +452,7 @@ Tämä komento siirtää repositorion tilan yhtä askelta aiemmaksi ja kaikki on
 $ git log
 commit 7cfdfabca6b021bbe314d77b1ff0718cc415b9d5 (HEAD -> main)
 Author: Antti Laaksonen <ahslaaks@cs.helsinki.fi>
-Date:   Sat Jan 4 17:36:10 2020 +0300
+Date:   Sat Jan 4 17:36:10 2025 +0300
 
     First commit
 
