@@ -4,7 +4,7 @@ lang: fi # Or fi for Finnish
 baseurl: "/materiaali"
 url: "https://hy-tikawe.github.io"
 # Uncomment to change the theme color:
-theme_color: '#cccccc'
+theme_color: '#75ced7'
 
 remote_theme: ollpu/jekyll-course-theme@v2
 
