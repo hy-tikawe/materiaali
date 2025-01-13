@@ -31,8 +31,6 @@ Kurssilla toteutetaan tietokantaa käyttävä web-sovellus. Kurssilla käytetä�
 
 Kurssilla on sallittua käyttää vapaasti nettilähteitä ja tekoälyä kurssin suorittamisen tukena. Huomaa kuitenkin, että sovelluksen tulee olla kurssin vaatimusten mukainen ja saman tyylinen kuin kurssimateriaalissa.
 
-[Kysymyksiä ja vastauksia](../kysymykset)
-
 ## Kurssin eteneminen
 
 Kurssiin kuuluu kolme välipalautusta ja lopullinen palautus. Kaikkien palautusten deadline on klo 23:59 sunnuntaina.

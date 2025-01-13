@@ -9,6 +9,8 @@ Kurssilla toteutetaan harjoitustyönä tietokantaa käyttävä web-sovellus. Tot
 
 Kurssi järjestetään kuusi kertaa vuodessa: syksyisin periodeilla 1 ja 2, keväisin periodeilla 3 ja 4 sekä alku- ja loppukesällä. Kurssin suoritukseen kuuluu välipalautuksia ja vertaisarviointeja sekä lopullinen palautus.
 
+[Kysymyksiä ja vastauksia](kysymykset)
+
 ## Kurssin tavoitteet
 
 Kurssin tavoitteina on saada kokemusta tietokannan käyttämisestä sekä web-ohjelmoinnin perusasioista.

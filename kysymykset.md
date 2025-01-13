@@ -36,6 +36,12 @@ Voit osallistua uudestaan kurssille myöhemmin toisella toteutuskerralla. Voit j
 
 Kurssin ohjaaja arvostelee työsi kuukauden kuluessa lopullisen palautuksen deadlinesta. Saat työstä arvion Labtooliin ja sen jälkeen suoritusmerkinnän Sisuun.
 
+**Mitä tehdä kun löysin virheen kurssimateriaalista?**
+
+Kurssimateriaalin lähdekoodi on [GitHubissa](https://github.com/hy-tikawe/materiaali). Jos kyseessä on typo tms. pieni virhe, voit tehdä pull requestin. Jos kyseessä on suurempi ongelma, voit tehdä issuen.
+
+Voit myös ilmoittaa virheestä kurssin vastuuhenkilölle sähköpostitse tai Discordissa.
+
 **Miksi kurssilla käytetään Pythonia/Flaskia/SQLiteä?**
 
 Tämä on yksi hyvä yhdistelmä yksinkertaisen web-sovelluksen toteuttamiseen. Pythonia ja SQLiteä on käytetty aiemmilla kursseilla.
