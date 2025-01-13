@@ -37,9 +37,9 @@ table {display: table; width:100%;}
 ### Tekniset perusvaatimukset (8 p)
 
 | Sovellus toteutettu kurssimateriaalin mukaisesti | 1 p | * |
-| Sovellus on toteutettu Pythonilla käyttäen Flask-kirjastoa | 1 p | * |
+| Sovellus toteutettu Pythonilla käyttäen Flask-kirjastoa | 1 p | * |
 | Sovellus käyttää SQLite-tietokantaa | 1 p | * |
-| Kehitystyössä on käytetty Gitiä ja GitHubia | 1 p | * |
+| Kehitystyössä käytetty Gitiä ja GitHubia | 1 p | * |
 | Sovelluksen käyttöliittymä muodostuu HTML-sivuista | 1 p | * |
 | Sovelluksessa ei ole käytetty JavaScript-koodia | 1 p | * |
 | Tietokantaa käytetään suoraan SQL-komennoilla (ei ORMia) | 1 p | * |
