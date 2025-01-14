@@ -36,6 +36,14 @@ Voit osallistua uudestaan kurssille myöhemmin toisella toteutuskerralla. Voit j
 
 Kurssin ohjaaja arvostelee työsi kuukauden kuluessa lopullisen palautuksen deadlinesta. Saat työstä arvion Labtooliin ja sen jälkeen suoritusmerkinnän Sisuun.
 
+**Voiko sovelluksen tehdä suomeksi/ruotsiksi/englanniksi?**
+
+Sovelluksen käyttöliittymä ja dokumentaation (`README.md`-tiedosto) kieli voi olla suomi, ruotsi tai englanti. Sovelluksen teknisen toteutuksen (koodi, tietokanta, Git-viestit) kielen tulee olla englanti.
+
+**Mitä tarkoittaa "välit oikein" ja muut tekniset vaatimukset?**
+
+Näistä vaatimuksista on lisätietoa [teknisessä tarkastuslistassa](../lista).
+
 **Mitä tehdä kun löysin virheen kurssimateriaalista?**
 
 Kurssimateriaalin lähdekoodi on [GitHubissa](https://github.com/hy-tikawe/materiaali). Jos kyseessä on typo tms. pieni virhe, voit tehdä pull requestin. Jos kyseessä on suurempi ongelma, voit tehdä issuen.
