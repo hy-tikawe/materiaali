@@ -42,7 +42,7 @@ Välipalautuksissa deadline on sunnuntaina ja ohjaajan tulee antaa palaute seura
 
 ## Lopullinen palautus
 
-* Käy läpi [arvostelusivun](/arvostelu) kohdat ja pisteytä jokainen kohta.
+* Käy läpi [arvostelusivun](../arvostelu) kohdat ja pisteytä jokainen kohta.
 * Tarkasta, että opiskelija on tehnyt molemmat vertaisarvioinnit, ja pisteytä ne.
 * Kurssin vastuuhenkilö pystyy luomaan listan, jossa on kurssipalautteen antaneiden opiskelijoiden opiskelijanumerot.
 * Anna opiskelijalle palaute, jossa on jokaisen kohdan pistemäärä, lyhyt sanallinen yleispalaute sekä kurssin arvosana (tai tieto että ei hyväksytty).
