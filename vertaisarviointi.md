@@ -18,8 +18,6 @@ Vertaisarvioinnin ohje:
 
 Huomaa, että "Hyvältä näyttää" tms. ei ole riittävä raportti. Jos työ on jo hyvässä vaiheessa, voit huomauttaa myös pienemmistä asioista. Älä kuitenkaan kirjoita mitään raporttiin vain sen takia, että siihen tulisi enemmän pituutta.
 
-Kun saat palautteen työstäsi toiselta opiskelijalta, mieti, miten voisit parantaa työtä palautteen avulla. Usein ulkopuolinen huomaa asioita, joihin ei ole kiinnittänyt itse huomiota. Kuitenkin voi olla myös, että ei kannata noudattaa palautteen neuvoja.
+Jos saat arvioitavaksi sovelluksen, joka on hyvin alkuvaiheessa (esimerkiksi repositoriossa on pelkkä tiedosto `README.md`), voit kirjoittaa hyvin lyhyen vertaisarvioinnin ja todeta, ettei arvioitavaa ole.
 
-## Esimerkki vertaisarvioinnista
-
-TODO
+Kun saat vertaisarvioinnin omasta työstäsi, koeta parantaa sovellustasi sen avulla. Usein ulkopuolinen huomaa asioita, joihin ei ole kiinnittänyt itse huomiota. Kuitenkin voit saada myös neuvoja, joita ei kannata noudattaa.
