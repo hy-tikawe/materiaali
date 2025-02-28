@@ -75,7 +75,7 @@ Kurssiin kuuluu kaksi [vertaisarviointia](../vertaisarviointi), joissa annetaan 
 ## Ohjeita
 
 * Ennen sovelluksen toteuttamisen aloittamista sinun kannattaa tutustua kurssimateriaaliin ja tehdä pieniä kokeiluja, jotta saat harjoiteltua kurssilla käytettyjä tekniikoita.
-* Neuvoja tietokannan suunnitteluun löydät kurssin _Tietokantojen perusteet_ materiaalista. Erityisesti kurssin materiaalin [luku 6](https://tikape.mooc.fi/syksy-2024/osa6/) on hyödyllinen.
+* Neuvoja tietokannan suunnitteluun löydät kurssin _Tietokantojen perusteet_ materiaalista. Erityisesti kurssin materiaalin [luku 6](https://tikape.mooc.fi/kevat-2025/osa6/) on hyödyllinen.
 * Sovellus ja tietokanta rakentuvat pikkuhiljaa ja niihin tulee muutoksia. Kannattaa aloittaa yksinkertaisesta ja muuttaa rakennetta tarvittaessa myöhemmin.
 * Palautuksissa ohjaaja tutustuu projektisi uusimpaan versioon GitHubissa. Pidä huoli siitä, että sovelluksen ajantasainen versio on saatavilla näissä paikoissa.
 * Sovelluksen dokumentaatio luodaan tiedostoon `README.md`, joka näkyy GitHubissa projektin etusivulla. Kirjoita dokumentaatio sellaista henkilöä varten, joka haluaa saada käsityksen sovelluksesta ja mahdollisesti ottaa sen käyttöön itse tai kehittää sovellusta.
