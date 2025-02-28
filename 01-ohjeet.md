@@ -70,7 +70,7 @@ Kurssiin kuuluu kaksi [vertaisarviointia](../vertaisarviointi), joissa annetaan 
 * Kurssi arvostellaan tämän sovelluksen version perusteella.
 * `README.md`-tiedoston tulee kuvata, millainen lopullinen sovellus.
 * Ohjaaja arvostelee työn ja antaa palautetta Labtooliin. Ohjaaja arvostelee työn kuukauden kuluessa deadlinesta.
-* Anna lisäksi [kurssipalaute](https://norppa.helsinki.fi/targets/84703809) palautuksen deadlineen mennessä.
+* Anna lisäksi [kurssipalaute](https://norppa.helsinki.fi/targets/84703809) viimeistään seuraavana päivänä lopullisen palautuksen deadlinen jälkeen.
 
 ## Ohjeita
 
