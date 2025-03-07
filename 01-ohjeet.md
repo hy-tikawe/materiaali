@@ -7,13 +7,13 @@ permalink: /ohjeet/
 
 Kevään 2025 periodin 3 ryhmän aikataulu on seuraava:
 
-| ti 14.1.2025 | Aloitusluento klo 16–18 (Exactum D122) |
-| su 19.1.2025 | Välipalautus 1 |
-| su 2.2.2025 | Välipalautus 2 |
-| pe 7.2.2025 | Vertaisarvioinnin deadline |
-| su 16.2.2025 | Välipalautus 3 |
-| pe 21.2.2025 | Vertaisarvioinnin deadline |
-| su 2.3.2025 | Lopullinen palautus |
+| ti 11.3.2025 | Aloitusluento klo 16–18 (Exactum D122) |
+| su 16.3.2025 | Välipalautus 1 |
+| su 30.3.2025 | Välipalautus 2 |
+| pe 4.4.2025 | Vertaisarvioinnin deadline |
+| su 13.4.2025 | Välipalautus 3 |
+| pe 18.4.2025 | Vertaisarvioinnin deadline |
+| su 4.5.2025 | Lopullinen palautus |
 
 Voit keskustella kurssiin liittyvistä asioista kurssin [Discord-ryhmässä](https://study.cs.helsinki.fi/discord/join/tikawe), jossa on paikalla kurssin ohjaajia ja opiskelijoita.
 
@@ -39,7 +39,7 @@ Kurssiin kuuluu kolme välipalautusta ja lopullinen palautus. Kaikkien palautust
 
 * Luo GitHubiin julkinen repositorio harjoitustyötä varten. Nimeä repositoriosi kuvaavasti.
 * Valitse projektille aihe ja kirjoita `README.md`-tiedostoon kuvaus, joka esittelee sovelluksen keskeiset toiminnot. Kirjoita kuvaus samassa muodossa kuin aloitussivun esimerkkiaiheissa ja esimerkkisovelluksessa.
-* Kirjaudu [Labtooliin](https://study.cs.helsinki.fi/labtool/courses/TKT20019.2025.K.K.2) ja ilmoita siellä projektisi GitHub-osoite.
+* Kirjaudu [Labtooliin](https://study.cs.helsinki.fi/labtool/courses/TKT20019.2025.K.K.1) ja ilmoita siellä projektisi GitHub-osoite.
 * Saat seuraavan viikon alussa ohjaajalta palautteen aiheesta Labtooliin.
 
 ### Välipalautus 2
@@ -73,7 +73,7 @@ Kurssiin kuuluu kaksi [vertaisarviointia](../vertaisarviointi), joissa annetaan 
 
 ### Kurssipalaute
 
-Anna [kurssipalaute](https://norppa.helsinki.fi/targets/84703809) viimeistään seuraavana päivänä lopullisen palautuksen deadlinen jälkeen. Palaute on anonyymia ja saat palautteen antamisesta yhden kurssipisteen.
+Anna [kurssipalaute](https://norppa.helsinki.fi/targets/84708112) viimeistään seuraavana päivänä lopullisen palautuksen deadlinen jälkeen. Palaute on anonyymia ja saat palautteen antamisesta yhden kurssipisteen.
 
 Kurssipalaute ja vastuuhenkilön kommentit kootaan [palauteyhteenvetoon](../palaute).
 
