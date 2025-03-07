@@ -29,7 +29,7 @@ Kurssilla toteutetaan tietokantaa käyttävä web-sovellus. Kurssilla käytetä�
 
 [Arvostelusivu](../arvostelu) kuvaa tarkemmin kurssin vaatimukset ja arvostelutavan.
 
-Kurssilla on sallittua käyttää vapaasti nettilähteitä ja tekoälyä kurssin suorittamisen tukena. Huomaa kuitenkin, että sovelluksen tulee olla kurssin vaatimusten mukainen ja saman tyylinen kuin kurssimateriaalissa.
+Kurssilla on sallittua käyttää vapaasti tekoälyä [CurreChatin](https://curre.helsinki.fi/chat) (yliopiston ChatGPT-käyttöliittymä) kautta, myös koodin tuottamiseen. Huomaa kuitenkin, että sovelluksen tulee olla kurssin vaatimusten mukainen ja saman tyylinen kuin kurssimateriaalissa. Muut tavat käyttää tekoälyä eivät ole sallittuja kurssilla.
 
 ## Kurssin eteneminen
 
