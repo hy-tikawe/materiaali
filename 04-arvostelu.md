@@ -1,6 +1,7 @@
 ---
 title: Kurssin arvostelu
 permalink: /arvostelu/
+hide: true
 ---
 
 # Kurssin arvostelu

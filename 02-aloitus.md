@@ -1,6 +1,7 @@
 ---
 title: Projektin aloitus
 permalink: /aloitus/
+hide: true
 ---
 
 # Projektin aloitus

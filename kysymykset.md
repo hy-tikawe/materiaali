@@ -70,6 +70,12 @@ Tällä kurssilla opitaan perinteistä web-ohjelmointia. Jos haluat oppia JavaSc
 
 CSS-tyylit tulee toteuttaa itse ilman kirjastoja. Myös tässä on tavoitteena saada matalan tason käsitystä, miten asiat toimivat.
 
+**Millaista palautetta kurssilla on tullut ja miten se vaikuttaa?**
+
+Kurssin [palauteyhteenveto](../palaute) sisältää yhteenvedot kurssin toteutuksilta kerätystä palautteesta sekä kurssin vastuuhenkilön kommentit.
+
+Palaute vaikuttaa kurssin sisällön ja opetuksen kehittämiseen. Kurssin GitHub-repositorioon lisätään [issueita](https://github.com/hy-tikawe/materiaali/issues) palautteen perusteella.
+
 **Miten kurssin ohjaajaksi pääsee?**
 
 Lähetä kurssin suorituksen jälkeen viesti kurssin [vastuuhenkilölle](mailto:ahslaaks@cs.helsinki.fi). Laita viestiin mukaan linkit kurssilla tekemääsi harjoitustyöhön (GitHub-repositorio) sekä antamaasi vertaispalautteeseen.

@@ -1,6 +1,7 @@
 ---
 title: Palauteyhteenveto
 permalink: /palaute/
+hide: true
 ---
 
 # Palauteyhteenveto
