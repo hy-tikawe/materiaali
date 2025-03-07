@@ -31,8 +31,9 @@ table {display: table; width:100%;}
 | Käyttäjä pystyy etsimään tietokohteita hakusanalla tai muulla perusteella | 1 p | * |
 | Käyttäjäsivu näyttää tilastoja ja käyttäjän lisäämät tietokohteet | 1 p | * |
 | Käyttäjä pystyy valitsemaan tietokohteelle yhden tai useamman luokittelun | 1 p | * |
-| Käyttäjä pystyy lähettämään lisätietoa tietokohteeseen | 1 p | * |
+| Käyttäjä pystyy lisäämään tietokohteeseen toissijaisia tietokohteita | 1 p | * |
 
+Sovelluksen perusvaatimukset on kuvattu tarkemin [aloitussivulla](../aloitus).
 
 ### Tekniset perusvaatimukset (8 p)
 
@@ -54,7 +55,7 @@ Kaikki nämä vaatimukset täyttyvät, jos toteutat sovelluksen kuten kurssimate
 | Käyttäjän lähettämässä tekstissä rivinvaihdot näkyvät selaimessa | 1 p | |
 | Kuvissa käytetty `alt`-attribuuttia (jos sovelluksessa kuvia) | 1 p | |
 | Lomakkeissa käytetty `label`-elementtiä | 1 p | |
-| CSS:n avulla toteutettu ulkoasu | 2 p | |
+| CSS:n avulla toteutettu ulkoasu (itse tehty, ei CSS-kirjastoa) | 2 p | |
 
 ### Versionhallinta (10 p)
 
