@@ -159,7 +159,7 @@ Tässä `Add application` on commit-viesti, joka ilmaisee, millä tavalla kysein
 Nyt muutos on tehty oman koneemme repositorioon mutta ei vielä GitHubin repositorioon. Suoritetaan vielä komento `git push`, joka kopioi paikallisen repositorion sisällön GitHubiin:
 
 ```console
-(venv) $ git push
+$ git push
 ```
 
 Tämän komennon suorittamisen jälkeen repositorioon lisätty tiedosto `app.py` näkyy myös GitHubissa.
