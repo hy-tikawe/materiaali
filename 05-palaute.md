@@ -8,6 +8,94 @@ hide: true
 
 Tällä sivulla julkaistaan yhteenvedot kurssin toteutuksilla kerätystä palautteesta.
 
+***
+
+## Kevät 2025 periodi 4
+
+Kurssipalautteen antoi 37 opiskelijaa.
+
+Palautteessa on hyviä ehdotuksia, joiden avulla kurssia voidaan kehittää. Seuraavat aiheet toistuivat palautteessa:
+
+* Kurssilla voisi käytännön tekemisen lisäksi olla enemmän materiaalia, joka antaa taustatietoa siitä, miksi asiat tehdään tietyllä tavalla.
+* Kurssin materiaalia voisi kehittää niin, että tietyt materiaalin sivut olisivat helpommin löydettävissä eivätkä liian monen linkin takana.
+* Kurssilla voisi perustella paremmin, miksi sovelluksessa ei saa käyttää JavaScriptia, tai sallia JavaScriptin käyttäminen joissakin asioissa.
+* Vertaisarviointia voisi kehittää parantamalla ohjeistusta ja kannustaa tekemään arvioinnit paremmin.
+
+### Numeerinen palaute
+
+Arvioi seuraavia väitteitä (1 = täysin eri mieltä, 5 = täysin samaa mieltä):
+
+* Osaamistavoitteet olivat selvät: 4.68
+* Toteutustapa tuki oppimistani: 4.76
+* Materiaalit tukivat oppimistani: 4.84
+* Arviointi mittasi oppimistani: 4.53
+
+Kurssin raskaus (1 = turhan kevyt, 5 = turhan raskas):
+
+* Työmäärä suhteessa opintopisteisiin oli: 2.95
+
+Kurssin kokonaisarvosana:
+
+* Kokonaisarvosana kurssille: 4.68
+
+### Miten kehittäisit kurssia?
+
+* Videoissa näytettiin hyvin, miten sovellus rakennetaan, mutta olisin mielelläni kuullut enemmän siitä, miksi asiat tehdään niin kuin tehdään ja miten ne toimivat
+* Mielestäni kurssin materiaali sopi täydellisesti arvioitavaan osioon, joten en löydä kehitettävää.
+* css kurssimateriaalia voisi mahdollisesti lisätä, muuten kurssimateriaali oli erittäin helposti seurattavissa
+* Ei tule mitään mieleen 
+* Ei tule mieleen kehitettävää, kurssi tuki oppimista erinomaisesti ja oli kokonaisuudessaan hyvin mielenkiintoinen. Esimerkkisovelluksen koodi erosi kuitenkin kurssimateriaalin koodista muutamassa kohdassa mikä saattoi hieman hämmentää. En tiedä oliko tämä tarkoituksella, mutta tämän aiheuttamat ongelmat olivat itse helposti ratkaistavissa. 
+* Osa johdattavista materiaaleista saattoi olla vaikeasti löydettävissä. Esimerkiksi Github-ohjeet ovat johdanto-sivulta kolmen-neljän klikkauksen päässä, kun ne saattavat olla erittäin oleellisia henkilölle, jolle tämä on ensimmäinen githubia ja gitiä versionhallintaan käytettävä kurssi. Ohjeet olivat kuitenkin laadukkaat ja selkeät.
+* Olisi kiva saada lisää aktiivisuutta Discord-kanavalle.
+* Ehkä hieman kattavammat ohjeet vertaisarviointiin. En oikein tiennyt, miten arvioida, kun en saanut käynnistettyä arvioitavaani sovellusta.
+* Sallisin varmaankin JavaScriptin käytön projektissa, mutta toisaalta ymmärrän että sen salliminen tekisi projektien arvioinnista huomattavasti työläämpää.
+* Kokonaisuudessaan kurssi oli hyvä, joissain osioissa olisi voinut olla enemmän esimerkkejä/materiaalia (esim. tietokannan indeksöinti tai optimointi suurelle tietomäärälle).
+* Hakusivujen sivutus olisi hyvä käydä
+* Ei tule mieleen kehitettävää.
+* Ei kehitettävää.
+* Projektin hostauksen opettaminen olisi kiva, jos jostain järjestyisi sopiva hostauspalvelu.
+* Kurssi vaikutti hyvältä tällaisenaan.
+* Mielestäni hyvin toteutettu. Esimerkkivideot auttoivat erittäin paljon.
+* Mielestäni hyvä näinkin.
+* Ei oikein mitään kehitettävää. Kurssi on tällaisenaan hyvä ja tuntui siltä, että kurssin aikana oppi paljon uutta.
+* Jotkin arvosteluperusteista olivat varsin tiukkoja, esim. "Ei kyselyjä muotoa SELECT *" tai "Ei ehtoja tyyliin result == None ja result is None". Mielestäni näitä voisi katsoa enemmänkin tapauskohtaisesti, sillä joskus tällaisten kohtien välttely voi johtaa epäselvempään koodiin.
+* Selkeämmin arvosteluperusteet
+* Kehittäisin materiaaleissa sen, että selitettäis luennoilla enemmän miten asiat oikeesti toimii. Mielestäni oli hankala hahmottaa esim. html ja app.py tiedostojen yhdistämistä. 
+* Ymmärrän miksei kurssilla saa käyttää javascriptiä. Olen kuitenkin sitä mieltä että tämä kielto kuitenkin aiheuttaa myös teennäisiä rajoituksia toiminnallisuuteen mitä sovelluksessa on mahdollista tehdä ja mitä ei. Tavoitteena lienee oppia web ohjelmoinnin perusteet eli ymmärtää miten tietokannasta haetaan tietoa sovellukseen näytettäväksi ja miten sitä voidaan manipuloida osana tätä prosessia (html + css). Pienet javascript funktiot jotka esim. dynaamisesti päivittävät kenttiä mahdollistaisi kuitenkin paljon käyttäjäystävällisemmän (ja modernimman) käyttökokemuksen viemättä fokusta pois oppimistavoitteista. Tätä ehkä voisi pohtia onko järkevää rajoittaa javascriptiä täysin pois.
+* Kurssimateriaalissa useita "piilosivuja", jotka löytyvät vain linkkeinä tekstin seasta. Nämä voisivat olla kerättynä sivupalkkiin/erilliselle sivulle koottuna kaikki. (Esim. jos etsit Pylint-ohjeistusta, sinun pitää osata navigoida Ohjeet ja aikataulu -> Arvostelusivu -> Tekninen tarkastuslista -> Pylint-työkalu.)  Ei ohjeistusta, kuinka tietokannan kuormittaminen tehdään, olisi ollut tarpeellinen
+* Voisiko kaikki suorittamiseen liittyvät ohjeet kerätä yhdelle sivulle?
+* Hyvä kokonaisuus, ei oikeastaan kehittämistä! 
+* en osaa sanoa
+* Itse tykkään luennoista. Olisi ollut kiva jos tälläkin kurssilla olisi ollut luentoja, vaikka sinänsä toteutus ei vaadi niitä. 
+* Loistava kurssi, en keksi parannusehdotuksia.
+* Materiaalissa voisi olla enemmän tietokannan virheiden käsittelystä esimerkiksi miten try/exceptiä käytetään SQL-komennon ympärillä aiheellisesti ja miksi yleinen try/except on huono.
+* Ei tule mieleen kehityskohteita.
+* Kurssi oli todella hyvin toteutettu, olisi tietysti mukava saada enemmän palautetta ja väliarviointeja, mutta ottaen huomioon työmäärän, joka tästä aiheutuu, tämä toteutus oli myös todella hyvä.
+* Arviointi sivua vosi mielestäni tehdä selkeämmäksi pisteytyksen suhteen.
+* Ei ideaa
+* Kurssilla mielestäni voitaisiin ottaa käyttöön myös JS-menetelmiä, joilla saisi mielekiintoisempia ja haastavampia tilanteita sovelluksen kehittämiseen.
+*  Olisi kiva jos tarjoaisitte kurssia englanniksi myös. 
+
+### Muita huomioita
+
+* Oli erittäin hyvä, että tekoälyn käyttäminen kurssilla oli sallittua, sillä tässä tuli hyvin opittua, että tekoäly korjaa yhden bugin tekemällä kaksi lisää. Tuli opittua kantapään kautta, ettei siitä juuri ole oikeasti hyötyä!
+* Kiitos mielenkiintoisesta kurssista! Käytännön näkökulmasta opettavat kurssit ovat aina hyödyllisiä.
+* Materiaali oli loistava ja sitä oli helppo seurata. Hyvä kurssi, josta opin paljon. Kiitos!
+* Erinomainen kurssi, projektiluonteisuus ja useasti saatu opettaja- että vertaispalaute tekevät kurssistä pedagogisesti älyttömän toimivan. Alkuun tuntui olla vaikea päästä, kun tietokantakurssista oli hetki ja ensimmäistä kertaa kokeilin githubia, linux-ympäristöä ja nettisivujen kanssa koodaamista. Alkuun päästettyä kurssi oli kuitenkin mainio. Kiitos kurssista!
+* Videot loistavia, tein oikeastaan koko kurssin katsomalla videon ja sen jälkeen tekemällä omaan sovellukseen asiat. 
+* Pidin kurssista, mielestäni oli hyvä että pystyi sekä katsomaan videoita että lukemaan kurssimateriaalia
+* En ole täysin varma vertaisarvioiden laadusta. Tekisi mieli sanoa että osa ei ole juurikaan käyttänyt aikaa niiden tekemiseen ja niistä saatu arvo on vähän niin ja näin. Ei tietenkään ole mitään keinoa pakottaa tiettyä tasoa / laatua mikä tekee siitä haasteellista. Ehkäpä olisi mahdollista lisätä siihen vertaisarvioon esim. dialogi kehittäjän ja issuen tekijän välille jolloin esim. jotain bugista tai ehdotuksesta voisi käydä dialogia ja jopa tehdä itsellensä taskin joka sitten toteutetaan.
+* Kiitos paljon kurssista! Ylivoimaisesti paras tänä vuonna suorittamani kurssi!
+* Todella mukava kurssi!
+* Kurssin esitietovaatimuksiin voisi lisätä html alkeet. Onneksi itse oli jonkinnäköinen tausta, mutta olisi ollut todella raskas oppia sitä samalla.
+* Tosi hyvä kurssi!
+* Kiitos kurssista ja hyvää kesää
+* Arvostelukriteereistä sekä githubin käytöstä olisi voinu olla heti kurssin alussa ensimmäisenä laitettu jokin esittely ja/tai huomautus. En itse päässyt aloitusluennolle, joten voi olla, että siellä käytiin nämä läpi. Minulle selvis vasta myöhemmin nämä ja en esimerkiksi committeja voi enää muuttaa? Eikä github ole ennalta mitenkään tuttu. 
+* Todella kiva ja onnistunut kurssi! Vaikka kurssi perustui lähinnä itsenäiseen työskentelyyn, en kokenut sitä raskaaksi, toisin kuin joidenkin muiden samantyyppisten kurssien kanssa on saattanut käydä. Esimerkkisovellukset ja materiaali olivat hyvät, ja erityisesti videoista oli hyötyä ja niitä oli mukava katsoa :)
+* Kurssin suorittaminen onnistui hyvin, kun aloitti oman sovelluksen tekemisen ajoissa. Kurssin ohjevideoista oli tosi iso apu oman sovelluksen tekemisessä. Arviointiperusteet olivat selvät. Oli hyvä, että ennen tätä kurssia ehti kurssin esitietovaatimusten lisäksi käydä myös kurssin "Tietokone työvälineenä", jossa harjoiteltiin komentorivin, Gitin ja GitHubin käyttöä sekä hieman HTML- ja CSS-kieliä.
+
+***
+
 ## Kevät 2025 periodi 3
 
 Kurssipalautteen antoi 22 opiskelijaa.
