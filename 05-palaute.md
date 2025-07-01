@@ -10,6 +10,50 @@ Tällä sivulla julkaistaan yhteenvedot kurssin toteutuksilla kerätystä palaut
 
 ***
 
+## Alkukesä 2025
+
+Kurssipalautteen antoi 9 opiskelijaa.
+
+Palautteessa tulee esille kurssin kehityskohteina ulkoasun suunnittelu (mukaan lukien CSS-kieli) sekä myös mahdollisia uusia aiheita.
+
+Kurssin vastuuhenkilön vaikutelma on, että kurssi voisi olla hieman nykyistä raskaampi ja sille voisi lisätä jonkin verran uutta sisältöä. Kurssin kehitys jatkuu ensi lukuvuonna.
+
+### Numeerinen palaute
+
+Arvioi seuraavia väitteitä (1 = täysin eri mieltä, 5 = täysin samaa mieltä):
+
+* Osaamistavoitteet olivat selvät: 5.00
+* Toteutustapa tuki oppimistani: 4.88
+* Materiaalit tukivat oppimistani: 5.00
+* Arviointi mittasi oppimistani: 4.62
+
+Kurssin raskaus (1 = turhan kevyt, 5 = turhan raskas):
+
+* Työmäärä suhteessa opintopisteisiin oli: 3.00
+
+Kurssin kokonaisarvosana:
+
+* Kokonaisarvosana kurssille: 4.88
+
+### Miten kehittäisit kurssia?
+
+* Would love to learn more about CSS
+* null
+* Voisi olla hieman automaatiotestausta. Toinen asia. Oikeissa sovelluksissa pitää lokittaa. Siitä voisi puhua myös yliopistossa. Helpoittaa olellisesti tuotantohäiriöiden selvittelyä.
+* Olen taustaltani käyttöliittymäsuunnittelija ja toiminut käytettävyysasiantuntijoiden ja käyttökokemussuunnittelijoiden esimiehenä. Kiinnitin huomiota esimerkkisovelluksen käyttöliittymän vaatimattomaan ulkoasuun. Esimerkki näyttäisi vertaisarviointiin tulleiden töiden perusteella ohjaavan opiskelijoita toteuttamaan sovelluksensa hyvin pelkistettyllä tyylillä. Kurssimateriaali on korkeatasoista muilta osin, mutta käyttöliittymän ulkoasun ja css-tyylien kohdalla jäädään heikolle tasolle. Opiskelijat käyttävät usein harjoitustöitä työnäytteinä, joten olisi hyvä panostaa harjoitustöissä myös käyttöliittymään ja ulkoasuun. Vertailun vuoksi Aalto-yliopiston opiskelijoiden harjoitustyöt, joita olen nähnyt, ovat tyypillisesti ulkoasultaan viimeistellympiä. 
+* Ryhmätapaamisista voisi olla hyötyä 
+* Kurssimateriaalista löytyy hyödyllisiä ohjeita mm. Gitin sekä Pylintin käyttämisestä. Ne ovat kuitenkin hieman piilossa eri sivujen linkkien takana. Ne saattavat helposti jäädä huomaamatta, jos ohjeita ei lue huolellisesti läpi. Lisäksi alussa oli vähän vaikea muistaa, mistä nämä linkit löytyivät. Olisi hyvä, jos ne löytyisivät jostain näkyvämmästä tai keskeisemmästä paikasta.
+* HTML syntaksia ja komentoja voisi käydä paremmin läpi tai niistä voisi tehdä kokonaan oman koosteen.
+* Kurssi on toteutettu äärimmäisen hyvin sen joustavuuden ja omatoimisuuden johdosta. Solveltuu erinomaisesti kesäkurssiksi.
+* ehkä videot voisivat olla vielä kattavammat koska itse käytin pitkälti ainakin niitä!
+
+### Muita huomioita
+
+* Erittäin mukava kurssi, ja välipalautteet ovat olleet hyödyllisiä, kiitos!
+* I asked for help on Labtool, but never got an answer. :/
+
+***
+
 ## Kevät 2025 periodi 4
 
 Kurssipalautteen antoi 37 opiskelijaa.
