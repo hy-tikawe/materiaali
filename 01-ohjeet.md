@@ -7,13 +7,13 @@ permalink: /ohjeet/
 
 Kevään 2025 periodin 3 ryhmän aikataulu on seuraava:
 
-| ti 13.5.2025 | Aloitusluento klo 16–18 (Exactum D122) |
-| su 18.5.2025 | Välipalautus 1 |
-| su 1.6.2025 | Välipalautus 2 |
-| pe 6.6.2025 | Vertaisarvioinnin deadline |
-| su 15.6.2025 | Välipalautus 3 |
-| pe 20.6.2025 | Vertaisarvioinnin deadline |
-| su 29.6.2025 | Lopullinen palautus |
+| ke 16.7.2025 | Aloitusluento klo 14–16 (Chemicum A128) |
+| su 20.7.2025 | Välipalautus 1 |
+| su 3.8.2025 | Välipalautus 2 |
+| pe 8.8.2025 | Vertaisarvioinnin deadline |
+| su 17.8.2025 | Välipalautus 3 |
+| pe 22.8.2025 | Vertaisarvioinnin deadline |
+| su 31.8.2025 | Lopullinen palautus |
 
 Voit keskustella kurssiin liittyvistä asioista kurssin [Discord-ryhmässä](https://study.cs.helsinki.fi/discord/join/tikawe), jossa on paikalla kurssin ohjaajia ja opiskelijoita.
 
@@ -37,7 +37,7 @@ Kurssiin kuuluu kolme välipalautusta ja lopullinen palautus. Kaikkien palautust
 
 * Luo GitHubiin julkinen repositorio harjoitustyötä varten. Nimeä repositoriosi kuvaavasti.
 * Valitse projektille aihe ja kirjoita `README.md`-tiedostoon kuvaus, joka esittelee sovelluksen keskeiset toiminnot. Kirjoita kuvaus samassa muodossa kuin aloitussivun esimerkkiaiheissa ja esimerkkisovelluksessa.
-* Kirjaudu [Labtooliin](https://study.cs.helsinki.fi/labtool/courses/TKT20019.2025.V.K.1) ja ilmoita siellä projektisi GitHub-osoite.
+* Kirjaudu [Labtooliin](https://study.cs.helsinki.fi/labtool/courses/TKT20019.2025.V.K.2) ja ilmoita siellä projektisi GitHub-osoite.
 * Saat seuraavan viikon alussa ohjaajalta palautteen aiheesta Labtooliin.
 
 ### Välipalautus 2
@@ -71,14 +71,14 @@ Kurssiin kuuluu kaksi [vertaisarviointia](../vertaisarviointi), joissa annetaan 
 
 ### Kurssipalaute
 
-Anna [kurssipalaute](https://norppa.helsinki.fi/targets/84703195) viimeistään seuraavana päivänä lopullisen palautuksen deadlinen jälkeen. Palaute on anonyymia ja saat palautteen antamisesta yhden kurssipisteen.
+Anna [kurssipalaute](https://norppa.helsinki.fi/targets/84701710) viimeistään seuraavana päivänä lopullisen palautuksen deadlinen jälkeen. Palaute on anonyymia ja saat palautteen antamisesta yhden kurssipisteen.
 
 Kurssipalaute ja vastuuhenkilön kommentit kootaan [palauteyhteenvetoon](../palaute).
 
 ## Ohjeita
 
 * Ennen sovelluksen toteuttamisen aloittamista sinun kannattaa tutustua kurssimateriaaliin ja tehdä pieniä kokeiluja, jotta saat harjoiteltua kurssilla käytettyjä tekniikoita.
-* Neuvoja tietokannan suunnitteluun löydät kurssin _Tietokantojen perusteet_ materiaalista. Erityisesti kurssin materiaalin [luku 6](https://tikape.mooc.fi/kevat-2025/osa6/) on hyödyllinen.
+* Neuvoja tietokannan suunnitteluun löydät kurssin _Tietokantojen perusteet_ materiaalista. Erityisesti kurssin materiaalin [luku 6](https://tikape.mooc.fi/kesa-2025/osa6/) on hyödyllinen.
 * Sovellus ja tietokanta rakentuvat pikkuhiljaa ja niihin tulee muutoksia. Kannattaa aloittaa yksinkertaisesta ja muuttaa rakennetta tarvittaessa myöhemmin.
 * Palautuksissa ohjaaja tutustuu projektisi uusimpaan versioon GitHubissa. Pidä huoli siitä, että sovelluksen ajantasainen versio on saatavilla näissä paikoissa.
 * Sovelluksen dokumentaatio luodaan tiedostoon `README.md`, joka näkyy GitHubissa projektin etusivulla. Kirjoita dokumentaatio sellaista henkilöä varten, joka haluaa saada käsityksen sovelluksesta ja mahdollisesti ottaa sen käyttöön itse tai kehittää sovellusta.
