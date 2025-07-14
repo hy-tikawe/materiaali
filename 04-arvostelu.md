@@ -40,7 +40,8 @@ Sovelluksen perusvaatimukset on kuvattu tarkemmin [aloitussivulla](../aloitus).
 | Sovelluksen käyttöliittymä muodostuu HTML-sivuista | 1--5 |
 | Sovelluksessa ei ole käytetty JavaScript-koodia | 1--5 |
 | Tietokantaa käytetään suoraan SQL-komennoilla (ei ORMia) | 1--5 |
-| Kirjaston `flask` lisäksi käytössä ei muita erikseen asennettavia kirjastoja | 1--5 |
+| Flaskin lisäksi käytössä ei muita erikseen asennettavia Python-kirjastoja | 1--5 |
+| Sovelluksen ulkoasu (HTML/CSS) on toteutettu itse ilman kirjastoja | 1--5 |
 
 ### Toimivuus ja käytettävyys
 

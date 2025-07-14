@@ -42,9 +42,10 @@ Tekniset perusvaatimukset ovat:
 * Sovelluksen käyttöliittymä muodostuu HTML-sivuista.
 * Sovelluksessa ei ole käytetty JavaScript-koodia.
 * Tietokantaa käytetään suoraan SQL-komennoilla (ei ORMin kautta).
-* Sovellus ei käytä kirjaston `flask` lisäksi muita erikseen asennettavia kirjastoja.
+* Sovellus ei käytä Flaskin lisäksi muita erikseen asennettavia Python-kirjastoja.
+* Sovelluksen ulkoasu (HTML/CSS) on toteutettu itse ilman kirjastoja.
 
-Huomaa, että kirjasto `flask` tuo mukanaan automaattisesti joitakin muita kirjastoja (kuten `werkzeug`), joiden käyttäminen on sallittua.
+Huomaa, että Flask-kirjasto tuo mukanaan automaattisesti joitakin muita kirjastoja (kuten Werkzeug), joiden käyttäminen on sallittua.
 
 ## Sovelluksen kieli
 
