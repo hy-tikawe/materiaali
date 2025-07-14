@@ -74,6 +74,12 @@ Ulkoasu (HTML/CSS) tulee toteuttaa itse ilman kirjastoja. Myös tässä on tavoi
 
 Sovellus tulee toteuttaa ilman fonttikirjastoa.
 
+**Miksei kurssilla käytetä tyyppivihjeitä Python-koodissa?**
+
+Tämän kurssin kaltaisessa ohjelmoinnissa Pythonin tyyppivihjeet eivät ehkä ole kovin hyödyllisiä. Voit kuitenkin halutessasi käyttää tyyppivihjeitä omassa projektissasi.
+
+Kuitenkin jos käytät tyyppivihjeitä, ota huomioon, että sovelluksen testaajalla ei ole välttämättä uutta Python-versiota. Olisi ikävää, että sovellustasi ei pystyisi testaamaan vain sen takia, että tyyppivihje vaatisi uudemman Python-version.
+
 **Millaista palautetta kurssilla on tullut ja miten se vaikuttaa?**
 
 Kurssin [palauteyhteenveto](../palaute) sisältää yhteenvedot kurssin toteutuksilta kerätystä palautteesta sekä kurssin vastuuhenkilön kommentit.
