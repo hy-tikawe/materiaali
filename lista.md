@@ -74,19 +74,6 @@ Seuraavan listan avulla voit tarkastaa sovellukseen liittyviä teknisiä asioita
   ```python
   if status == 1:
   ```
-* Pythonissa `None` tulkitaan epätodeksi vertailussa. Tämän ansiosta seuraavat ehdot vastaavat toisiaan:
-  ```python
-  if result == None:
-  if result is None:
-  if not result:
-  ```
-  Vastaavasti seuraavat ehdot vastaavat toisiaan:
-  ```python
-  if result != None:
-  if result is not None:
-  if result:
-  ```
-  Molemmissa tapauksissa hyvää tyyliä on käyttää viimeistä tapaa, joka on lyhin.
   
 ## Tietokanta-asiat
 
