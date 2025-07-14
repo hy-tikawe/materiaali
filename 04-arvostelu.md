@@ -29,7 +29,7 @@ table {display: table; width:100%;}
 | Käyttäjä pystyy valitsemaan tietokohteelle yhden tai useamman luokittelun | 1--5 |
 | Käyttäjä pystyy lisäämään tietokohteeseen toissijaisia tietokohteita | 1--5 |
 
-Sovelluksen perusvaatimukset on kuvattu tarkemin [aloitussivulla](../aloitus).
+Sovelluksen perusvaatimukset on kuvattu tarkemmin [aloitussivulla](../aloitus).
 
 ### Tekniset perusvaatimukset
 
@@ -113,6 +113,6 @@ Sopiva tapa raportoida tulokset on lisätä tiedosto `seed.py` repositorioon ja 
 | Ensimmäinen vertaisarviointi tehty kattavasti | 4--5 |
 | Toinen vertaisarviointi annettu | 1--5 |
 | Toinen vertaisarviointi tehty kattavasti | 4--5 |
-| Kurssipalaute annettu | 5 |
+| Kurssipalaute annettu | 4--5 |
 
 Kurssin vastuuhenkilö saa palautejärjestelmästä listan opiskelijoista, jotka ovat antaneet palautteen. Järjestelmästä ei näe, kuka on antanut tietyn palautteen.
