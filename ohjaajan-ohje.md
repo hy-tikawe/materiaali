@@ -59,3 +59,23 @@ Välipalautuksen jälkeen merkitse Labtooliin pistemäärä, joka ilmaisee, mite
 * Tarkasta, että opiskelija on tehnyt molemmat vertaisarvioinnit, ja pisteytä ne Labtoolissa (1 = arviointi tehty, 2 = kattava arviointi).
 * Kurssin vastuuhenkilö pystyy luomaan listan, jossa on kurssipalautteen antaneiden opiskelijoiden opiskelijanumerot.
 * Anna opiskelijalle palaute, jossa on tieto kunkin kriteerin täyttymisestä, lyhyt sanallinen yleispalaute sekä kurssin arvosana (tai tieto että ei hyväksytty).
+
+Pylint ja grep ovat käteviä työkaluja sovelluksen arvioinnissa. Esimerkiksi seuraava komento etsii kaikista `.py`-tiedostoista liian pitkiä rivejä:
+
+```console
+$ pylint *.py | grep line-too-long
+```
+
+Tämän kurssin arvioinnin kannalta keskeisiä ovat:
+
+* `bad-indentation`: väärä sisennys
+* `line-too-long`: liian pitkä rivi
+* `invalid-name`: väärin nimetty muuttuja/funktio
+* `bad-whitespace`: virhe välien käytössä
+* `superfluous-parens`: ylimääräiset sulkeet
+
+Komento grep on muutenkin hyödyllinen. Esimerkiksi seuraava komento etsii HTML-tiedostoista kohtia, jotka viittaavat JavaScriptin käyttämiseen:
+
+```console
+$ grep script *.html
+```
