@@ -44,6 +44,8 @@ Tekniset perusvaatimukset ovat:
 * Tietokantaa käytetään suoraan SQL-komennoilla (ei ORMin kautta).
 * Sovellus ei käytä kirjaston `flask` lisäksi muita erikseen asennettavia kirjastoja.
 
+Huomaa, että kirjasto `flask` tuo mukanaan automaattisesti joitakin muita kirjastoja (kuten `werkzeug`), joiden käyttäminen on sallittua.
+
 ## Esimerkkiaiheita
 
 ### Ruokareseptit
