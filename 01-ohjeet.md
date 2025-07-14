@@ -17,6 +17,13 @@ Kevään 2025 periodin 3 ryhmän aikataulu on seuraava:
 
 Voit keskustella kurssiin liittyvistä asioista kurssin [Discord-ryhmässä](https://study.cs.helsinki.fi/discord/join/tikawe), jossa on paikalla kurssin ohjaajia ja opiskelijoita.
 
+## Tärkeät deadlinet
+
+- Välipalautuksen 1 deadlineen mennessä sinun tulee kirjautua Labtooliin ja ilmoittaa siellä linkki sovelluksesi Github-repositorioon.
+- Välipalautuksen 2 deadlineen mennessä repositoriossasi tulee olla koodia.
+- Vertaisarvioinnit ovat pakollisia, ja sinun tulee tehdä kumpikin arviointi deadlineen mennessä.
+- Sovelluksen tulee olla valmis lopullisen palautuksen deadlineen mennessä.
+
 ## Kurssin yleiskuva
 
 Kurssilla toteutetaan tietokantaa käyttävä web-sovellus. Kurssilla käytetään Python-kieltä, Flask-kirjastoa ja SQLite-tietokantaa sovelluksen toteuttamiseen.
@@ -32,6 +39,8 @@ Kurssilla on sallittua käyttää vapaasti tekoälyä [CurreChatin](https://curr
 ## Kurssin eteneminen
 
 Kurssiin kuuluu kolme välipalautusta ja lopullinen palautus. Kaikkien palautusten deadline on klo 23:59 sunnuntaina.
+
+Välipalautuksen ja palautuksen tekemiseen riittää, että repositoriosi on ajan tasalla. Sinun ei tarvitse tehdä mitään erityistä Labtoolissa palautusta varten.
 
 ### Välipalautus 1
 
@@ -80,7 +89,7 @@ Kurssipalaute ja vastuuhenkilön kommentit kootaan [palauteyhteenvetoon](../pala
 * Ennen sovelluksen toteuttamisen aloittamista sinun kannattaa tutustua kurssimateriaaliin ja tehdä pieniä kokeiluja, jotta saat harjoiteltua kurssilla käytettyjä tekniikoita.
 * Neuvoja tietokannan suunnitteluun löydät kurssin _Tietokantojen perusteet_ materiaalista. Erityisesti kurssin materiaalin [luku 6](https://tikape.mooc.fi/kesa-2025/osa6/) on hyödyllinen.
 * Sovellus ja tietokanta rakentuvat pikkuhiljaa ja niihin tulee muutoksia. Kannattaa aloittaa yksinkertaisesta ja muuttaa rakennetta tarvittaessa myöhemmin.
-* Palautuksissa ohjaaja tutustuu projektisi uusimpaan versioon GitHubissa. Pidä huoli siitä, että sovelluksen ajantasainen versio on saatavilla näissä paikoissa.
+* Palautuksissa ohjaaja tutustuu projektisi uusimpaan versioon GitHubissa. Pidä huoli siitä, että GitHubissa on sovelluksesi ajantasainen versio.
 * Sovelluksen dokumentaatio luodaan tiedostoon `README.md`, joka näkyy GitHubissa projektin etusivulla. Kirjoita dokumentaatio sellaista henkilöä varten, joka haluaa saada käsityksen sovelluksesta ja mahdollisesti ottaa sen käyttöön itse tai kehittää sovellusta.
 * Oleellinen asia kurssilla on sovelluksen toimivuus: millainen käyttökokemus tulee testaajalle, joka käyttää sovellusta. Jos sovellus ei toimi, muut osa-alueet eivät voi pelastaa sitä.
 * Jos jokin asia kurssilla on epäselvä, niin otathan yhteyttä ohjaajaan tai kurssin [vastuuhenkilöön](mailto:ahslaaks@cs.helsinki.fi).
