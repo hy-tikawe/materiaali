@@ -48,6 +48,8 @@ Välipalautuksen ja palautuksen tekemiseen riittää, että repositoriosi on aja
 * Valitse projektille aihe ja kirjoita `README.md`-tiedostoon kuvaus, joka esittelee sovelluksen keskeiset toiminnot. Kirjoita kuvaus samassa muodossa kuin aloitussivun esimerkkiaiheissa ja esimerkkisovelluksessa.
 * Kirjaudu [Labtooliin](https://study.cs.helsinki.fi/labtool/courses/TKT20019.2025.V.K.2) ja ilmoita siellä projektisi GitHub-osoite.
 * Saat seuraavan viikon alussa ohjaajalta palautteen aiheesta Labtooliin.
+* Vinkkejä palautukseen:
+  - Valitse repositorion nimi niin, että se kuvaa hyvin sovellustasi. Esimerkiksi jos teet reseptisovelluksen, voit valita esimerkiksi nimen `reseptit`.
 
 ### Välipalautus 2
 
@@ -58,6 +60,9 @@ Välipalautuksen ja palautuksen tekemiseen riittää, että repositoriosi on aja
   - Käyttäjä pystyy etsimään tietokohteita hakusanalla tai muulla perusteella.
 * `README.md`-tiedoston tulee kuvata, mikä on sovelluksen nykyinen tilanne.
 * Saat seuraavan viikon alussa ohjaajalta palautteen sovelluksesta Labtooliin.
+* Vinkkejä palautukseen:
+  - Anna `README.md`-tiedostossa ohjeet siihen, miten sovelluksen testaaja saa käynnistettyä sovelluksen omalla koneellaan.
+  - Tiedosto `database.db` ei kuulu repositorioon. Sovelluksen testaajan pitäisi pystyä luomaan tietokanta `.sql`-tiedostojen perusteella.
 
 ### Välipalautus 3
 
@@ -67,6 +72,9 @@ Välipalautuksen ja palautuksen tekemiseen riittää, että repositoriosi on aja
   - Käyttäjä pystyy lähettämään toisen käyttäjän tietokohteeseen liittyen jotain lisätietoa, joka tulee näkyviin sovelluksessa.
 * `README.md`-tiedoston tulee kuvata, mikä on sovelluksen nykyinen tilanne.
 * Saat seuraavan viikon alussa ohjaajalta palautteen sovelluksesta Labtooliin.
+* Vinkkejä palautukseen:
+  - Muista estää sovelluksessasi CSRF-aukko kurssimateriaalin mukaisesti.
+  - Pylint on hyödyllinen työkalu, jonka avulla voit saada ehdotuksia koodisi parantamiseksi.
 
 ### Vertaisarviointi
 
@@ -75,7 +83,7 @@ Kurssiin kuuluu kaksi [vertaisarviointia](../vertaisarviointi), joissa annetaan 
 ### Lopullinen palautus
 
 * Kurssi arvostellaan tämän sovelluksen version perusteella.
-* `README.md`-tiedoston tulee kuvata, millainen lopullinen sovellus.
+* `README.md`-tiedoston tulee kuvata, millainen lopullinen sovellus on.
 * Ohjaaja arvostelee työn ja antaa palautetta Labtooliin. Ohjaaja arvostelee työn kuukauden kuluessa deadlinesta.
 
 ### Kurssipalaute
