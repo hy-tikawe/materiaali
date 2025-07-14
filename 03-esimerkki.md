@@ -1,7 +1,6 @@
 ---
 title: Esimerkkisovellus
 permalink: /esimerkki/
-hide: true
 ---
 
 # Esimerkkisovellus
