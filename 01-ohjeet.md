@@ -19,7 +19,7 @@ Voit keskustella kurssiin liittyvistä asioista kurssin [Discord-ryhmässä](htt
 
 ## Tärkeät deadlinet
 
-- Välipalautuksen 1 deadlineen mennessä sinun tulee kirjautua Labtooliin ja ilmoittaa siellä linkki sovelluksesi Github-repositorioon.
+- Välipalautuksen 1 deadlineen mennessä sinun tulee kirjautua Labtooliin ja ilmoittaa siellä linkki sovelluksesi GitHub-repositorioon.
 - Välipalautuksen 2 deadlineen mennessä repositoriossasi tulee olla koodia.
 - Vertaisarvioinnit ovat pakollisia, ja sinun tulee tehdä kumpikin arviointi deadlineen mennessä.
 - Sovelluksen tulee olla valmis lopullisen palautuksen deadlineen mennessä.
