@@ -60,7 +60,7 @@ Välipalautuksen jälkeen merkitse Labtooliin pistemäärä, joka ilmaisee, mite
 * Kurssin vastuuhenkilö pystyy luomaan listan, jossa on kurssipalautteen antaneiden opiskelijoiden opiskelijanumerot.
 * Anna opiskelijalle palaute, jossa on tieto kunkin kriteerin täyttymisestä, lyhyt sanallinen yleispalaute sekä kurssin arvosana (tai tieto että ei hyväksytty).
 
-Pylint ja grep ovat käteviä työkaluja sovelluksen arvioinnissa. Esimerkiksi seuraava komento etsii kaikista `.py`-tiedostoista liian pitkiä rivejä:
+Pylint ja grep ovat käteviä työkaluja sovelluksen arvioinnissa. Esimerkiksi seuraava komento etsii Python-tiedostoista liian pitkiä rivejä:
 
 ```console
 $ pylint *.py | grep line-too-long
