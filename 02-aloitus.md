@@ -46,6 +46,10 @@ Tekniset perusvaatimukset ovat:
 
 Huomaa, että kirjasto `flask` tuo mukanaan automaattisesti joitakin muita kirjastoja (kuten `werkzeug`), joiden käyttäminen on sallittua.
 
+## Sovelluksen kieli
+
+Sovelluksen käyttöliittymän ja `README.md`-tiedoston kieli voi olla suomi, ruotsi tai englanti. Sovelluksen teknisen toteutuksen (koodi, tietokanta, commit-viestit) kielen tulee olla englanti.
+
 ## Esimerkkiaiheita
 
 ### Ruokareseptit
