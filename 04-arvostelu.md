@@ -55,9 +55,9 @@ Sovelluksen perusvaatimukset on kuvattu tarkemmin [aloitussivulla](../aloitus).
 
 | Kehitystyön aikana on tehty commiteja säännöllisesti | 1--5 |
 | Commit-viestit on kirjoitettu englanniksi | 1--5 |
+| Tiedosto `README.md` kertoo, millainen sovellus on ja miten sitä voi testata | 1--5 |
 | Versionhallinnassa ei ole sinne kuulumattomia tiedostoja | 3--5 |
 | Commitit ovat hyviä kokonaisuuksia ja niissä on hyvät viestit | 4--5 |
-| Tiedosto `README.md` antaa hyvän kuvan sovelluksesta | 4--5 |
 
 Tarkempaa tietoa vaatimuksista on [teknisessä tarkastuslistassa](../lista).
 

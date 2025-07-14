@@ -58,10 +58,10 @@ Välipalautuksen ja palautuksen tekemiseen riittää, että repositoriosi on aja
   - Käyttäjä pystyy lisäämään, muokkaamaan ja poistamaan tietokohteita.
   - Käyttäjä näkee sovellukseen lisätyt tietokohteet.
   - Käyttäjä pystyy etsimään tietokohteita hakusanalla tai muulla perusteella.
-* `README.md`-tiedoston tulee kuvata, mikä on sovelluksen nykyinen tilanne.
+* `README.md`-tiedoston tulee kuvata, millainen sovellus on ja miten sitä voi testata.
 * Saat seuraavan viikon alussa ohjaajalta palautteen sovelluksesta Labtooliin.
 * Vinkkejä palautukseen:
-  - Anna `README.md`-tiedostossa ohjeet siihen, miten sovelluksen testaaja saa käynnistettyä sovelluksen omalla koneellaan.
+  - Muista antaa `README.md`-tiedostossa ohjeet siihen, miten sovelluksen testaaja saa käynnistettyä sovelluksen omalla koneellaan.
   - Tiedosto `database.db` ei kuulu repositorioon. Sovelluksen testaajan pitäisi pystyä luomaan tietokanta `.sql`-tiedostojen perusteella.
 
 ### Välipalautus 3
@@ -70,7 +70,7 @@ Välipalautuksen ja palautuksen tekemiseen riittää, että repositoriosi on aja
   - Sovelluksessa on käyttäjäsivut, jotka näyttävät tilastoja ja käyttäjän lisäämät tietokohteet.
   - Käyttäjä pystyy valitsemaan tietokohteelle yhden tai useamman luokittelun. Mahdolliset luokat ovat tietokannassa.
   - Käyttäjä pystyy lähettämään toisen käyttäjän tietokohteeseen liittyen jotain lisätietoa, joka tulee näkyviin sovelluksessa.
-* `README.md`-tiedoston tulee kuvata, mikä on sovelluksen nykyinen tilanne.
+* `README.md`-tiedoston tulee kuvata, millainen sovellus on ja miten sitä voi testata.
 * Saat seuraavan viikon alussa ohjaajalta palautteen sovelluksesta Labtooliin.
 * Vinkkejä palautukseen:
   - Muista estää sovelluksessasi CSRF-aukko kurssimateriaalin mukaisesti.
@@ -83,7 +83,7 @@ Kurssiin kuuluu kaksi [vertaisarviointia](../vertaisarviointi), joissa annetaan 
 ### Lopullinen palautus
 
 * Kurssi arvostellaan tämän sovelluksen version perusteella.
-* `README.md`-tiedoston tulee kuvata, millainen lopullinen sovellus on.
+* `README.md`-tiedoston tulee kuvata, millainen sovellus on ja miten sitä voi testata.
 * Ohjaaja arvostelee työn ja antaa palautetta Labtooliin. Ohjaaja arvostelee työn kuukauden kuluessa deadlinesta.
 
 ### Kurssipalaute
