@@ -5,7 +5,7 @@ permalink: /ohjeet/
 
 # Ohjeet ja aikataulu
 
-Kevään 2025 periodin 3 ryhmän aikataulu on seuraava:
+Loppukesän 2025 aikataulu on seuraava:
 
 | ke 16.7.2025 | Aloitusluento klo 14–16 (Chemicum A128) |
 | su 20.7.2025 | Välipalautus 1 |
