@@ -29,6 +29,8 @@ Esimerkkisovellus sekä tämän sivun lopussa olevat esimerkkiaiheet selventäv�
 
 Sovelluksen aiheesta riippuu, mitä tietokohteet ovat käytännössä. Esimerkkisovelluksessa pääasiallinen tietokohde on tavaran myynti-ilmoitus ja toissijainen tietokohde on ilmoituksessa oleva huuto.
 
+Voit valita sovelluksen aiheen vapaasti, kunhan se ei ole keskustelualue tai huutokauppa, koska nämä sovellukset on tehty kurssimateriaalissa.
+
 Voit halutessasi toteuttaa perusvaatimusten lisäksi sovellukseen muitakin ominaisuuksia.
 
 ## Tekniset vaatimukset
