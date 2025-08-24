@@ -52,7 +52,7 @@ Sovelluksen perusvaatimukset on kuvattu tarkemmin [aloitussivulla](../aloitus).
 | Kuvissa käytetty `alt`-attribuuttia (jos sovelluksessa kuvia) | 5 |
 | Lomakkeissa käytetty `label`-elementtiä | 5 |
 
-### Versionhallinta (10 p)
+### Versionhallinta
 
 | Kehitystyön aikana on tehty commiteja säännöllisesti | 1--5 |
 | Commit-viestit on kirjoitettu englanniksi | 1--5 |
@@ -62,7 +62,7 @@ Sovelluksen perusvaatimukset on kuvattu tarkemmin [aloitussivulla](../aloitus).
 
 Tarkempaa tietoa vaatimuksista on [teknisessä tarkastuslistassa](../lista).
 
-### Ohjelmointityyli (15 p)
+### Ohjelmointityyli
 
 | Koodi on kirjoitettu englanniksi | 1--5 |
 | Muuttujat ja funktiot nimetty kuvaavasti | 4--5 |
@@ -76,7 +76,7 @@ Tarkempaa tietoa vaatimuksista on [teknisessä tarkastuslistassa](../lista).
 
 Vinkki: Pystyt tarkastamaan monet yllä olevat asiat [Pylint-työkalun](../pylint) avulla
 
-### Tietokanta-asiat (15 p)
+### Tietokanta-asiat
 
 | Taulut ja sarakkeet on nimetty englanniksi | 1--5 |
 | Taulut ja sarakkeet on nimetty kuvaavasti | 3--5 |
@@ -88,7 +88,7 @@ Vinkki: Pystyt tarkastamaan monet yllä olevat asiat [Pylint-työkalun](../pylin
 
 Tarkempaa tietoa vaatimuksista on [teknisessä tarkastuslistassa](../lista).
 
-### Sovelluksen turvallisuus (20 p)
+### Sovelluksen turvallisuus
 
 | Salasanat tallennetaan tietokantaan asianmukaisesti | 1--5 |
 | Käyttäjän oikeus nähdä sivun sisältö tarkastetaan | 1--5 |
@@ -100,7 +100,7 @@ Tarkempaa tietoa vaatimuksista on [teknisessä tarkastuslistassa](../lista).
 
 Tarkempaa tietoa vaatimuksista on [teknisessä tarkastuslistassa](../lista).
 
-### Suuren tietomäärän käsittely (5 p)
+### Suuren tietomäärän käsittely
 
 | Sovellusta testattu suurella tietomäärällä ja raportoitu tulokset | 5 |
 | Sovelluksessa käytössä tietokohteiden sivutus | 5 |
@@ -108,7 +108,7 @@ Tarkempaa tietoa vaatimuksista on [teknisessä tarkastuslistassa](../lista).
 
 Sopiva tapa raportoida tulokset on lisätä tiedosto `seed.py` repositorioon ja kirjoittaa tiedostoon `README.md` selostus sovelluksen toiminnasta suurella tietomäärällä.
 
-### Vertaisarviointi ja palaute (5 p)
+### Vertaisarviointi ja palaute
 
 | Ensimmäinen vertaisarviointi annettu | 1--5 |
 | Ensimmäinen vertaisarviointi tehty kattavasti | 4--5 |
