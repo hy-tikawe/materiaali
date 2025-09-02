@@ -5,115 +5,129 @@ permalink: /arvostelu/
 
 # Kurssin arvostelu
 
-Tälle sivulle on koottu asiat, jotka kurssin ohjaaja käy läpi työsi arvostelussa.
+Tämä sivu kuvaa kurssin arvosteluperusteet, jotka kurssin ohjaja käy läpi työsi arvostelussa. Kurssin arvosana määräytyy seuraavasti:
 
-Jokaisen kriteerin kohdalla on ilmoitettu, missä kurssin arvosanoissa vaaditaan, että kyseinen kriteeri toteutuu. Esimerkiksi:
+* Saat kurssista arvosanan 3, jos perusvaatimukset täyttyvät.
+* Saat kurssista arvosanan 4, jos arvosanojen 3–4 vaatimukset täyttyvät.
+* Saat kurssista arvosanan 5, jos arvosanojen 3–5 vaatimukset täyttyvät.
 
-* 1--5 tarkoittaa, että hyväksytyn sovelluksen tulee täyttää tämä kriteeri, koska se vaaditaan kaikissa arvosanoissa 1--5.
-* 4--5 tarkoittaa, että tämä kriteeri vaaditaan arvosanoissa 4--5. Jos sovellus ei täytä tätä kriteeriä, arvosana on enintään 3.
-* 5 tarkoittaa, että tämä kriteeri vaaditaan arvosanassa 5.
-
-Kurssin arvostelu perustuu siihen, miten tällä sivulla ilmoitetut kriteerit täyttyvät lopullisessa sovelluksessa.
+Voit käyttää myös [teknistä tarkastuslistaa](../lista) apuna sovelluksen viimeistelyssä.
 
 <style>
 table {display: table; width:100%;}
 </style>
 
+## Perusvaatimukset (arvosana 3)
+
 ### Sovelluksen perusvaatimukset
 
-| Käyttäjä pystyy luomaan tunnuksen ja kirjautumaan sisään sovellukseen | 1--5 |
-| Käyttäjä pystyy lisäämään, muokkaamaan ja poistamaan tietokohteita | 1--5 |
-| Käyttäjä näkee sovellukseen lisätyt tietokohteet | 1--5 |
-| Käyttäjä pystyy etsimään tietokohteita hakusanalla tai muulla perusteella | 1--5 |
-| Käyttäjäsivu näyttää tilastoja ja käyttäjän lisäämät tietokohteet | 1--5 |
-| Käyttäjä pystyy valitsemaan tietokohteelle yhden tai useamman luokittelun | 1--5 |
-| Käyttäjä pystyy lisäämään tietokohteeseen toissijaisia tietokohteita | 1--5 |
+| Käyttäjä pystyy luomaan tunnuksen ja kirjautumaan sisään sovellukseen |
+| Käyttäjä pystyy lisäämään, muokkaamaan ja poistamaan tietokohteita |
+| Käyttäjä näkee sovellukseen lisätyt tietokohteet |
+| Käyttäjä pystyy etsimään tietokohteita hakusanalla tai muulla perusteella |
+| Käyttäjäsivu näyttää tilastoja ja käyttäjän lisäämät tietokohteet |
+| Käyttäjä pystyy valitsemaan tietokohteelle yhden tai useamman luokittelun |
+| Käyttäjä pystyy lisäämään tietokohteeseen toissijaisia tietokohteita |
 
 Sovelluksen perusvaatimukset on kuvattu tarkemmin [aloitussivulla](../aloitus).
 
 ### Tekniset perusvaatimukset
 
-| Sovellus toteutettu kurssimateriaalin mukaisesti | 1--5 |
-| Sovellus toteutettu Pythonilla käyttäen Flask-kirjastoa | 1--5 |
-| Sovellus käyttää SQLite-tietokantaa | 1--5 |
-| Kehitystyössä käytetty Gitiä ja GitHubia | 1--5 |
-| Sovelluksen käyttöliittymä muodostuu HTML-sivuista | 1--5 |
-| Sovelluksessa ei ole käytetty JavaScript-koodia | 1--5 |
-| Tietokantaa käytetään suoraan SQL-komennoilla (ei ORMia) | 1--5 |
-| Flaskin lisäksi käytössä ei muita erikseen asennettavia Python-kirjastoja | 1--5 |
-| Sovelluksen ulkoasu (HTML/CSS) on toteutettu itse ilman kirjastoja | 1--5 |
-
-### Toimivuus ja käytettävyys
-
-| Sovelluksen perustoiminnot toimivat | 1--5 |
-| CSS:n avulla toteutettu ulkoasu (itse tehty, ei CSS-kirjastoa) | 3--5 |
-| Sovellusta on helppoa ja loogista käyttää | 4--5 |
-| Käyttäjän lähettämässä tekstissä rivinvaihdot näkyvät selaimessa | 5 |
-| Kuvissa käytetty `alt`-attribuuttia (jos sovelluksessa kuvia) | 5 |
-| Lomakkeissa käytetty `label`-elementtiä | 5 |
+| Sovellus toteutettu kurssimateriaalin mukaisesti |
+| Sovellus toteutettu Pythonilla käyttäen Flask-kirjastoa |
+| Sovellus käyttää SQLite-tietokantaa |
+| Kehitystyössä käytetty Gitiä ja GitHubia |
+| Sovelluksen käyttöliittymä muodostuu HTML-sivuista |
+| Sovelluksessa ei ole käytetty JavaScript-koodia |
+| Tietokantaa käytetään suoraan SQL-komennoilla (ei ORMia) |
+| Flaskin lisäksi käytössä ei muita erikseen asennettavia Python-kirjastoja |
+| Sovelluksen ulkoasu (HTML/CSS) on toteutettu itse ilman kirjastoja |
+| Sovelluksen koodi on kirjoitettu englanniksi |
+| Tietokannan taulut ja sarakkeet on nimetty englanniksi |
 
 ### Versionhallinta
 
-| Kehitystyön aikana on tehty commiteja säännöllisesti | 1--5 |
-| Commit-viestit on kirjoitettu englanniksi | 1--5 |
-| Tiedosto `README.md` kertoo, millainen sovellus on ja miten sitä voi testata | 1--5 |
-| Versionhallinnassa ei ole sinne kuulumattomia tiedostoja | 3--5 |
-| Commitit ovat hyviä kokonaisuuksia ja niissä on hyvät viestit | 4--5 |
-
-Tarkempaa tietoa vaatimuksista on [teknisessä tarkastuslistassa](../lista).
-
-### Ohjelmointityyli
-
-| Koodi on kirjoitettu englanniksi | 1--5 |
-| Muuttujat ja funktiot nimetty kuvaavasti | 4--5 |
-| Sisennyksen leveys on neljä välilyöntiä | 4--5 |
-| Koodissa ei ole liian pitkiä rivejä | 4--5 |
-| Muuttujien ja funktioiden nimet muotoa `total_count` (ei `totalCount`) | 4--5 |
-| Välit oikein `=`- ja `,`-merkkien ympärillä | 4--5 |
-| Ei ylimääräisiä sulkeita `if`- ja `while`-rakenteissa | 4--5 |
-
-Tarkempaa tietoa vaatimuksista on [teknisessä tarkastuslistassa](../lista).
-
-Vinkki: Pystyt tarkastamaan monet yllä olevat asiat [Pylint-työkalun](../pylint) avulla
-
-### Tietokanta-asiat
-
-| Taulut ja sarakkeet on nimetty englanniksi | 1--5 |
-| Taulut ja sarakkeet on nimetty kuvaavasti | 3--5 |
-| Käytetty `REFERENCES`-määrettä, kun viittaus toiseen tauluun | 3--5 |
-| Ei kyselyjä muotoa `SELECT *` | 5 |
-| Kaikki tiedot haetaan yhdellä SQL-kyselyllä, jos järkevästi mahdollista | 5 |
-| Koodissa ei tehdä asioita, jotka voi mielekkäästi tehdä SQL:ssä | 5 |
-| Käytetty `try`/`except` SQL-komennon ympärillä vain aiheellisesti | 5 |
-
-Tarkempaa tietoa vaatimuksista on [teknisessä tarkastuslistassa](../lista).
+| Tiedosto `README.md` kertoo, millainen sovellus on ja miten sitä voi testata |
+| Kehitystyön aikana on tehty commiteja säännöllisesti |
+| Commit-viestit on kirjoitettu englanniksi |
 
 ### Sovelluksen turvallisuus
 
-| Salasanat tallennetaan tietokantaan asianmukaisesti | 1--5 |
-| Käyttäjän oikeus nähdä sivun sisältö tarkastetaan | 1--5 |
-| Käyttäjän oikeus lähettää lomake tarkastetaan | 1--5 |
-| Käyttäjän syötteet tarkastetaan ennen tietokantaan lisäämistä | 1--5 |
-| SQL-komennoissa käytetty parametreja | 1--5 |
-| Sivut muodostetaan sivupohjien kautta | 1--5 |
-| Lomakkeissa on estetty CSRF-aukko | 1--5 |
-
-Tarkempaa tietoa vaatimuksista on [teknisessä tarkastuslistassa](../lista).
-
-### Suuren tietomäärän käsittely
-
-| Sovellusta testattu suurella tietomäärällä ja raportoitu tulokset | 5 |
-| Sovelluksessa käytössä tietokohteiden sivutus | 5 |
-| Tietokantaan lisätty indeksi, joka nopeuttaa suuren tietomäärän käsittelyä | 5 |
-
-Sopiva tapa raportoida tulokset on lisätä tiedosto `seed.py` repositorioon ja kirjoittaa tiedostoon `README.md` selostus sovelluksen toiminnasta suurella tietomäärällä.
+| Salasanat tallennetaan tietokantaan asianmukaisesti |
+| Käyttäjän oikeus nähdä sivun sisältö tarkastetaan |
+| Käyttäjän oikeus lähettää lomake tarkastetaan |
+| Käyttäjän syötteet tarkastetaan ennen tietokantaan lisäämistä |
+| SQL-komennoissa käytetty parametreja |
+| Sivut muodostetaan sivupohjien kautta (`render_template`)  |
+| Lomakkeissa on estetty CSRF-aukko |
 
 ### Vertaisarviointi ja palaute
 
-| Ensimmäinen vertaisarviointi annettu | 1--5 |
-| Ensimmäinen vertaisarviointi tehty kattavasti | 4--5 |
-| Toinen vertaisarviointi annettu | 1--5 |
-| Toinen vertaisarviointi tehty kattavasti | 4--5 |
-| Kurssipalaute annettu | 4--5 |
+| Ensimmäinen vertaisarviointi annettu |
+| Toinen vertaisarviointi annettu |
+
+## Lisävaatimukset (arvosana 4)
+
+### Toimivuus ja käytettävyys
+
+| Sovellusta on helppoa ja loogista käyttää |
+| CSS:n avulla toteutettu ulkoasu (itse tehty, ei CSS-kirjastoa) |
+
+### Versionhallinta
+
+| Versionhallinnassa ei ole sinne kuulumattomia tiedostoja |
+| Commitit ovat hyviä kokonaisuuksia ja niissä on hyvät viestit |
+
+### Ohjelmointityyli
+
+| Muuttujat ja funktiot nimetty kuvaavasti |
+| Sisennyksen leveys on neljä välilyöntiä |
+| Koodissa ei ole liian pitkiä rivejä |
+| Muuttujien ja funktioiden nimet muotoa `total_count` (ei `totalCount`) |
+| Välit oikein `=`- ja `,`-merkkien ympärillä |
+| Ei ylimääräisiä sulkeita `if`- ja `while`-rakenteissa |
+
+<!-- TODO: ohjeita näiden tarkastamiseen -->
+
+### Tietokanta-asiat
+
+| Taulut ja sarakkeet on nimetty kuvaavasti |
+| Käytetty `REFERENCES`-määrettä, kun viittaus toiseen tauluun |
+| Ei kyselyjä muotoa `SELECT *` (haettavat sarakkeet listattu aina) |
+| Käytetty SQL:n ominaisuuksia järkevällä tavalla |
+
+<!-- TODO: mitä viimeinen vaatimus tarkoittaa -->
+
+### Vertaisarviointi ja palaute
+
+| Ensimmäinen vertaisarviointi tehty kattavasti |
+| Toinen vertaisarviointi tehty kattavasti |
+| Kurssipalaute annettu |
+
+<!-- TODO: mitä tarkoittaa kattava -->
 
 Kurssin vastuuhenkilö saa palautejärjestelmästä listan opiskelijoista, jotka ovat antaneet palautteen. Järjestelmästä ei näe, kuka on antanut tietyn palautteen.
+
+## Lisävaatimukset (arvosana 5)
+
+### Ohjelmointityyli
+
+| Käytetty Pylint-työkalua ja raportoitu tulokset |
+
+Raportissa tulee näkyä Pylintin antama palaute sekä jokaisesta Pylintin ilmoitustyypistä selostus, miksi kyseistä asiaa ei ole korjattu koodissa.
+
+<!-- TODO: esimerkki raportista -->
+
+### Toimivuus ja käytettävyys
+
+| Käyttäjän lähettämässä tekstissä rivinvaihdot näkyvät selaimessa |
+| Kuvissa käytetty `alt`-attribuuttia (jos sovelluksessa kuvia) |
+| Lomakkeissa käytetty `label`-elementtiä |
+
+### Suuren tietomäärän käsittely
+
+| Sovellusta testattu suurella tietomäärällä ja raportoitu tulokset |
+| Sovelluksessa käytössä tietokohteiden sivutus |
+| Tietokantaan lisätty indeksi, joka nopeuttaa suuren tietomäärän käsittelyä |
+
+Sopiva tapa raportoida tulokset on lisätä tiedosto `seed.py` repositorioon ja kirjoittaa tiedostoon `README.md` selostus sovelluksen toiminnasta suurella tietomäärällä.
