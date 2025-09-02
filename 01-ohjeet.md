@@ -5,17 +5,17 @@ permalink: /ohjeet/
 
 # Ohjeet ja aikataulu
 
-Loppukesän 2025 aikataulu on seuraava:
+Syksyn 2025 periodin 1 aikataulu on seuraava:
 
-| ke 16.7.2025 | Aloitusluento klo 14–16 (Chemicum A128) |
-| su 20.7.2025 | Välipalautus 1 |
-| su 3.8.2025 | Välipalautus 2 |
-| pe 8.8.2025 | Vertaisarvioinnin deadline |
-| su 17.8.2025 | Välipalautus 3 |
-| pe 22.8.2025 | Vertaisarvioinnin deadline |
-| su 31.8.2025 | Lopullinen palautus |
+| ti 2.9.2025 | Aloitusluento klo 16–18 (Exactum D123) |
+| su 7.9.2025 | Välipalautus 1 |
+| su 21.9.2025 | Välipalautus 2 |
+| pe 26.9.2025 | Vertaisarvioinnin deadline |
+| su 5.10.2025 | Välipalautus 3 |
+| pe 10.10.2025 | Vertaisarvioinnin deadline |
+| su 19.10.2025 | Lopullinen palautus |
 
-Voit keskustella kurssiin liittyvistä asioista kurssin [Discord-ryhmässä](https://study.cs.helsinki.fi/discord/join/tikawe), jossa on paikalla kurssin ohjaajia ja opiskelijoita.
+Voit keskustella kurssiin liittyvistä asioista kurssin [Discord-ryhmässä](https://study.cs.helsinki.fi/discord/join/tikawe), jossa on paikalla kurssin ohjaajia ja opiskelijoita. Lisäksi järjestetään pajaohjausta Exactumin salissa BK107 tiistaisin klo 12–16, keskiviikkoisin klo 14–18 sekä torstaisin klo 12–16.
 
 ## Tärkeät deadlinet
 
@@ -46,7 +46,7 @@ Välipalautuksen ja palautuksen tekemiseen riittää, että repositoriosi on aja
 
 * Luo GitHubiin julkinen repositorio harjoitustyötä varten. Nimeä repositoriosi kuvaavasti.
 * Valitse projektille aihe ja kirjoita `README.md`-tiedostoon kuvaus, joka esittelee sovelluksen keskeiset toiminnot. Kirjoita kuvaus samassa muodossa kuin aloitussivun esimerkkiaiheissa ja esimerkkisovelluksessa.
-* Kirjaudu [Labtooliin](https://study.cs.helsinki.fi/labtool/courses/TKT20019.2025.V.K.2) ja ilmoita siellä projektisi GitHub-osoite.
+* Kirjaudu [Labtooliin](https://study.cs.helsinki.fi/labtool/courses/TKT20019.2025.S.K.2) ja ilmoita siellä projektisi GitHub-osoite.
 * Saat seuraavan viikon alussa ohjaajalta palautteen aiheesta Labtooliin.
 * Vinkkejä palautukseen:
   - Valitse repositorion nimi niin, että se kuvaa hyvin sovellustasi. Esimerkiksi jos teet reseptisovelluksen, voit valita esimerkiksi nimen `reseptit`.
@@ -88,14 +88,14 @@ Kurssiin kuuluu kaksi [vertaisarviointia](../vertaisarviointi), joissa annetaan 
 
 ### Kurssipalaute
 
-Anna [kurssipalaute](https://norppa.helsinki.fi/targets/84701710) viimeistään seuraavana päivänä lopullisen palautuksen deadlinen jälkeen. Palaute on anonyymia ja vaikuttaa kurssin kehitykseen.
+Anna [kurssipalaute](https://norppa.helsinki.fi/targets/95022904) viimeistään seuraavana päivänä lopullisen palautuksen deadlinen jälkeen. Palaute on anonyymia ja vaikuttaa kurssin kehitykseen.
 
 Kurssipalaute ja vastuuhenkilön kommentit kootaan [palauteyhteenvetoon](../palaute).
 
 ## Ohjeita
 
 * Ennen sovelluksen toteuttamisen aloittamista sinun kannattaa tutustua kurssimateriaaliin ja tehdä pieniä kokeiluja, jotta saat harjoiteltua kurssilla käytettyjä tekniikoita.
-* Neuvoja tietokannan suunnitteluun löydät kurssin _Tietokantojen perusteet_ materiaalista. Erityisesti kurssin materiaalin [luku 6](https://tikape.mooc.fi/kesa-2025/osa6/) on hyödyllinen.
+* Neuvoja tietokannan suunnitteluun löydät kurssin _Tietokantojen perusteet_ materiaalista. Erityisesti kurssin materiaalin [luku 6](https://tikape.mooc.fi/syksy-2025/osa6/) on hyödyllinen.
 * Sovellus ja tietokanta rakentuvat pikkuhiljaa ja niihin tulee muutoksia. Kannattaa aloittaa yksinkertaisesta ja muuttaa rakennetta tarvittaessa myöhemmin.
 * Palautuksissa ohjaaja tutustuu projektisi uusimpaan versioon GitHubissa. Pidä huoli siitä, että GitHubissa on sovelluksesi ajantasainen versio.
 * Sovelluksen dokumentaatio luodaan tiedostoon `README.md`, joka näkyy GitHubissa projektin etusivulla. Kirjoita dokumentaatio sellaista henkilöä varten, joka haluaa saada käsityksen sovelluksesta ja mahdollisesti ottaa sen käyttöön itse tai kehittää sovellusta.
