@@ -10,6 +10,57 @@ Tällä sivulla julkaistaan yhteenvedot kurssin toteutuksilla kerätystä palaut
 
 ***
 
+## Loppukesä 2025
+
+Kurssipalautteen antoi 14 opiskelijaa.
+
+Loppukesän kurssilla oli käytössä uusi arviointitapa, joka aiheutti jonkin verran kritiikkiä palautteessa. Näyttää selkeästi siltä, että arviointitavassa on vielä kehittämistä, mikä tulee tapahtumaan syksyllä 2025.
+
+Tavoitteena arvioinnissa on, että opiskelija tietäisi selkeästi, mitä vaaditaan mihinkin arvosanaan, mutta tällä hetkellä tämä tavoite ei toteudu vielä hyvin, koska osa arviointikriteereistä on vaikeasti tulkittavia. Kiitos tämän asian tuomisesta esille palautteessa.
+
+### Numeerinen palaute
+
+Arvioi seuraavia väitteitä (1 = täysin eri mieltä, 5 = täysin samaa mieltä):
+
+* Osaamistavoitteet olivat selvät: 4.57
+* Toteutustapa tuki oppimistani: 4.71
+* Materiaalit tukivat oppimistani: 4.71
+* Arviointi mittasi oppimistani: 4.21
+
+Kurssin raskaus (1 = turhan kevyt, 5 = turhan raskas):
+
+* Työmäärä suhteessa opintopisteisiin oli: 3.21
+
+Kurssin kokonaisarvosana:
+
+* Kokonaisarvosana kurssille: 4.50
+
+### Miten kehittäisit kurssia?
+
+* Materiaalin frontend esimerkit tuntuivat melko pelkistetyiltä.
+* Ainoana miinuksena kurssista oli se että mielestäni ulkoisten kirjastojen käytön evääminen. Niiden opettelu ja käytön harjoittelu tukisi enemmän töiden tekoa kun eipä niitä ilmankaan oikein olla. Toki ymmärrän myös pointin ensin oppia natiivia koodausta.
+* Arviointikriteerit mahdollistavat epäreilun arvosanan antamista. Esimerkiksi, on epäreilua hylätä kurssisuorituksen kokonaan, jos vain 2. vertaisarviointi unohtui tehdä. Ei ole väliä kuinka yksityiskohtaisesti sovellus on kehitetty, jos vain commitit ei pidetty riitävän säännöllisenä, sovellus voi hylätä kokonaan. Tai vaikka koodaustektiikatkin on osattu täydellisesti, saa arvosana 3 vain kurssipalautteen puutteen takia. On järjetöntä vaatia kurssipalaute arvosanaa 4 varten, mutta samalla arvosanalla suuren tietomäärän käsittely ei vaadita. Suuren tietomäärän käsittely on verrattuna kurssipalautteeseen oleellisempaa osaa tietojenkäsittelyn taidossa. Arvostelu täytyy painostaa sovellukseen ja ohjelmoijan taitoon eikä epäaihelliseen asiaan. Pisteytyssysteemi parantaisi arviointimenetelmiä
+* Ei tule kehitysideoita. Kiitos kurssista!
+* Hyvä kurssi, tykkäsin. Mahdollisesti kannattais tehdä selväksi kuinka (varsinki aloitteleville koodareille) lapion tekeminen ensin on tärkeetä.
+* Kesäkurssilla olisi hyvä, jos saisi aktiivisemmin apua. Välillä tuntui, että piti jopa päivien ajan olla yksin ongelmien kanssa. Muuten hyvä kurssi.
+* Kurssimateriaalissa voisi mielestäni käsitellä sitä miten luokkia voisi käyttää hakusuodattimina. Se on hyvin yleinen käyttötarkoitus luokille, joten olin vähän yllättynyt kun se puuttui. Kurssin pisteytys tuntuu itselleni vähän vaikeaselkoiselta. Taulukko antaa vaikutelman että joka ikisen kriteerin tulisi täyttyä arvosanaan 5?
+* Kussisivulla olisi ehkä kätevää jos kaikille sivuille pääsisi suoraan navigoinnin kautta. Nyt esim Gitin käyttäminen ja vertaisarvioinnin ohjeet löytyy vain linkkinä jonkun toisen sivun kautta, ja joutui muistamaan mistä niihin pääsee, jos halusi palata niihin myöhemmin uudestaan.
+* Materiaaleista huomaa, että kurssia kehitetty jo pitkälle, eli en mitään suurta kehitysaihetta edes keksi. Tein myös samalla Cyber Security Base kurssin projektityötä ja tuli mieleen, että voisikohan kursseja hyödyntää niin, että tämän sovelluksen tietoturvan kehittämistä jatkaisi CSB:n puolella? Ehkä tätä voisi jotenkin tulevaisuudessa ihan kurssien materiaaleissa/ohjeistuksessa edistää?
+* Mielestäni vanha arvostelkaava oli parempi. Vaikuttaa hieman turhalta täysin poissulkea korkeampi arvosana (4-5) esim liian pitkin rivien takia. Pisteet olivat omasta mielestäni järkevämmät.
+* Pidin siitä, että kaiken sai tehdä etänä
+* Sovelluksen arviointia oli muutettu tälle toteutukselle selkeästä pistejärjestelmästä hämyiseksi "arvosana-raja per toteutunut ominaisuus" systeemiksi joka tuntui tiukentavan arvostelua entisestä mallista.
+* Sovelluksen vaatimukset ja ohjeet on listattu mielestäni hieman sekalaisesti ja rönsyilevästi (toistoa). Paitsi kurssin arvostelu -sivu on kylläkin selkeä. Vaikea keksiä mitään muuta kehitettävää.
+
+### Muita huomioita
+
+* Arviointikriteerit olivat mielestäni osin tarpeettoman yksityiskohtaisia
+* Iso kiitos siitä että kurssilla on luovuttu postgreSQL:n käytöstä. Sen kanssa tappelu windowsilla on ollut suunnilleen yhtä kivaa kuin tulla Väinämöisen toimesta suohon lauletuksi, mutta sqlite toimii ongelmitta. Materiaali oli myös aivan ensiluokkaista.
+* Kiitos kurssista ja tsempit lukuvuoden alkuun!
+* Videosarja oli erittäin hyödyllinen!
+* Videosarja oli todella hyvä alkuun pääsemiseksi ja auttoi saamaan projektin toiminnot kasaan! Sillä pystyi myös vähän ajoittamaan omaa tekemistä ja edetä aihe kerrallaan. Vertaisarvioinnit oli myös mielenkiintoisia ja opettavaisia, itse sain niistä jopa joitain oivalluksia ongelmiin, joita olin omassa projektissani pohtinut. Olisi myös ihan mielenkiintoista nähdä mitä muut kurssilaiset ovat tehneet, joten olisi kiva jos jotenkin onnistuisi jakamaan enemmänkin vaikkapa lopputuloksia?
+
+***
+
 ## Alkukesä 2025
 
 Kurssipalautteen antoi 9 opiskelijaa.
