@@ -66,6 +66,8 @@ Sovelluksen perusvaatimukset on kuvattu tarkemmin [aloitussivulla](../aloitus).
 | Ensimmäinen vertaisarviointi annettu |
 | Toinen vertaisarviointi annettu |
 
+Tarkempaa tietoa vertaisarvioinnin vaatimuksista on [vertaisarviointiohjeissa](../vertaisarviointi).
+
 ## Lisävaatimukset (arvosana 4)
 
 ### Toimivuus ja käytettävyys
@@ -104,7 +106,7 @@ Sovelluksen perusvaatimukset on kuvattu tarkemmin [aloitussivulla](../aloitus).
 | Toinen vertaisarviointi tehty kattavasti |
 | Kurssipalaute annettu |
 
-<!-- TODO: mitä tarkoittaa kattava -->
+Tarkempaa tietoa vertaisarvioinnin vaatimuksista on [vertaisarviointiohjeissa](../vertaisarviointi).
 
 Kurssin vastuuhenkilö saa palautejärjestelmästä listan opiskelijoista, jotka ovat antaneet palautteen. Järjestelmästä ei näe, kuka on antanut tietyn palautteen.
 

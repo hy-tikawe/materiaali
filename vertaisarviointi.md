@@ -8,7 +8,7 @@ hide: true
 
 Vertaisarvioinnissa tutustut toisen kurssin opiskelijan työhön ja annat siitä palautetta. Vastavuoroisesti saat omasta työstäsi palautetta toiselta opiskelijalta.
 
-Vertaisarvioinnin ohje:
+## Vertaisarvioinnin ohje
 
 1. Löydät linkin arvioitavan työn GitHub-sivulle Labtoolista.
 2. Tutustu ensin sovellukseen kloonaamalla repositorio omalle koneellesi ja testaamalla sovelluksen toimintaa. Kiinnitä huomiota siihen, miten sovellus toimii ja onko sitä mukava käyttää.
@@ -20,4 +20,17 @@ Huomaa, että "Hyvältä näyttää" tms. ei ole riittävä raportti. Jos työ o
 
 Jos saat arvioitavaksi sovelluksen, joka on hyvin alkuvaiheessa (esimerkiksi repositoriossa on pelkkä tiedosto `README.md`), voit kirjoittaa hyvin lyhyen vertaisarvioinnin ja todeta, ettei arvioitavaa ole.
 
-Kun saat vertaisarvioinnin omasta työstäsi, koeta parantaa sovellustasi sen avulla. Usein ulkopuolinen huomaa asioita, joihin ei ole kiinnittänyt itse huomiota. Kuitenkin voit saada myös neuvoja, joita ei kannata noudattaa.
+## Esimerkkiarvioinnit
+
+Vertaisarvioinnin kattavuus on kurssin arvosteluun vaikuttava asia. Seuraavat esimerkkisovelluksen vertaisarvioinnit selventävät, mitä tämä tarkoittaa:
+
+* [Suppea vertaisarviointi](https://github.com/pllk/huutokauppa/issues/2)
+* [Kattava vertaisarviointi](https://github.com/pllk/huutokauppa/issues/3)
+
+Ensimmäinen vertaisarviointi on suppea: se täyttää vaatimuksen vertaisarvioinnista mutta ei ole kovin hyödyllinen sovelluksen tekijälle, koska palaute on annettu lyhyesti ja epämääräisesti.
+
+Toinen vertaisarviointi on kattava: siinä on yksityiskohtaista palautetta sovelluksen käyttökokemuksesta sekä ehdotuksia teknisen toteutuksen parantamiseen. Tällaisen raportin avulla sovelluksen tekijä saa konkreettista tietoa siitä, miten hän pystyy parantamaan sovellusta.
+
+## Kun saat vertaisarvioinnin
+
+Kun saat vertaisarvioinnin omasta työstäsi, koeta hyödyntää sitä sovelluksesi kehityksessä. Usein ulkopuolinen huomaa asioita, joihin ei ole kiinnittänyt itse huomiota. Kuitenkin voit saada myös neuvoja, joita ei kannata noudattaa. Vastuu sovelluksen kehityksestä on aina itselläsi.
