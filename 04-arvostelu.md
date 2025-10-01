@@ -116,9 +116,9 @@ Kurssin vastuuhenkilö saa palautejärjestelmästä listan opiskelijoista, jotka
 
 | Käytetty Pylint-työkalua ja raportoitu tulokset |
 
-Raportissa tulee näkyä Pylintin antama palaute sekä jokaisesta Pylintin ilmoitustyypistä selostus, miksi kyseistä asiaa ei ole korjattu koodissa.
+Raportissa tulee näkyä Pylintin antama palaute sovelluksen lopullisesta versiosta. Lisäksi raportin tulee selostaa jokaisesta ilmoituksesta, miksi kyseistä asiaa ei ole korjattu koodista. Jos Pylint antaa useita samaan asiaan liittyviä ilmoituksia, nämä riittää käsitellä yhteisesti.
 
-<!-- TODO: esimerkki raportista -->
+Esimerkkisovelluksen repositoriossa on tiedosto [pylint-report.md](https://github.com/pllk/huutokauppa/blob/main/pylint-report.md), josta voit ottaa mallia raporttiin.
 
 ### Toimivuus ja käytettävyys
 
