@@ -12,7 +12,7 @@ Lähtökohtaisesti kaikki osallistuvat kurssille samalla tavalla jollekin kurssi
 
 Jos osaat asiat ennestään etkä tarvitse ohjausta, voit toki tehdä työn hyvinkin nopeasti omalla aikataulullasi. Ei haittaa, jos sovellus on valmis heti kurssin alkaessa.
 
-Jos olet sopinut kurssin vastuuhenkilön kanssa ennen vuotta 2025 itsenäisestä suoritustavasta, voit edelleen suorittaa kurssin sovitusti.
+Jos olet sopinut kurssin vastuuhenkilön kanssa ennen vuotta 2025 itsenäisestä suoritustavasta, voit edelleen suorittaa kurssin sovitusti vuoden 2025 loppuun asti.
 
 **Voiko kurssin hyväksilukea?**
 
