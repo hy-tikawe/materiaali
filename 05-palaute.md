@@ -10,6 +10,81 @@ Tällä sivulla julkaistaan yhteenvedot kurssin toteutuksilla kerätystä palaut
 
 ***
 
+## Syksy 2025 periodi 1
+
+Kurssipalautteen antoi 30 opiskelijaa.
+
+Palautteen perusteella kurssi toimii nykyisellään hyvin. Palautteessa on monia hyviä ehdotuksia kurssin kehittämiseen ja ohjeistuksen parantamiseen.
+
+Joissakin tapauksissa ongelmana on ollut, että sovelluksen testaajan Python-versio on vanhempi kuin sovelluksen kehittäjällä eikä sovellus ole toiminut sen takia. Tulevaisuudessa hyvä ratkaisu voisi olla määritellä kurssilla Python-versio, jolla sovelluksen tulee toimia.
+
+Palautteessa tulee esille jonkin verran huolta siitä, että sovelluksen pystyy tekemään melko suoraan kurssin videomateriaalin perusteella. Tässä voisi olla hyvä miettiä kurssin kehittämistä siihen suuntaan, että kurssi kannustaisi lisäämään sovellukseen enemmän omaa panosta.
+
+### Numeerinen palaute
+
+Arvioi seuraavia väitteitä (1 = täysin eri mieltä, 5 = täysin samaa mieltä):
+
+* Osaamistavoitteet olivat selvät: 4.73
+* Toteutustapa tuki oppimistani: 4.72
+* Materiaalit tukivat oppimistani: 4.93
+* Arviointi mittasi oppimistani: 4.28
+
+Kurssin raskaus (1 = turhan kevyt, 5 = turhan raskas):
+
+* Työmäärä suhteessa opintopisteisiin oli: 3.13
+
+Kurssin kokonaisarvosana:
+
+* Kokonaisarvosana kurssille: 4.67
+
+### Miten kehittäisit kurssia?
+
+* en kehittäisi. tosi kiva kurssi
+* mieluusti kurssimateriaalin sovelluksen versioiden välillä voisi olla paremmin kirjoitettu mitä kaikkia muutoksia on tapahtunut.
+* En keksi mitään kehitettävää, paljon tukimateriaaleja, mm. videot. Lisäksi tavoitteita kirjattu kattavasti.
+* Jättäisin pois osan joka käsittelee verkkosivun ulkoasua ja CSS-tyylejä.
+* Tuntuu, että yksikin vertaisarvointi riittäisi tämän pituisella kurssilla, palautetta on toki hyvä saada aikaisessa vaiheessa, mutta ensimmäisen vertaisarvioinnin kohdalla on niin paljon vielä tekemättä että en tiedä paljon palautteesta on hyötyä, todennäköisesti tekijällä itselläänkin on siinä vaiheessa pitkä lista toteutettavia asioita jäljellä.
+* Ei kehitettävää. Kurssin toteutus oli mielestäni erinomainen.
+* Itselleni tämä on tuntunut sopivalta juuri näin, vaikea keksiä parannettavaa.
+* kurssi oli mielestäni hyvä sellaisenaan.
+* Materiaali oli erinomaista (verkkosivut + videot), mutta samalla hieman haastavia vertaispalautteen näkökulmasta. Molemmissa minulle vertaisarvioitavaksi tulleissa tapauksissa tunnisti koodin ja (sovelluksen) logiikan lähteen. Kurssin tarkoitus on minun ymmärtääkseni ohjata ensiaskeleisiin sovellusten kehittämisessä, nyt "liian hyvä materiaali" antoi valmiin kaavan sille. En oikein keksi vaihtoehtoista toteutustapaa, mutta jotenkin tätä oikean ajattelutavan omaksumista pitäisi saada muutettua.
+* Minimi tai tietty python version määrittäminen kurssin materiaali sivuilla (myös aloitusluennolla olisi hyvä mainita tästä), jotta voidaan varmistaa python versio kohtaisten erillisyyden toimivuuden.
+* Käytettävyyteen / tietoturvaan liittyvien toimintojen käyminen vasta loppu kappaleissa on mielestäni huono ratkaisu. Esim. ilmoitukset tehtii alkuun huonommalla tavalla ja lopuksi ne muutettiin täysin -> Olisi järkevämpää alusta saakka opettaa ja tehdä hyvien tapojen mukaista koodia, etenkin jos ne ovat helppoja ja kevyitä toteuttaa.
+* En keksi kehitysehdotuksia.
+* Kurssi toimii pääosin oikein hyvin, mutta minun koko kurssi hylättiin keväällä -25 sen takia, että kun tein 2 vertaisarvion, liitin sen Github -linkin Labtoolsiin ja painoin Enteria niin Labtool ei rekisteröinyt tätä linkkiä. Huomasin, että linkki täytyy liittää kenttään kaksi kertaa jotta sivu rekisteröi tämän. Tämän bugin ja oman huolimattomuuden (kun en tarkastanut rekisteröintiä) takia ens siis läpäissyt kurssia keväällä -25 ja jouduin nyt syksyllä -25 tekemään kurssin uudestaan. Tokihan minulla oli työ tallessa, mutta puolen vuoden viivästys opintopisteisiin ja aika uusien vertaisarviointien tekemiseen on kuitenkin opin kannalta pääosin hukkaan heitettyä aikaa.
+* Kursilla voisi olla enemmän painoarvoa esim. testauksella
+* Hyvin selkeä kokonaisuus, ohjeet ja esimerkit hyvin havainnollistavia, tukivat oppimista.
+* Kurssi on oikein hyvin toteutettu. Ehkä sen ohjeistaminen, mitä kaikkea README:ssä pitää olla voisi olla tarkempi, ja missä muodossa parempiin arvosanoihin vaadittavat raportit on jätettävä.
+* Mieleen ei tule kehitettävää.
+* Mielestäni kurssi on täysin hyvä näin. Ehkä aikatauluun voisi jotenkin näyttää mitkä materiaalin osat ovat osana mitäkin välipalautusta? Olisi helpompin ehkä hahmottaa nopeammin mitä halutaan mihinkin osaan ja mistä ne löytyvät :)
+* Oikein hyvä kurssi. Videosarja tuki oppimista ja oli hyvin havainnollistava. Materiaali oli selkeää ja kaikki tarvittava löytyi helposti.
+* Osittain jo toteutuukin, mutta ohjevideoilla voisi vielä enemmän selittää miksi mitäkin aina tehdään. Syventäisi ymmärrystä.
+* Web-sivuston ulkoasuun liittyviä elementtejä voisi olla muutama lisää.
+* Kursille pakollinen python target versio sekä vertais arvioihin oikean muotoisen virhe ilmoituksen tekeminen.
+* Koin videot oppimisen kannalta hyödyllisiksi, ja kaipaisin niitä lisää liittyen esim. sovelluksen testaukseen suurella tietomäärällä.
+* Kursen var ok, lite mera frihet angående hur man löser problem skulle vara trevligt.
+* Kaikkiaan hyvä kurssi, alalla jo vuosia työskennelleenä opin kuitenkin jotain eikä ollut ns. ”turhaa tekemistä”
+* Jos vertaisarviointia ei saa projektistaan jostain syystä, niin olisi mukava saada laajempi palaute esimerkiksi ohjaajalta
+* hyvä setti kaikenkaikkiaan jo
+* Ei mielestäni mitenkään pakollisena toteutettava kehitysehdotus, mutta mitä jos välipalautukset tehtäisiin pull requesteina? Vertaisarvioinnin voisi tehdä sekä yleiskommentteina, mutta myös kommentteina koodiin ja readme:hen. Toki voi olla opiskelijalle lisää ylimääräisen opettelua ja ehkä säätöäkin (ensin pitää tehdä init commit, sitten uusi branch, sitten avata PR jossa vertaa mainion, sitten mergetä ja toistaa sama jokaisessa kohdassa vs. commit suoraan mainiin), mutta toisaalta alan yleinen standardi antaa palautetta koodista on pullareihin.
+* Tarkentaisin vielä hieman perusteellisemmin, kuinka hieno sovellus kurssilla tarkalleen tulisi saada aikaiseksi. Toisaalta tuntui, että rahkeita olisi ehkäpä riittänyt monimutkaisempaankin toteutukseen, mutta lopulta aika ja itseluottamus eivät riittäneet kun kurssin tukimateriaalit ns. loppuivat kesken. :) Erityisesti sivun ulkoasun kanssa olisi voinut materiaaleissa käsitellä peruslementtejä ja css:n käytänteitä vielä laajemmin. Lisäksi sivua suunnitellessa tuskailin paljon sen kanssa, että vaikka olenkin nettiä käyttänyt koko ikäni, en todellisuudessa tiedä lainkaan miten suunnitellaan ammattimaiset ja toimivat sivut. Siksi olisi hienoa jos materiaaleissa sivuttaisiin UX/UI-puoltakin vielä vähän enemmän (tai että tälle aihealueelle olisi vaikkapa ihan oma rinnakkainen kurssinsa, koska työmäärä oli sinänsä aivan sopiva tällä kurssilla nykyisellään).
+* En osaa sanoa. Mielestäni materiaalit olivat tosi hyviä siihen että ohjelman peruspalikat sai rakennettua ongelmitta. Ehkä tähän ihan loppuun olisi voinut olla hyödyllinen jokin systemaattinen check-listaus, että miten ohjelmaa ja sen toimivuutta kannattaa käydä läpi ennen "julkaisua". Tuntuu että debugaus meni loppua kohden vähän sellaiseksi että en tiennyt että missä vaiheessa on testattu "tarpeeksi" että kaikki toimii kaikissa mahdollisissa tilanteissa.
+* Vertaisarvioinneista ei ollut oikein hyötyä. Itse käytti niihin aikaa ja halusi että arvioitava saa niistä hyviä kehitysehdotuksia koodiinsa, omissa arvioinneissa oli vain muutama asia, jotka olivat itsellä jo tiedossa.
+* Vertaispalautteissa jäi ehkä hieman epäselväksi, että oliko niissä tarkoitus harjoitella myös niihin reagoimista kehittäjänä oikeaoppisesti vai riitttikö vain sen huomioiminen ja muille antaminen.
+
+### Muita huomioita
+
+* Videot olivat erittäin hyviä!
+* Mielestäni kurssi oli hyvä, ehkä vähän työläs, toisaalta työläyteen vaikuttaa aika voimakkaasti oma aihevalinta ja olisin itse voinut valita vähän helpomman aiheen, käsittääkseni aihevalinnan vaikeustasosta ei saa kuitenkaan mitään lisäpisteitä.
+* Videosarja kehitysprosessista oli ehkä jopa liian hyvä ja meni jo tutoriaalin puolelle. Itse erittäin aloittelevana kehittäjänä tulin turvautuneeksi siihen paljon, jolloin tuleekin hieman pelko plagioinnista, kun seurasi sitä prosessia.
+* Kiitos kurssista!
+* Videosarja sovelluksen kehittämisestä oli tosi hyödyllinen sovelluksen kehitysvaiheiden hahmottamisessa.
+* Kurssi oli todella hyvä ja ennen kaikkea sitä suorittaessa tuli tunne, että sekä oppi että oivalsi. Iso kiitos itsenäisestä suoritusmahdollisuudesta ja mahtavista videoista, ne tukivat loistavasti tekstimateriaalia.
+* Hyvä että CurreChattia saatiin käyttää ohjelmoinnin tukena. Työkalua tuli käytettyä näyttämään esimerkkejä ja selittämään lisää eri Flaskin ominaisuuksista.
+* ei huomioita
+
+***
+
 ## Loppukesä 2025
 
 Kurssipalautteen antoi 14 opiskelijaa.
