@@ -47,6 +47,8 @@ Tekniset perusvaatimukset ovat:
 * Sovellus ei käytä Flaskin lisäksi muita erikseen asennettavia Python-kirjastoja.
 * Sovelluksen ulkoasu (HTML/CSS) on toteutettu itse ilman kirjastoja.
 
+Vältä sovelluksessa Pythonin uusimpia ominaisuuksia, koska ne eivät välttämättä toimi ohjaajalla tai vertaisarvioinnin tekijällä. Hyvä tavoite on, että sovellus toimii Pythonin versiolla 3.10.
+
 Huomaa, että Flask-kirjasto tuo mukanaan automaattisesti joitakin muita kirjastoja (kuten Werkzeug), joiden käyttäminen on sallittua.
 
 ## Sovelluksen kieli
