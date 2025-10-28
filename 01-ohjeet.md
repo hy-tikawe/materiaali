@@ -5,15 +5,15 @@ permalink: /ohjeet/
 
 # Ohjeet ja aikataulu
 
-Syksyn 2025 periodin 1 aikataulu on seuraava:
+Syksyn 2025 periodin 2 aikataulu on seuraava:
 
-| ti 2.9.2025 | Aloitusluento klo 16–18 (Exactum D123) |
-| su 7.9.2025 | Välipalautus 1 |
-| su 21.9.2025 | Välipalautus 2 |
-| pe 26.9.2025 | Vertaisarvioinnin deadline |
-| su 5.10.2025 | Välipalautus 3 |
-| pe 10.10.2025 | Vertaisarvioinnin deadline |
-| su 19.10.2025 | Lopullinen palautus |
+| ti 28.10.2025 | Aloitusluento klo 16–18 (Exactum D122) |
+| su 2.11.2025 | Välipalautus 1 |
+| su 16.11.2025 | Välipalautus 2 |
+| pe 21.11.2025 | Vertaisarvioinnin deadline |
+| su 30.11.2025 | Välipalautus 3 |
+| pe 5.12.2025 | Vertaisarvioinnin deadline |
+| su 14.12.2025 | Lopullinen palautus |
 
 Voit keskustella kurssiin liittyvistä asioista kurssin [Discord-ryhmässä](https://study.cs.helsinki.fi/discord/join/tikawe), jossa on paikalla kurssin ohjaajia ja opiskelijoita. Lisäksi järjestetään pajaohjausta Exactumin salissa BK107 tiistaisin klo 12–16, keskiviikkoisin klo 14–18 sekä torstaisin klo 12–16.
 
@@ -46,7 +46,7 @@ Välipalautuksen ja palautuksen tekemiseen riittää, että repositoriosi on aja
 
 * Luo GitHubiin julkinen repositorio harjoitustyötä varten. Nimeä repositoriosi kuvaavasti.
 * Valitse projektille aihe ja kirjoita `README.md`-tiedostoon kuvaus, joka esittelee sovelluksen keskeiset toiminnot. Kirjoita kuvaus samassa muodossa kuin aloitussivun esimerkkiaiheissa ja esimerkkisovelluksessa.
-* Kirjaudu [Labtooliin](https://study.cs.helsinki.fi/labtool/courses/TKT20019.2025.S.K.2) ja ilmoita siellä projektisi GitHub-osoite.
+* Kirjaudu [Labtooliin](https://study.cs.helsinki.fi/labtool/courses/TKT20019.2025.S.K.1) ja ilmoita siellä projektisi GitHub-osoite.
 * Saat seuraavan viikon alussa ohjaajalta palautteen aiheesta Labtooliin.
 * Vinkkejä palautukseen:
   - Valitse repositorion nimi niin, että se kuvaa hyvin sovellustasi. Esimerkiksi jos teet reseptisovelluksen, voit valita esimerkiksi nimen `reseptit`.
@@ -88,7 +88,7 @@ Kurssiin kuuluu kaksi [vertaisarviointia](../vertaisarviointi), joissa annetaan 
 
 ### Kurssipalaute
 
-Anna [kurssipalaute](https://norppa.helsinki.fi/targets/95022904) viimeistään seuraavana päivänä lopullisen palautuksen deadlinen jälkeen. Palaute on anonyymia ja vaikuttaa kurssin kehitykseen.
+Anna [kurssipalaute](https://norppa.helsinki.fi/targets/95024294) viimeistään seuraavana päivänä lopullisen palautuksen deadlinen jälkeen. Palaute on anonyymia ja vaikuttaa kurssin kehitykseen.
 
 Kurssipalaute ja vastuuhenkilön kommentit kootaan [palauteyhteenvetoon](../palaute).
 
