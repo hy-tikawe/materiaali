@@ -10,6 +10,83 @@ Tällä sivulla julkaistaan yhteenvedot kurssin toteutuksilla kerätystä palaut
 
 ***
 
+## Syksy 2025 periodi 2
+
+Kurssipalautteen antoi 34 opiskelijaa.
+
+Palautteen perusteella kurssin materiaali ja ohjeistus ovat nykyisellään hyvällä tasolla, mutta niihin liittyy kuitenkin useita kehityskohteita. Materiaali voisi taustoittaa paremmin käsiteltäviä asioita, kuten tuoda esille erilaisia tapoja web-ohjelmointiin kurssilla käytetyn tavan lisäksi.
+
+Tekoälytyökalut osaavat erittäin hyvin kurssin asioita, ja palautteessa on tuotu esille huoli siitä, onko kurssin suorittaminen liian helppoa. Tämä on aiheellinen huoli, mutta tällä hetkellä tämän kurssin yhtenä tavoitteena on tarjota mahdollisuus testailla, mihin tekoälytyökalut pystyvät ja millaista hyötyä niistä voi olla ohjelmoinnissa. Kurssin osana voisi olla mahdollisesti tulevaisuudessa valvottu tentti, joka testaa kurssin perusasioiden tuntemista.
+
+Miksi sovelluksen koodi tulee kirjoittaa englanniksi? Tämä liittyy siihen, että kurssilla on tarkoituksena opetella hyviä ja ammattimaisia tapoja ohjelmoida. Englannin kielellä on hyvin vahva asema ohjelmoinnissa, ja sen avulla koodia voivat ymmärtää ja kehittää ohjelmoijat eri puolilta maailmaa.
+
+Kurssin materiaalin SQL-kyselyissä on käytössä syntaksi `FROM A, B` eikä `FROM A JOIN B` samaan tapaan kuin kurssilla _Tietokantojen perusteet_. Kuten palautteessa tuodaan esille, jotkut pitävät syntaksia `FROM A, B` vanhanaikaisena, mutta alalla on tähän liittyen erilaisia näkemyksiä. Kurssin vastuuhenkilön mielestä syntaksi `FROM A, B` on edelleen hyvä valinta.
+
+### Numeerinen palaute
+
+Arvioi seuraavia väitteitä (1 = täysin eri mieltä, 5 = täysin samaa mieltä):
+
+* Osaamistavoitteet olivat selvät: 4.79
+* Toteutustapa tuki oppimistani: 4.50
+* Materiaalit tukivat oppimistani: 4.41
+* Arviointi mittasi oppimistani: 4.18
+
+Kurssin raskaus (1 = turhan kevyt, 5 = turhan raskas):
+
+* Työmäärä suhteessa opintopisteisiin oli: 3.03
+
+Kurssin kokonaisarvosana:
+
+* Kokonaisarvosana kurssille: 4.44
+
+### Miten kehittäisit kurssia?
+
+* Ainut oma kehityskohde olisi se, että parempaan arvosanaan (4 ja 5) vaadittaviin asioihin ei saa tällä hetkellä ohjaajalta ollenkaan palautetta niin lisäisin sen option myös kurssille.
+* Discord pois
+* Ehkä olisi voinut laittaa jo materiaaleihin lisälukemistoa esim. html/jinja-asioihin sekä ehkä css-tyyleihin. Toki ymmärrettävästi ei oltu alettu toistaa netistä löytyvien kattavien manuaalien sisältöjä mutta ehkä olisi voinut lisätä jotain yleistä kuvausta näistä. Lisäksi esim. selostusta, miten html-elementit toimivat itsessään vs. JavaScript-elementit ja että millainen kieli html on itsessään (esim. if-elset onnistuu) ja miten moderneja nettisivuja nykyään tehdään. Tai avata lyhyesti flaskia vrt. pythonin muut websovellus-frameworkit? Mietin myös, onko kurssi "liian helppo" nyt kun LLM:a saa käyttää ja youtubeen on tehty tosi kattavat ja hyvät ohjeet. Kuinka vaikea olisi vain pullata huutokauppa ja muuttaa siihen jo valmiiseen pohjaan asiat? no en tiedä miten tätä suoraan tekee vaikeammaksi (eikä se varmaan itse tarkoitus ja todennäköisesti LLM:t osaa generoida riittävät pohjat joka tapauksessa... Ehkä miettisin sitä että itse sovellukselta vaadittaisiin vielä enemmän toiminnallisuuksia tai arvosanojen kriteerejä tiukennettaisiin jos ja kun LLM.t kehittyvät joka tapauksessa. Ihannetilanteessa varmaan olisi jotain lisätehtäviä joissa on melko toimiva sovellus mutta siinä on joitain virheitä mitkä pitää bongata ja selittää mistä johtuu.? Tai vaihtaa koko kurssi niin että pitää tietyillä syötteillä luoda LLM:lla sovellus joka käyttää 3 moduulia ja tekee about nämä asiat ja sitten lähdetään tarkentamaan sitä (ok, menee aika hankalaksi tarkastaa). Ainakaan periodin 2 kohdalla discordissa ei ollut juurikana keskustelua. LLM:t ovat varmaan korvanneet tämän vrt. tira1 tai ohjelmoinnin kurssit. Voisiko keskustelua joteknin lisätä - esim. vinkkejä lisäominaisuuksiin joista ei juurikaan valmiita ohjeita ja näistä tulisi keskustelua.?
+* Ei huomioita.
+* Ei mitään erityistä kehitettävää, materiaalit ja esimerkit olivat erinomaisia
+* Ei tässä heti noussut esiin kehitysideoita tähän toteutukseen.
+* Ei varsinaisesti kehitettävää mitä tulisi mieleen kurssin materiaalin perusteella.
+* En keksi mitään kehitettävää.
+* En oikeastaan mitenkään. Minun mielestäni toteutustapa on paras tapa oppia kurssin tavoitteet.
+* En osaa sanoa, kurssi oli hyvin toteutettu
+* en tiedä
+* En tiedä
+* En ymmärrä miksi koodi ja kaikki pitää kirjoittaa englanniksi.
+* Enemmän palautetta ohjaajalta välipalautuksien yhteydessä.
+* Eri kursseja vertaillessa olen huomannut, että kun palautuspäivä on viikolla (esim. maanantaina tai tiistaina klo. 23:59), tuntuu kurssin "loppurutistus" kevyemmältä ja vähemmän stressaavalta. Syy lienee siinä, että viikonloppuna työtä ei tarvitse saada valmiiksi vaan pytyy myös lepäämään opinnoilta/töiltä, eikä vain miettimään sitä missä välissä projektia tekee. Viikonloput tuppaavat olemaan niitä hetkiä, kun on muuta menoa (perhe, kaverit, harrastukset yms). Toki aikataulutus on opiskelijan omalla vastuulla ja "loppurutistuksen" pystyy välttämään hyvällä suunnittelulla. Mutta en muutakaan kehitysehdotusta keksinyt. Tämä voisi olla pieni opettajan "mind trick" keventämään kurssin loppua.
+* Eri osaamisalueista voisi olla esimerkiksi vapaaehtoisia ns. minitenttejä, joilla voisi testata, onko oppinut tai ymmärtänyt keskeisimmät käsitellyt asiat. Tämä voisi motivoida, että lukisi materiaalia vielä tarkemmin. Esimerkiksi monivalintakysymyksinä "Mitä tarkoittaa CSRF-aukko?", "Milloin taulukossa täytyy käyttää REFERENCES-määritettä?", "Mitä eroa on POST- ja GET-metodeilla?"
+* ihana kurssi, selkeät kriteerit!
+* Itse olisin mieluummin opiskellut frontin tekemistä jollain javascript frameworkilla kuin renderöimällä käsin tehtyjä html templateja. Ymmärrän kuitenkin, että kurssin työkalut on valittu sen perusteella, että ne ovat helppoja oppia ja tarkoitus on oppia perusteet ennen kuin hypätään modernimpiin työkaluihin.
+* Kaikkien projektiluontoisten kurssien kanssa itselleni tulee aina sama ongelma että loppukurssista menetän otteen kokonaisuuden hallinnasta ja työskentelystä tulee jatkuvasti hankalampaa ja hankalampaa. En tiedä onko tämä yleinen ongelma mutta toistaiseksi millään kurssilla en ole törmännyt mihinkään opastukseen miten hallinnoida omaa työskentelyään kun projekti laajenee. En tiedä onko tämä oikea kurssi opetella/käsitellä asiaa, mutta tällainen nyt tuli mieleen.
+* Konkreettisia esimerkkejä testauksesta, ongelmakohtien ratkaisemisesta ja debuggauksesta olisi hyödyllistä.
+* Kurssi on hyvä tälläisenään
+* Kurssi on jo valmiiksi riittävän hyvä!
+* kurssi on näin hyvä ja vastasi odotuksiani
+* Kurssimateriaalissa ei kunnolla kerrottu millaisia testejä suurella tietomäärällä tulisi tehdä ja miten tuloksia tulisi arvioida. Pitäisikö tulosten perusteella yrittää parantaa koodia tai selvittää syitä hitauteen tai nopeuteen? Ja jos pitää niin pitäisikö sitten raportoida tulos ennen ja jälkeen. Kurssimateriaalissa voitaisiin, käydä yksinkertaisten ratkaisujen lisäksi läpi hyväksi todettuja konventioita.
+* Mahdollisuus käyttää jotain muutakin kirjastoa kuin flask
+* Materiaalissa voisi tarkemmin ilmaista mitä tarkoitetaan tietokannan suoralla käytöllä. Materiaalissa lukee suluissa (ei ORMia), mutta ilmeisesti myöskin oman ei-ORM-tietokantarajapinnan tekeminen oli kiellettyä (SQL-queryn muodostaminen funktioilla esim. query().select().from().where().execute(), mikä palauttaisi valmiiksi formatoidun komennon ja suorittaisi sen. Tietokantaa käytetään tällöin suoraan SQL-komennolla, mutta se on vain muodostettu ohjelmallisesti). Ts. ohjeissa voisi sanoa esimerkiksi "SQL-komentojen tulee olla kokonaisia merkkijonoja, jotka löytyvät koodista."
+* Mindre stränga krav vid bedömningen
+* Minusta kurssi oli ihan hyvä.
+* Olisi kovin kiva, ettei kurssilta lentäisi välittömästi pois, jos unohtaa tehdä yhden vertaisarvioinnin. Esim. kurssin arvosanaa voisi laskea rangaistuksena. Kurssi materiaaliin voisi kurssin etenemisen kohdalle voisi laittaa muistutuksen, että vertaisarviointien deadline on perjantaisin. Tällä hetkellä siinä vain lukee "Kaikkien palautusten deadline on klo 23:59 sunnuntaina.", joka voi tuottaa väärinkäsityksiä
+* Sellaisia asioita, jotka tulisi sovellukseen tehdä heti (esim. labelit, "extends"-logiikka templateissa) tulisi esittää aiemmin, jotta harjoitustyöhön ei tule tehtyä turhaa työtä. Harjoitustyön välipalautukset vaativat kuitenkin sen edistämisen heti kurssin alusta.
+* tarkemmat ohjeet vertaispalautteen antamiseen
+* Vaatimuksia sovellukselle voisi vähän raottaa jotta saataisiin kehitettyä luovempia sovelluksia. Kurssin viimeisen palautuksen voisi myös siirtää tenttiviikon loppuun, kuten muutamalla muulla kurssilla joissa ei ole tenttiä.
+
+### Muita huomioita
+
+* :)
+* Erinomainen kurssi. Erinomainen toteutus. Opiskelijoiden luvalla voisi esitellä menneiden vuosien parhaita töitä esimerkkeinä.
+* kiitos kurssista!
+* Kurssi oli ehdottomasti kiinnostavin tähän mennessä ja on todella kivaa nähdä oman oikean sovelluksen toiminta netissä.
+* Kurssin materiaali vaikuttaa kokonaisuudessaa hyvältä. Videot ovat mahtava lisä kurssin asioiden sisäistämiseen. Ne on hyvin jaoteltu ja sopivan lyhyitä kertaus mielessä.
+*  Oikein hyvä ja kiinnostava kurssi
+* Oikein hyvä kokonaisuus! Kurssilla oli tosi paljon hyviä asioita (mm. alla mainitut sekä turvallisuusasiat jne.) ja ohjeet ja youtube-videot oli helposti seurattavia. Upeata että vertaisarviointi ohjataan suoraan gitlab-issueiksi ja tätä kautta opetetaan "oikeita" koodauksen asioita. Myös pylint ja koodin tyylin asioiden ohjeistaminen on tosi hyvä juttu. SQL:sta: en ole kova asiantuntija mutta olen ymmärtänyt että FROM taulu1, taulu2 on vanhempaa SQL-synktaksia, jota nykyisin ei suositella. vrt. LLM:n vastaus "Yes, it's old school. Use explicit JOINs - they're clearer, safer, and more maintainable." :) Voisiko esim. docker-kursseilla jatkaa tämän sovelluksen julkaisuun (jos/kun ilmaisia julkaisualustoja)?
+* Oikein hyvää joulua!🎄
+* Rauhallista joulua ja hyvää uutta vuotta!
+* videot erittäin hyviä ja selkeitä sekä materiaaliin oli panostettu. Paras materiaali hetkeen mitä nähnyt millään kurssilla.
+
 ## Syksy 2025 periodi 1
 
 Kurssipalautteen antoi 30 opiskelijaa.
