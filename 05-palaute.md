@@ -10,6 +10,76 @@ Tällä sivulla julkaistaan yhteenvedot kurssin toteutuksilla kerätystä palaut
 
 ***
 
+## Kevät 2026 periodi 3
+
+Kurssipalautteen antoi 13 opiskelijaa.
+
+Kurssi vaikuttaa toimivan kokonaisuutena hyvin, mutta kehitettävää löytyy aina ja palautteessa tulee esille monia hyödyllisiä asioita.
+
+Palautteessa on tuotu esille, että kurssivideoissa näkyy mainoksia YouTubessa. Tämä ei ole hyvä tilanne, eikä kurssin vastuuhenkilö ole ollut tietoinen tästä ongelmasta. Kiitos asiasta ilmoittamisesta!
+
+Labtoolissa välipalautuksista saa pisteet 0–2, jotka kuvastavat projektin edistystä mutta eivät vaikuta arvosteluun. Näiden pisteiden rooli olisi tosiaan hyvä tuoda esille paremmin kurssin ohjeistuksessa.
+
+Tällä hetkellä kurssin arvosteluperusteet on laadittu niin, että käytössä on tosiaan vain arvosanat 3–5. Tämänkin voisi tuoda esille selkeämmin kurssin ohjeistuksessa.
+
+### Numeerinen palaute
+
+Arvioi seuraavia väitteitä (1 = täysin eri mieltä, 5 = täysin samaa mieltä):
+
+* Osaamistavoitteet olivat selvät: 4.62
+* Toteutustapa tuki oppimistani: 4.54
+* Materiaalit tukivat oppimistani: 4.46
+* Arviointi mittasi oppimistani: 4.25
+
+Kurssin raskaus (1 = turhan kevyt, 5 = turhan raskas):
+
+* Työmäärä suhteessa opintopisteisiin oli: 3.23
+
+Kurssin kokonaisarvosana:
+
+* Kokonaisarvosana kurssille: 4.46
+
+### Miten kehittäisit kurssia?
+
+* Aiheita selventävät esimerkit aina tervetulleita. Muuta en osaa nyt sanoa.
+* Ei kehitettävää
+* En keksi mitään.
+* Esimerkkisovelluksen videosarjan mainosasetuksia voisi muuttaa. Välillä saman videon aikana joutui katsomaan useita minuutteja mainoksia.
+* Kattavat vertaisarvioinnit saisivat olla pakollisia kurssin läpipääsyyn. Itse sain vain yhden ja sekin oli malliesimerkki suppeasta palautteesta... Kattavista vertaisarvioinneista (joita näin muiden sovelluksissa) saa nimittäin todella paljon apua oman sovelluksen parantamiseen.
+* Videot olivat mahtava lisä kurssimateriaalin tueksi. Niissä tosin oli välillä virheitä, jotka joko korjattiin myöhemmin tai ei ollenkaan.
+* Kurssilla oli kädet sidottu monella tapaa eli esimerkiksi yksinkertaisia javascript-elementtejä ei voinut käyttää (oletko varma, että), joiden korvaaminen omilla sivuillaan ei ollut kovin motivoivaa, mutta tulipahan tehtyä
+* Kurssimateriaali oli tosi kattava ja videosarja pelasti minut, kiitos siitä! Videoissa olisi voinut kuitenkin selittää vähän kattavammin mitä tekee ja miksi, sekä antaa ehdotuksia miten voisi koodaa, jos ei tee ihan samanlaista sovellusta kun opettaja (esim. huutojen teko vs. viestien/kommenttien teko).
+* Kurssin aikataulu on melko tiivis periodin lyhyen keston vuoksi. Työstäisin mielelläni sovellusta kahden periodin ajan, jotta ehtisin sisäistää aihealueen paremmin.
+* Labtool-sivun pisteet hieman hämmensivät. Ymmärtääkseni Week-pisteet eivät vaikuta lopulliseen arviointiin, mutta tästä en löytänyt varmennusta.
+* Modernien html tägien käyttöä olisi hyvä tukea, ei pelkästään label attribuutteja vaan kaikki <main>, <header> <nav> jne. sellaset (ja toki matsku jo ohjaa jotakuinkin siihen suuntaan. Rehellisesti: en hirveesti matskua lukenu paitsi tietyt olennaisimmat kohdat
+* Olisi kiva jos kurssilla käytettäviä kirjastoja ei olisi rajattu niin paljon, mutta tämä vaikeuttaisia arviointia ja vertaisarvioiontia niin ihan ymmärrettävää kyllä.
+* pylint-ohjeet olivat piilossa teknisen tarkistuslistan takana, ne olisivat voineet olla myös esim. viikottaisissa ohjeissa tai arvostelusivulla linkattuna
+
+### Muita huomioita
+
+* Kokonaisuudessaan todella mielekäs ja hyvin suunniteltu kurssi! Mielestäni helposti lähestyttävä ja apua on saatavilla monessa eri muodossa mikä on plus. Oli myös hauska nähdä kuinka erilaisia sovelluksista tuli, vaikka kaikilla on sama pohja/ohjeet.
+* Kurssilla olisi hyvä olla laajempi suunnitteluun keskittyvä vaihe, koska itselläni ainakin jäi paljon refaktoroitavaa kurssin loppuun kun suunnittelu oli tehty alussa huonosti.
+* Loistava kurssi ja erinomainen materiaali. Kurssi nivoo hienosti yhteen myös OHPE:ssa sekä OHJA & TiKaPe:ssa opittuja asioita. Erityisesti koodausvideot ovat todella opettavaisia. Nyt osaan käyttää Gitiä ja GitHubia sekä laatia CRUD-sovelluksia.
+* miksi kurssilla on arvosteluohjeet vaan arvosanoille 3-5? onko niin että 3 on huonoin arvosana jolla päästetään läpi? osa asioista joita ilmeisesti edellytetään läpipääsyyn on esitetty videoissa mutta ei arvostelusivulla. monta vähän epäselvää asiaa kurssilla.
+* Videot auttoivat ehkä eniten tässä kurssissa. Ymmärsin, miten ajatusprosessi etenee loogisesti työstäessäni tätä projektia.
+* Yllätti kuinka paljon vertaisarvio tekeminen auttoi myös tarkastelemaan omaa sovellusta.
+
+### Miten kehittäisit kurssin pajaohjausta?
+
+* En käynyt pajassa, koska en kokenut sitä tarpeelliseksi.
+* En käynyt, en kokenut pajaohjausta itselleni tarpeelliseksi.
+* En käynyt, koska materiaalit olivat riittävän kattavat.
+* En osallistunut pajaohjaukseen.
+* En osallistunut pajoihin, koska kurssin materiaali ja erityisesti koodausvideot tukivat oppimistani niin hyvin, etten kokenut tarvitsevani lisäohjausta. (Älkää silti huonontako materiaalin laatua pajojen vetovoiman kasvattamiseksi.)
+* Eri alan opiskelijana kynnys oli liian korkealla tulla paikan päälle kysymään apua. Onneksi oli Discord ja videot. Vertaisarviointien kautta näki kivasti myös muiden sovelluksia, joista sai ideoita omaan työhön.
+* Materiaalit olivat riittävän hyviä, joten ei tullut sellaisia ongelmia mihin olisin tarvinut pajaohjausta.
+* Ohjaajat olivat mielestäni tosi hyviä ja aina osaavat selittää, jos en ymmärtänyt jotain.
+* On jo entuudesta tuttua hommaa ni ei ollu tarvetta millekkää ohjaukselle
+* Pajaohjausta voisi olla useammin ja ohjaajia myös useampi (jos mahdollista). Pajoissa piti odottaa, että ohjaaja vapautuisi joka kerta kun kävin, koska hän auttoi myös muiden kurssien opiskelijoita pajalla.
+* Vie liikaa aikaa komutoida Kumpulaan ja takaisin (ja palelee pysäkeillä).
+
+***
+
 ## Syksy 2025 periodi 2
 
 Kurssipalautteen antoi 34 opiskelijaa.
@@ -86,6 +156,8 @@ Kurssin kokonaisarvosana:
 * Oikein hyvää joulua!🎄
 * Rauhallista joulua ja hyvää uutta vuotta!
 * videot erittäin hyviä ja selkeitä sekä materiaaliin oli panostettu. Paras materiaali hetkeen mitä nähnyt millään kurssilla.
+
+***
 
 ## Syksy 2025 periodi 1
 
