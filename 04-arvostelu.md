@@ -5,7 +5,7 @@ permalink: /arvostelu/
 
 # Kurssin arvostelu
 
-Tämä sivu kuvaa kurssin arvosteluperusteet, jotka kurssin ohjaja käy läpi työsi arvostelussa. Kurssin arvosana määräytyy seuraavasti:
+Tämä sivu kuvaa kurssin arvosteluperusteet, jotka kurssin ohjaaja käy läpi työsi arvostelussa. Kurssin arvosana määräytyy seuraavasti:
 
 * Saat kurssista arvosanan 3, jos perusvaatimukset täyttyvät.
 * Saat kurssista arvosanan 4, jos arvosanojen 3–4 vaatimukset täyttyvät.
