@@ -8,7 +8,7 @@ permalink: /ohjeet/
 Kevään 2026 periodin 4 aikataulu on seuraava:
 
 | ti 10.3.2026 | Aloitusluento klo 16–18 (Exactum D122) |
-| su 15.3.2026 | Välipalautus 1 |
+| <s>su 15.3.2026</s> <br> ti 17.3.2026 | Välipalautus 1 |
 | su 29.3.2026 | Välipalautus 2 |
 | su 5.4.2026 | Vertaisarvioinnin deadline |
 | su 19.4.2026 | Välipalautus 3 |
