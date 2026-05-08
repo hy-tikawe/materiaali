@@ -5,17 +5,17 @@ permalink: /ohjeet/
 
 # Ohjeet ja aikataulu
 
-Kevään 2026 periodin 4 aikataulu on seuraava:
+Alkukesän 2026 aikataulu on seuraava:
 
-| ti 10.3.2026 | Aloitusluento klo 16–18 (Exactum D122) |
-| <s>su 15.3.2026</s> <br> ti 17.3.2026 | Välipalautus 1 |
-| su 29.3.2026 | Välipalautus 2 |
-| su 5.4.2026 | Vertaisarvioinnin deadline |
-| su 19.4.2026 | Välipalautus 3 |
-| su 26.4.2026 | Vertaisarvioinnin deadline |
-| su 3.5.2026 | Lopullinen palautus |
+| ti 12.5.2026 | Aloitusluento klo 16–18 (Exactum D122) |
+| su 17.5.2026 | Välipalautus 1 |
+| su 31.5.2026 | Välipalautus 2 |
+| su 7.6.2026 | Vertaisarvioinnin deadline |
+| su 14.6.2026 | Välipalautus 3 |
+| su 21.6.2026 | Vertaisarvioinnin deadline |
+| su 28.6.2026 | Lopullinen palautus |
 
-Voit keskustella kurssiin liittyvistä asioista kurssin [Discord-ryhmässä](https://study.cs.helsinki.fi/discord/join/tikawe), jossa on paikalla kurssin ohjaajia ja opiskelijoita. Lisäksi järjestetään pajaohjausta Exactumin salissa BK107 keskiviikkoisin klo 12–16 sekä perjantaisin klo 12–16.
+Voit keskustella kurssiin liittyvistä asioista kurssin [Discord-ryhmässä](https://study.cs.helsinki.fi/discord/join/tikawe), jossa on paikalla kurssin ohjaajia ja opiskelijoita. <!--Lisäksi järjestetään pajaohjausta Exactumin salissa BK107 keskiviikkoisin klo 12–16 sekä perjantaisin klo 12–16.-->
 
 ## Tärkeät deadlinet
 
@@ -46,7 +46,7 @@ Välipalautuksen ja palautuksen tekemiseen riittää, että repositoriosi on aja
 
 * Luo GitHubiin julkinen repositorio harjoitustyötä varten. Nimeä repositoriosi kuvaavasti.
 * Valitse projektille aihe ja kirjoita `README.md`-tiedostoon kuvaus, joka esittelee sovelluksen keskeiset toiminnot. Kirjoita kuvaus samassa muodossa kuin aloitussivun esimerkkiaiheissa ja esimerkkisovelluksessa.
-* Kirjaudu [Labtooliin](https://study.cs.helsinki.fi/labtool/courses/TKT20019.2026.K.K.2) ja ilmoita siellä projektisi GitHub-osoite.
+* Kirjaudu [Labtooliin](https://study.cs.helsinki.fi/labtool/courses/TKT20019.2026.V.K.2) ja ilmoita siellä projektisi GitHub-osoite.
 * Saat seuraavan viikon alussa ohjaajalta palautteen aiheesta Labtooliin.
 * Vinkkejä palautukseen:
   - Valitse repositorion nimi niin, että se kuvaa hyvin sovellustasi. Esimerkiksi jos teet reseptisovelluksen, voit valita esimerkiksi nimen `reseptit`.
@@ -88,14 +88,14 @@ Kurssiin kuuluu kaksi [vertaisarviointia](../vertaisarviointi), joissa annetaan 
 
 ### Kurssipalaute
 
-Anna [kurssipalaute](https://norppa.helsinki.fi/targets/95025309) viimeistään seuraavana päivänä lopullisen palautuksen deadlinen jälkeen. Palaute on anonyymia ja vaikuttaa kurssin kehitykseen.
+Anna [kurssipalaute](https://norppa.helsinki.fi/targets/95022769) viimeistään seuraavana päivänä lopullisen palautuksen deadlinen jälkeen. Palaute on anonyymia ja vaikuttaa kurssin kehitykseen.
 
 Kurssipalaute ja vastuuhenkilön kommentit kootaan [palauteyhteenvetoon](../palaute).
 
 ## Ohjeita
 
 * Ennen sovelluksen toteuttamisen aloittamista sinun kannattaa tutustua kurssimateriaaliin ja tehdä pieniä kokeiluja, jotta saat harjoiteltua kurssilla käytettyjä tekniikoita.
-* Neuvoja tietokannan suunnitteluun löydät kurssin _Tietokantojen perusteet_ materiaalista. Erityisesti kurssin materiaalin [luku 6](https://tikape.mooc.fi/kevat-2026/osa6/) on hyödyllinen.
+* Neuvoja tietokannan suunnitteluun löydät kurssin _Tietokantojen perusteet_ materiaalista. Erityisesti kurssin materiaalin [luku 6](https://tikape.mooc.fi/kesa-2026/osa6/) on hyödyllinen.
 * Sovellus ja tietokanta rakentuvat pikkuhiljaa ja niihin tulee muutoksia. Kannattaa aloittaa yksinkertaisesta ja muuttaa rakennetta tarvittaessa myöhemmin.
 * Palautuksissa ohjaaja tutustuu projektisi uusimpaan versioon GitHubissa. Pidä huoli siitä, että GitHubissa on sovelluksesi ajantasainen versio.
 * Sovelluksen dokumentaatio luodaan tiedostoon `README.md`, joka näkyy GitHubissa projektin etusivulla. Kirjoita dokumentaatio sellaista henkilöä varten, joka haluaa saada käsityksen sovelluksesta ja mahdollisesti ottaa sen käyttöön itse tai kehittää sovellusta.
