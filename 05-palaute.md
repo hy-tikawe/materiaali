@@ -10,6 +10,83 @@ Tällä sivulla julkaistaan yhteenvedot kurssin toteutuksilla kerätystä palaut
 
 ***
 
+## Kevät 2026 periodi 4
+
+Kurssipalautteen antoi 34 opiskelijaa.
+
+Palautteen perusteella kurssi toimii nykyisellään hyvin, mutta monia asioita voisi kuitenkin parantaa.
+
+Kuten edellisellä periodilla, palautteessa tulee esille, että YouTube näyttää häiritsevästi mainoksia kurssivideoissa. Videot siirretään pian Unitubeen, jolloin tämä ongelma poistuu.
+
+Ohjaajien palautteen välipalautuksissa toivottaisiin olevan laajempaa. Mietimme, miten palautetta voisi kehittää, ottaen huomioon sen, että ohjaajalla on rajatusti aikaa antaa palautetta opiskelijaa kohden.
+
+### Numeerinen palaute
+
+Arvioi seuraavia väitteitä (1 = täysin eri mieltä, 5 = täysin samaa mieltä):
+
+* Osaamistavoitteet olivat selvät: 4.56
+* Toteutustapa tuki oppimistani: 4.39
+* Materiaalit tukivat oppimistani: 4.41
+* Arviointi mittasi oppimistani: 4.12
+
+Kurssin raskaus (1 = turhan kevyt, 5 = turhan raskas):
+
+* Työmäärä suhteessa opintopisteisiin oli: 3.00
+
+Kurssin kokonaisarvosana:
+
+* Kokonaisarvosana kurssille: 4.41
+
+### Miten kehittäisit kurssia?
+
+* Ei kehitysehdotuksia, lisää samanlaisia kursseja kiitos!
+* En keksi mitään kehitettävää.
+* en osaa sanoa
+* En osaa sanoa, miten asia olisi käytännössä järjestettävissä, mutta tuki ison projektikokonaisuuden pilkkomiseen pienempiin, hallittaviin osiin olisi varmasti hyödyllistä monelle.
+* En tiedä. Koen, että kurssin toteutus ja materiaalit olivat hyvät ja selkeät.
+* Enemmän keskittymistä siihen, miten sivustosta saadaan käyttökokemuksellisesti hyvä.
+* eos
+* Eos
+* Gitin commit viesteistä voisi antaa lisää esimerkkejä kurssimateriaalissa.
+* Jollain tavalla enemmän haastetta? Esim. mallisoveluksen videoiden avaaminen viikottain, eikä sillain, että kaikki on auki alusta alkaen. Muuten aika hyvä kurssi ja hyvin saa ja pystyy antaa palautetta.
+* Korostaisin mahdollisuutta jatkaa kesken jäännyttä sovellusta seuraavalla periodilla. Kurssissa tulee ensimmäistä web-sovellusta kehittävälle paljon uutta asiaa. Jos asian haluaa oppia hyvin vie se aikaa, joka on erityisesti täysipäiväistä työtä tekevälle usein kortilla. Olisin itse suunnitellut toteuttavani ohjelman alun perin koko kevään mittaisena projektina yhden periodin asemesta.
+* Kurssi ohjaajien palaute oli aika suppea. Vertaisarvioinnit olivat paljon laajempia ja niistä sai oikeasti hyviä vinkkejä. En tiedä onko näin tarkoituksella. Olin saanut välipalautus 3 mennessä tehtyä suurella tietomäärällä testauksen ja pylint raportin, mutta palautteissa ei mainittu niistä mitään. Olisin halunnut palautetta onko ne oikein tehty.
+* Kurssi oli niin hyvä ja innostava etten keksi kehitettävää.
+* Kurssi on hyvin rakennettu ja erityisesti videot tukivat oppimista, en siis keksi mitään suurempaa kehittämisen aihetta!
+* Kurssi on jo ihan tarpeeksi hyvä.
+* Kurssi on mielestäni erittäin selkeä ja hyvin rakennettu. En keksi parannettavaa
+* Kurssin osaamistavoitteet ja aikataulu olivat selkeitä ja sopivia, ja ne voisi pitää ennallaan. Materiaalia voisi kehittää lisäämällä siihen muutakin kuin omaan sovellukseen liittyviä ominaisuuksia, mutta kokonaisuus oli hyvä.
+* Labtooliin tullut palaute oli turhan suppeaa. Myös tämä kohta vaatimuksissa jäi epäselväksi: "Kehitystyön aikana on tehty commiteja säännöllisesti". Ymmärrän kyllä, että tällä halutaan estää se, että koko harjoitustyö jätetään viimeiseen iltaan. Kurssimateriaalissa voisi kuitenkin avata tarkemmin, mikä lasketaan säännölliseksi.
+* Materiaali ja videot ja muut olivat erittäin kattavia. Kurssi oli kenties mielenkiintoisin ja eniten opettavin tähän mennessä, kun pääsi konkreettisesti tekemään ja kokeilemaan.
+* Materiaali oli erittäin selkeä ja kattava, enkä keksi paljoakaan moitittavaa. Videosarja voisi kattaa myös indeksit ja sivutuksen.
+* Mielestäni kaikki on jo hyvässä vaiheessa.
+* Mielestäni kurssi toimi erinomaisesti jo nyt. Minulla ei ollut mitään aiempaa kokemusta web-ohjelmoinnista, ja materiaalin ja etenkin videoiden avulla onnistuin silti luomaan toimivan sovelluksen. Kiitos Antille!
+* Mielestäni kurssilla on vähän liian helppo vain kopioida esimerkkisovellusta.
+* Not a pedagogist, but I do think a little parity between video and written material would be less confusing, however the course was adequate as it is.
+* Olin hieman hämmentynyt useasta eri esimerkkisovelluksesta ja niiden eroista. Esim. kurssimateriaalin keskustelu-sovellus ei kai sisältänyt kurssitöiltä vaadittua luokittelutoimintoa.
+* Osa ohjeista oli epäselviä, kuten esim. "Commitit ovat hyviä kokonaisuuksia". On epäselvää, mikä on hyvä kokonaisuus. Lisäksi osa ohjeista on piilotettu outoihin paikkoihin, esim. linkki pylint-ohjeeseen voisi löytyä kurssin arvostelu -sivulta.
+* Paljon mainoksia kurssimateriaali videoissa, kun ne katsotaan youtuben kautta...
+* Sivupohjan (layout.html ja {<span></span>% extends %} ja {<span></span>% block %}) opetus on luvussa 10, vaikka sitä tarvitsisi jo luvun 6 lisäominaisuuksia tehdessä ja luvun 9 flash-viestien sijoittamisessa. Tein itse lukujen 6 ja 9 asioita ensin ilman sivupohjaa ja jouduin myöhemmin palaamaan korjaamaan templatet, kun huomasin että asia oli opetettu vain väärässä kohtaa. Sivupohja kuuluisi aiempaan lukuun, tai sen voisi vähintään mainita silloin kun sitä oikeasti tarvitsee.
+* Suuri osa arviointikriteereistä vaikuttaa mielestäni järkevälle mutta muutama kriteeri esim. Arvosanaan 4 vaadittava "Muuttujien ja funktioiden nimet muotoa total_count (ei totalCount)" ovat omasta mielestäni pikemminkin mielipidekysymyksiä, siirtäisin nämä arvosanan 4 kriteereistä arvosanan 5 kriteereiksi tai poistaisin tämänkaltaiset kriteerit kokonaan sillä esim. jos joku ei olisi huomannut kyseisiä kriteereitä kun vasta sen jälkeen kun ohjelma sisältää jo tuhansia rivejä, arvosanan nostoon vaadittavat muutokset eivät muuta ohjelman funktionaalisuutta yhtään mutta voivat rikkoa koko ohjelman jos esim. on nimennyt kaikki muuttujat yhteen kirjoitettuna ja vaihtaessa niitä haluttuun muotoon unohtaa yhden rivin -> joku funktio voi hajota kokonaan jos ei huomaa unohtaneensa vaihtaa muuttujan nimeä yhdeltä riviltä
+* Tällä hetkellä en keksi mitään parannettavaa.
+* Välipalautteet olivat aika suppeita. Ohjaajien pitää käydä varmaan tosi monia projekteja läpi ja jokaisesta palautteen antaminen ja ongelmien selvittäminen vie aikaa, mutta kurssisivulla lukee välipalautteiden tulevan alkuviikosta ja suurin osa palautteista tuli ke-pe. Tämä on ikävää sen takia, että jos projektissasi (varsinkin ensimmäisellä viikolla) on jotain vikaa kurssin kannalta, niin olet ehtinyt kehittää sitä jo monta päivää eteenpäin. Monena viikkona sain kurssipalautteen joka vaan ilmoitti, että koodissa joku error sen tarkemmin kertomatta ja sitten yritän selvittää mikä error ilman tarkempaa tietoa enkä edes tiedä mistä commitista testaus on tehty. Minulle ihan myöskään selvinnyt mitä labtoolsissa annetut pisteet tarkoittavat ja miten ne vaikuttavat kurssiarvosteluun. Tässä projektissa kun kehittää yksin, niin ei välttämättä kiinnitä hirveästi huomiota siihen, että onko commitit ehjiä, kun enemmän käyttää gittiä varmuuskopiona ja puskee koodia päivän päätteeksi. Tästä voisi ehkä sanoa jotain materiaalissa tai ilmoittaa labtooliin commitin mistä väliarvion voi tehdä, mikä on testattu toimivaksi. Kurssimateriaaliin olisi myös hyvä ehkä lisätä esimerkki session arvojen tarkistamisesta. Erässä väliarviossa arvioija ei ilmeisesti ollut pyyhkinyt välimuistia edellisen projektin jälkeen, jonka takia sai erroreja, kun session olioon tallennettu käyttäjä ei ollut olemassa. Lisäsin omaan koodiin myöhemmin kohdan joka tarkistaa ennen jokaista pyyntöä tietokannasta että käyttäjä on olemassa ja jos ei ole, niin pyyhkii session. Saattaa toki olla, että esimerkeissä oli jotain tästä, mutta en vain huomannut. Uskoisin tämän helpottavan arvioijien työtä.
+* Voisi olla ehkä kaksi tai kolme esimerkkisovellusta.
+
+### Muita huomioita
+
+* Ennen kurssia dynaamisen verkkosivun luontiprosessi oli käytännössä taikaa. Kurssi on tehnyt tehtävänsä erinomaisesti, koska tämä taika ei enää ole mikään mysteeri. Koin myös, että ohjelman luonti oli mitä mieluisimpaa, koska siinä sai soveltaa omaa vapaata luovuutta. Materiaali on kattava ja tukee oppimista. Kiitos hienosta kurssista!
+* Hyvää vappua ja tulevaa kesää!
+* Kiitos kurssista!
+* Kiitos kurssista!
+* Kurssi oli todella hyvä. Materiaalit olivat kattavat (erityisesti videot) ja kurssi vaatimukset selkeät. Kokemattomana web-ohjelmoijana seurasin aika tarkasti kurssimateriaalin ja videoiden esimerkkejä, ja välillä kävi mielessä että paremman oppimisen eteen olisi pitänyt miettiä ja kokeilla vähän enemmän itse. Loppujen lopuksi opin silti valtavasti ja soveltaminenkin alkoi sujua. Pajaohjaus toimi taas tosi hyvin ja siellä sai apua, vinkkejä ja vertaistukea.
+* Kurssiesimerkeissä käytetty db.py lukitti tietokannan jos pyyntö ei mennyt läpi. Molemmissa tekemissäni vertaisarvioinneissa oli tämä bugi, jossa jos yrittää rekisteröidä saman käyttäjänimen useasti putkeen, niin tietokanta menee lukkoon.
+* Kurssimateriaalista etenkin esimerkkisovelluksen videosarja tuki sovelluksen tekemistä paljon.
+* Tämä on paras suorittamani kurssi tähän mennessä. Sisältö nivoi yhteen muissa tietojenkäsittelytieteen perusopinnoissa opittuja taitoja. Materiaalit olivat hyviä ja erityisesti esimerkkisovelluksen toteutusta havainnolistava videosarja oli loistava. Oli päivän kohokohta katsoa videolta miten jokin asia tehdään ja soveltaa sitten opittua omaan sovellukseen. Kurssin jälkeen myös koki oppineensa uuden taidon.
+* Thank you for not adding js.
+* Videosarja oli tosi hyvä!
+
+***
+
 ## Kevät 2026 periodi 3
 
 Kurssipalautteen antoi 13 opiskelijaa.
