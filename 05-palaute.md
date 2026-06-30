@@ -10,6 +10,50 @@ Tällä sivulla julkaistaan yhteenvedot kurssin toteutuksilla kerätystä palaut
 
 ***
 
+## Alkukesä 2026
+
+Kurssipalautteen antoi 12 opiskelijaa.
+
+Palautteessa on useita mainintoja vertaisarviointiin liittyen. Erityisesti haasteena on, kuinka antaa hyvää vertaispalautetta kurssin alkuvaiheessa, kun itsellä ei ole vielä välttämättä paljon osaamista. Vertaisarviointi vaikuttaa sinänsä hyödylliseltä kurssin osalta, mutta sen toteutustavassa on kehittämistä.
+
+Palautteessa tulee myös esille, että CurreChatin lisäksi kurssilla voisi olla hyvä sallia muita tapoja tekoälytyökalujen käyttämiseen.
+
+### Numeerinen palaute
+
+Arvioi seuraavia väitteitä (1 = täysin eri mieltä, 5 = täysin samaa mieltä):
+
+* Osaamistavoitteet olivat selvät: 4.83
+* Toteutustapa tuki oppimistani: 4.67
+* Materiaalit tukivat oppimistani: 4.83
+* Arviointi mittasi oppimistani: 4.67
+
+Kurssin raskaus (1 = turhan kevyt, 5 = turhan raskas):
+
+* Työmäärä suhteessa opintopisteisiin oli: 3.25
+
+Kurssin kokonaisarvosana:
+
+* Kokonaisarvosana kurssille: 4.58
+
+### Miten kehittäisit kurssia?
+
+* En kyllä keksi mitään kehitettävää, oli hyvä näin.
+* Kurssisivun materiaaliin voisi mahdollisesti lisätä jotain pieniä esimerkkejä gitin käytöstä. Esimerkiksi minkälaisia muutoksia yhteen commitiin ja minkälaisia viestejä kannattaisi esimerkiksi käyttää.
+* Mielestäni Currechatin käyttämisen salliminen on hyvä lisä, mutta sen käyttö on melko turhauttavaa. Käyttöliittymä hidastuu todella nopeasti ja uusia keskusteluja joutuu avaamaan kohtuu usein, jotta käyttöliittymä pysyy nopeana. Tässä voisi miettiä olisiko tekoälyn käyttämisen sallimiseen jokin parempi tapa kuin CurreChat.
+* no notes
+* Oli epäselvää miten vertaisarvioinnista saatu palaute vaikutti arvosanaan tai miten se tulisi huomioida ohjelmistokehityksessä. Ehkä olisi ollut selkeämpää, että issuet olisi pitänyt sulkea ja/tai kommentoida miten asia on ratkaistu tai jos vertaisarvoijan ehdotuksia ei ole toteutettu, niin miksi ei.
+* Osa esimerkiksi kurssin perusvaatimuksista oli muotoiltu niin että niissä oli väärin tulkitsemisen mahdollisuus.
+* Poistaisin ensimmäisen vertaisarvion tai siirtäisin sitä myöhempään ajankohtaan.
+* Vaikka ymmärrän vertaisarvioinnin tarkoituksen, voi olla todella vaikeaa antaa tapoja toiselle "parantaa", jos vasta itsekin harjoittelee. Mielestäni sen ei pitäisi olla vaatimus hyvässä vertaisarvioinnissa, jos muuten tekee hyvän arvioinnin (on esim kommentoinut toteutusta kattavasti) ja toisen työ vastaa annettuja materiaaleja.
+* Vertaisarviointien antaminen kurssin alkupuolella oli hieman haastavaa teknisen puolen osalta, kun asioita ei vielä ymmärtänyt kovin hyvin. Jos olisin tehnyt vertaisarvioinnit nyt kurssin lopuksi, olisin osannut antaa paljon paremmin palautetta.
+
+### Muita huomioita
+
+* Ihan superkiva kurssi! Se, että pääsi itse toteuttamaan alusta loppuun pitkälti sellaisen projektin kuin haluaa oli todella mukavaa ja ehdottomasti lisäsi motivaatiota. Materiaali oli kattavaa ja lisäksi oli vielä esimerkkisovellukset, joista oli paljon apua.
+* Tosi kiva kurssi, yksi lemppareistani tähän mennessä!
+
+***
+
 ## Kevät 2026 periodi 4
 
 Kurssipalautteen antoi 34 opiskelijaa.
