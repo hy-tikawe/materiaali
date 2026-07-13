@@ -29,6 +29,8 @@ table {display: table; width:100%;}
 | Käyttäjä pystyy valitsemaan tietokohteelle yhden tai useamman luokittelun |
 | Käyttäjä pystyy lisäämään tietokohteeseen toissijaisia tietokohteita |
 
+Huom! "Käyttäjä pystyy valitsemaan tietokohteelle yhden tai useamman luokittelun" tarkoittaa, että käyttäjä voi halutessaan valita myös useamman luokittelun. Tämä ei tarkoita, että sovelluksessa on etukäteen joko määritelty että luokitteluja voi olla vain yksi tai että luokitteluja voi olla useampia. [Tikape:n materiaali](https://tikape.mooc.fi/kesa-2026/osa3/#liitostaulut) saattaa olla tässä hyödyllinen.
+
 Sovelluksen perusvaatimukset on kuvattu tarkemmin [aloitussivulla](../aloitus).
 
 ### Tekniset perusvaatimukset
