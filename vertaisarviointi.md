@@ -16,7 +16,9 @@ Vertaisarvioinnissa tutustut toisen kurssin opiskelijan työhön ja annat siitä
 4. Lisää arvioitavan työn GitHub-sivulle issue, jossa raportoit kohdissa 2 ja 3 huomaamasi asiat. Koeta kirjoittaa raportti niin, että se auttaa työn tekijää.
 5. Lisää URL-osoite (linkki) kirjoittamaasi issueen Labtooliin. Varmista linkkiä lisätessäsi, että linkin alussa on protokollan määrittely `https`.
 
-Huomaa, että "Hyvältä näyttää" tms. ei ole riittävä raportti. Jos työ on jo hyvässä vaiheessa, voit huomauttaa myös pienemmistä asioista. Älä kuitenkaan kirjoita mitään raporttiin vain sen takia, että siihen tulisi enemmän pituutta.
+Huomaa, että "Hyvältä näyttää" tms. ei ole riittävä raportti. Kerro vähintään mitä olet testannut ja miten. Jos työ on jo hyvässä vaiheessa, voit huomauttaa myös pienemmistä asioista. Älä kuitenkaan kirjoita mitään raporttiin vain sen takia, että siihen tulisi enemmän pituutta.
+
+Sovellusta testatessa ei kannata keskittyä testaamaan voin "hyviä" tapauksia, vaan kokeilla myös miten sovellus käsittelee mahdolliset virhetilanteet. Jos löydät ongelman, kerro myös miten ongelman saa toistettua, esimerkiksi mitä arvoja olet syöttänyt lomakkeeseen päästäksesi virhetilanteeseen, tai koodista mikä kohta on ongelmallinen ja miksi (ja mielellään myös miten sitä voisi parantaa).
 
 Jos saat arvioitavaksi sovelluksen, joka on hyvin alkuvaiheessa (esimerkiksi repositoriossa on pelkkä tiedosto `README.md`), voit kirjoittaa hyvin lyhyen vertaisarvioinnin ja todeta, ettei arvioitavaa ole.
 
