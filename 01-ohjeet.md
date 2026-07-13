@@ -80,6 +80,8 @@ Välipalautuksen ja palautuksen tekemiseen riittää, että repositoriosi on aja
 
 Kurssiin kuuluu kaksi [vertaisarviointia](../vertaisarviointi), joissa annetaan palautetta toisen opiskelijan työstä. Saat ohjeet vertaisarviointiin sähköpostitse välipalautusten 2 ja 3 jälkeen.
 
+Molempien vertaisarviointien tekeminen on vaatimus kurssin suorittamiselle, ja molempien tekeminen kattavina on vaatimus arvosanalle 4.
+
 ### Lopullinen palautus
 
 * Kurssi arvostellaan tämän sovelluksen version perusteella.
