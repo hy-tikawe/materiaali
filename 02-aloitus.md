@@ -22,7 +22,7 @@ Sovelluksen perusvaatimukset ovat:
 * Käyttäjä näkee sovellukseen lisätyt tietokohteet. Käyttäjä näkee sekä itse lisäämänsä että muiden käyttäjien lisäämät tietokohteet.
 * Käyttäjä pystyy etsimään tietokohteita hakusanalla tai muulla perusteella. Käyttäjä pystyy hakemaan sekä itse lisäämiään että muiden käyttäjien lisäämiä tietokohteita.
 * Sovelluksessa on käyttäjäsivut, jotka näyttävät jokaisesta käyttäjästä tilastoja ja käyttäjän lisäämät tietokohteet.
-* Käyttäjä pystyy valitsemaan tietokohteelle yhden tai useamman luokittelun. Mahdolliset luokat ovat tietokannassa.
+* Tietokohteille on valittavissa useampia luokitteluja, jotka on tallennettu tietokantaan. Käyttäjä voi valita jokaisen luokittelun kohdalla yhden useasta vaihtoehdosta.
 * Sovelluksessa on pääasiallisen tietokohteen lisäksi toissijainen tietokohde, joka täydentää pääasiallista tietokohdetta. Käyttäjä pystyy lisäämään toissijaisia tietokohteita omiin ja muiden käyttäjien tietokohteisiin liittyen.
 
 Esimerkkisovellus sekä tämän sivun lopussa olevat esimerkkiaiheet selventävät, mitä perusvaatimukset tarkoittavat käytännössä.
@@ -65,7 +65,9 @@ Sovelluksen käyttöliittymän ja `README.md`-tiedoston kieli voi olla suomi, ru
 * Käyttäjä näkee sovellukseen lisätyt reseptit.
 * Käyttäjä pystyy etsimään reseptejä hakusanalla.
 * Käyttäjäsivu näyttää, montako reseptiä käyttäjä on lisännyt ja listan käyttäjän lisäämistä resepteistä.
-* Käyttäjä pystyy valitsemaan reseptille yhden tai useamman luokittelun (esim. alkuruoka, intialainen, vegaaninen).
+* Käyttäjä pystyy valitsemaan esimerkiksi seuraavia luokitteluja:
+  - Ruoan tyyppi: alkuruoka, pääruoka tai jälkiruoka
+  - Ruokavalio: laktoositon, gluteeniton tai vegaaninen
 * Käyttäjä pystyy antamaan reseptille kommentin ja arvosanan. Reseptistä näytetään kommentit ja keskimääräinen arvosana.
 
 Tässä pääasiallinen tietokohde on ruokaresepti ja toissijainen tietokohde on kommentti reseptiin.
@@ -78,7 +80,9 @@ Tässä pääasiallinen tietokohde on ruokaresepti ja toissijainen tietokohde on
 * Käyttäjä näkee sovellukseen lisätyt ilmoitukset.
 * Käyttäjä pystyy etsimään ilmoituksia sen perusteella, milloin vuoro on.
 * Käyttäjäsivu näyttää, montako ilmoitusta käyttäjä on lähettänyt ja listan ilmoituksista.
-* Käyttäjä pystyy valitsemaan ilmoitukselle yhden tai useamman luokittelun (esim. Kumpula Unisport, keskitason pelaaja).
+* Käyttäjä pystyy valitsemaan esimerkiksi seuraavia luokitteluja:
+  - Pelipaikka: Kumpula Unisport tai Otaniemi Unisport
+  - Pelaajan taso: aloittelija, keskitaso tai edistynyt
 * Käyttäjä pystyy ilmoittautumaan pelivuoroon. Ilmoituksessa näytetään, ketkä käyttäjät ovat ilmoittautuneet.
 
 Tässä pääasiallinen tietokohde on ilmoitus ja toissijainen tietokohde on ilmoittautuminen.

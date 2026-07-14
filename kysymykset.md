@@ -26,9 +26,7 @@ Kurssia ei voi suorittaa pari- tai ryhmätyönä, vaan kurssi suoritetaan itsen�
 
 **Saako kurssilla käyttää tekoälyä?**
 
-Kurssilla on sallittua käyttää tekoälyä vapaasti [CurreChatin](https://curre.helsinki.fi/chat) (yliopiston ChatGPT-käyttöliittymä) kautta. Saat käyttää tekoälyä vapaasti myös koodin tuottamiseen. Tekoälyä ei ole sallittua käyttää muuten kuin CurreChatin kautta.
-
-CurreChat tallentaa anonyymisti keskustelut, joita opiskelijat käyvät sen kanssa. Näitä keskusteluja voidaan käyttää yliopiston tutkimuksessa.
+Kurssilla on sallittua käyttää tekoälyä vapaasti, myös koodin tuottamiseen. Voit käyttää [CurreChatia](https://curre.helsinki.fi/chat) (yliopiston ChatGPT-käyttöliittymä) tai muuta haluamaasi työkalua.
 
 **Mitä tapahtuu, jos kurssista ei pääse läpi?**
 

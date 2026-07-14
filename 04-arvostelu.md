@@ -26,10 +26,8 @@ table {display: table; width:100%;}
 | Käyttäjä näkee sovellukseen lisätyt tietokohteet |
 | Käyttäjä pystyy etsimään tietokohteita hakusanalla tai muulla perusteella |
 | Käyttäjäsivu näyttää tilastoja ja käyttäjän lisäämät tietokohteet |
-| Käyttäjä pystyy valitsemaan tietokohteelle yhden tai useamman luokittelun |
+| Tietokohteille on valittavissa useampia luokitteluja |
 | Käyttäjä pystyy lisäämään tietokohteeseen toissijaisia tietokohteita |
-
-Huom! "Käyttäjä pystyy valitsemaan tietokohteelle yhden tai useamman luokittelun" tarkoittaa, että käyttäjä voi halutessaan valita myös useamman luokittelun. Tämä ei tarkoita, että sovelluksessa on etukäteen joko määritelty että luokitteluja voi olla vain yksi tai että luokitteluja voi olla useampia. [Tikape:n materiaali](https://tikape.mooc.fi/kesa-2026/osa3/#liitostaulut) saattaa olla tässä hyödyllinen.
 
 Sovelluksen perusvaatimukset on kuvattu tarkemmin [aloitussivulla](../aloitus).
 
