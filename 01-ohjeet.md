@@ -81,6 +81,8 @@ Välipalautuksen ja palautuksen tekemiseen riittää, että repositoriosi on aja
 
 Kurssiin kuuluu kaksi [vertaisarviointia](../vertaisarviointi), joissa annetaan palautetta toisen opiskelijan työstä. Saat ohjeet vertaisarviointiin sähköpostitse välipalautusten 2 ja 3 jälkeen.
 
+Molempien vertaisarviointien tekeminen on vaatimus kurssin suorittamiselle, ja molempien tekeminen kattavina on vaatimus arvosanalle 4.
+
 ### Lopullinen palautus
 
 * Kurssi arvostellaan tämän sovelluksen version perusteella.
@@ -96,6 +98,7 @@ Kurssipalaute ja vastuuhenkilön kommentit kootaan [palauteyhteenvetoon](../pala
 ## Ohjeita
 
 * Ennen sovelluksen toteuttamisen aloittamista sinun kannattaa tutustua kurssimateriaaliin ja tehdä pieniä kokeiluja, jotta saat harjoiteltua kurssilla käytettyjä tekniikoita.
+* Materiaalin loppupuolen käytettävyysasioita ei kannata jättää pelkästään kurssin loppupuolelle, sillä hyvä käytettävyys helpottaa myös omaa sovelluksen testaamista.
 * Neuvoja tietokannan suunnitteluun löydät kurssin _Tietokantojen perusteet_ materiaalista. Erityisesti kurssin materiaalin [luku 6](https://tikape.mooc.fi/kesa-2026/osa6/) on hyödyllinen.
 * Sovellus ja tietokanta rakentuvat pikkuhiljaa ja niihin tulee muutoksia. Kannattaa aloittaa yksinkertaisesta ja muuttaa rakennetta tarvittaessa myöhemmin.
 * Palautuksissa ohjaaja tutustuu projektisi uusimpaan versioon GitHubissa. Pidä huoli siitä, että GitHubissa on sovelluksesi ajantasainen versio.
