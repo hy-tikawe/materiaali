@@ -12,8 +12,6 @@ Lähtökohtaisesti kaikki osallistuvat kurssille samalla tavalla jollekin kurssi
 
 Jos osaat asiat ennestään etkä tarvitse ohjausta, voit toki tehdä työn hyvinkin nopeasti omalla aikataulullasi. Ei haittaa, jos sovellus on valmis heti kurssin alkaessa.
 
-Jos olet sopinut kurssin vastuuhenkilön kanssa ennen vuotta 2025 itsenäisestä suoritustavasta, voit edelleen suorittaa kurssin sovitusti vuoden 2025 loppuun asti.
-
 **Voiko kurssin hyväksilukea?**
 
 Hyväksiluku on mahdollinen, jos olet suorittanut kurssin, jossa tehdään itsenäinen riittävän laaja harjoitustyö samoilla tekniikoilla kuin tällä kurssilla. Tekemäsi harjoitustyön tulee olla GitHubissa tai muuten saatavilla.
