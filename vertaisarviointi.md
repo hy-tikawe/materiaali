@@ -6,7 +6,7 @@ hide: true
 
 # Vertaisarviointi
 
-Vertaisarvioinnissa tutustut toisen kurssin opiskelijan työhön ja annat siitä palautetta. Vastavuoroisesti saat omasta työstäsi palautetta toiselta opiskelijalta.
+Vertaisarvioinnissa tutustut kattavasti toisen kurssin opiskelijan työhön ja annat siitä palautetta. Vastavuoroisesti saat omasta työstäsi palautetta toiselta opiskelijalta. Vertaisarvioinnin ei ole tarkoitus rajautua tietyn välipalautuksen asioihin, vaan tarkoitus on antaa yleisesti palautetta koko harjoitustyöstä.
 
 ## Vertaisarvioinnin ohje
 

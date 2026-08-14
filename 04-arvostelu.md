@@ -118,6 +118,8 @@ Kurssin vastuuhenkilö saa palautejärjestelmästä listan opiskelijoista, jotka
 
 Raportissa tulee näkyä Pylintin antama palaute sovelluksen lopullisesta versiosta. Lisäksi raportin tulee selostaa jokaisesta ilmoituksesta, miksi kyseistä asiaa ei ole korjattu koodista. Jos Pylint antaa useita samaan asiaan liittyviä ilmoituksia, nämä riittää käsitellä yhteisesti.
 
+Sovelluksen kehityksen aikana sinun kannattaa hyödyntää Pylintiä ja korjata sen esille tuomia puutteita koodissa. Kirjoita Pylint-raportti lopullisesta koodista saadun Pylint-palautteen perusteella.
+
 Esimerkkisovelluksen repositoriossa on tiedosto [pylint-report.md](https://github.com/pllk/huutokauppa/blob/main/pylint-report.md), josta voit ottaa mallia raporttiin.
 
 ### Toimivuus ja käytettävyys
@@ -132,4 +134,4 @@ Esimerkkisovelluksen repositoriossa on tiedosto [pylint-report.md](https://githu
 | Sovelluksessa käytössä tietokohteiden sivutus |
 | Tietokantaan lisätty indeksi, joka nopeuttaa suuren tietomäärän käsittelyä |
 
-Sopiva tapa raportoida tulokset on lisätä tiedosto `seed.py` repositorioon ja kirjoittaa tiedostoon `README.md` selostus sovelluksen toiminnasta suurella tietomäärällä.
+Sopiva tapa raportoida tulokset on lisätä tiedosto `seed.py` repositorioon ja kirjoittaa tiedostoon `README.md` selostus sovelluksen toiminnasta suurella tietomäärällä. Mittauksiin liittyvät koodimuutokset kannattaa raportin kirjoittamisen jälkeen poistaa tai kommentoida pois koodista.
