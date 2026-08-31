@@ -18,6 +18,8 @@ Vertaisarvioinnissa tutustut kattavasti toisen kurssin opiskelijan työhön ja a
 
 Huomaa, että "Hyvältä näyttää" tms. ei ole riittävä raportti. Kerro vähintään, mitä asioita olet testannut sovelluksessa ja miten. Jos työ on jo hyvässä vaiheessa, voit huomauttaa myös pienemmistä asioista. Älä kuitenkaan kirjoita mitään raporttiin vain sen takia, että siihen tulisi enemmän pituutta.
 
+Sinun tulee tehdä vertaisarviointi itse eikä lähettää tekoälyn tekemää arviointia. Jos sovelluksen kehittäjä haluaa tekoälyn tekemän arvioinnin, hän pystyy helposti tuottamaan sen itse tekoälyn avulla.
+
 Sovellusta testatessa kannattaa kokeilla myös, miten sovellus käsittelee mahdollisia virhetilanteita. Jos löydät ongelman, kerro myös miten sen saa toistettua, kuten mitä arvoja syötit lomakkeeseen. Erityisen hyödyllistä palautetta on, jos löydät koodissa olevan ongelman ja raportoit tästä sovelluksen kehittäjälle.
 
 Jos saat arvioitavaksi sovelluksen, joka on hyvin alkuvaiheessa (esimerkiksi repositoriossa on pelkkä tiedosto `README.md`), voit kirjoittaa hyvin lyhyen vertaisarvioinnin ja todeta, ettei arvioitavaa ole.

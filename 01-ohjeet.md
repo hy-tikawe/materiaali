@@ -5,18 +5,18 @@ permalink: /ohjeet/
 
 # Ohjeet ja aikataulu
 
-Loppukesän 2026 aikataulu on seuraava:
+Syksyn 2026 periodin 1 aikataulu on seuraava:
 
-| ke 15.7.2026 | Aloitusluento klo 14–16 (Chemicum A127) |
-| su 19.7.2026 | Välipalautus 1 |
-| su 2.8.2026 | Välipalautus 2 |
-| su 9.8.2026 | Vertaisarvioinnin deadline |
-| su 16.8.2026 | Välipalautus 3 |
-| su 23.8.2026 | Vertaisarvioinnin deadline |
-| su 30.8.2026 | Lopullinen palautus |
-| ma 31.8.2026 | Kurssipalautteen deadline |
+| ti 1.9.2026 | Aloitusluento klo 16–18 (Exactum D123) |
+| su 6.9.2026 | Välipalautus 1 |
+| su 20.9.2026 | Välipalautus 2 |
+| su 27.9.2026 | Vertaisarvioinnin deadline |
+| su 4.10.2026 | Välipalautus 3 |
+| su 11.10.2026 | Vertaisarvioinnin deadline |
+| su 18.10.2026 | Lopullinen palautus |
+| ma 19.10.2026 | Kurssipalautteen deadline |
 
-Voit keskustella kurssiin liittyvistä asioista kurssin [Discord-ryhmässä](https://study.cs.helsinki.fi/discord/join/tikawe), jossa on paikalla kurssin ohjaajia ja opiskelijoita. <!--Lisäksi järjestetään pajaohjausta Exactumin salissa BK107 keskiviikkoisin klo 12–16 sekä perjantaisin klo 12–16.-->
+Voit keskustella kurssiin liittyvistä asioista kurssin [Discord-ryhmässä](https://study.cs.helsinki.fi/discord/join/tikawe), jossa on paikalla kurssin ohjaajia ja opiskelijoita. Lisäksi järjestetään pajaohjausta Exactumin salissa BK107 maanantaisin klo 16–19, tiistaisin klo 13–16, torstaisin klo 16–19 sekä perjantaisin klo 13–16.
 
 ## Tärkeät deadlinet
 
@@ -35,7 +35,7 @@ Kurssilla toteutetaan tietokantaa käyttävä web-sovellus. Kurssilla käytetä�
 
 [Arvostelusivu](../arvostelu) kuvaa tarkemmin kurssin vaatimukset ja arvostelutavan.
 
-Kurssilla on sallittua käyttää vapaasti tekoälytyökaluja, myös koodin tuottamiseen. Voit käyttää [CurreChatia](https://curre.helsinki.fi/chat) (yliopiston ChatGPT-käyttöliittymä) tai muuta haluamaasi työkalua. Huomaa kuitenkin, että sovelluksen tulee olla kurssin vaatimusten mukainen ja saman tyylinen kuin kurssimateriaalissa.
+Kurssilla on sallittua käyttää tekoälytyökaluja, myös koodin tuottamiseen. Voit käyttää [CurreChatia](https://curre.helsinki.fi/chat) (yliopiston ChatGPT-käyttöliittymä) tai muuta haluamaasi työkalua. Huomaa kuitenkin, että sovelluksen tulee olla kurssin vaatimusten mukainen ja saman tyylinen kuin kurssimateriaalissa. Poikkeuksena vertaisarvioinneissa ei saa käyttää tekoälytyökaluja, vaan arvioinnit tulee tehdä itse.
 
 ## Kurssin eteneminen
 
@@ -47,7 +47,7 @@ Välipalautuksen ja palautuksen tekemiseen riittää, että repositoriosi on aja
 
 * Luo GitHubiin julkinen repositorio harjoitustyötä varten. Nimeä repositoriosi kuvaavasti.
 * Valitse projektille aihe ja kirjoita `README.md`-tiedostoon kuvaus, joka esittelee sovelluksen keskeiset toiminnot. Kirjoita kuvaus samassa muodossa kuin aloitussivun esimerkkiaiheissa ja esimerkkisovelluksessa.
-* Kirjaudu [Labtooliin](https://study.cs.helsinki.fi/labtool/courses/TKT20019.2026.V.K.1) ja ilmoita siellä projektisi GitHub-osoite.
+* Kirjaudu [Labtooliin](https://study.cs.helsinki.fi/labtool/courses/TKT20019.2026.S.K.2) ja ilmoita siellä projektisi GitHub-osoite.
 * Saat seuraavan viikon alussa ohjaajalta palautteen aiheesta Labtooliin.
 * Vinkkejä palautukseen:
   - Valitse repositorion nimi niin, että se kuvaa hyvin sovellustasi. Esimerkiksi jos teet reseptisovelluksen, voit valita esimerkiksi nimen `reseptit`.
@@ -91,7 +91,7 @@ Kurssin suoritus vaatii kummankin vertaisarvioinnin tekemistä. Lisäksi arvosan
 
 ### Kurssipalaute
 
-Anna [kurssipalaute](https://norppa.helsinki.fi/targets/95313151) viimeistään seuraavana päivänä lopullisen palautuksen deadlinen jälkeen. Palaute on anonyymia ja vaikuttaa kurssin kehitykseen.
+Anna [kurssipalaute](https://norppa.helsinki.fi/targets/113054633) viimeistään seuraavana päivänä lopullisen palautuksen deadlinen jälkeen. Palaute on anonyymia ja vaikuttaa kurssin kehitykseen.
 
 Kurssipalaute ja vastuuhenkilön kommentit kootaan [palauteyhteenvetoon](../palaute).
 
@@ -99,7 +99,7 @@ Kurssipalaute ja vastuuhenkilön kommentit kootaan [palauteyhteenvetoon](../pala
 
 * Ennen sovelluksen toteuttamisen aloittamista sinun kannattaa tutustua kurssimateriaaliin ja tehdä pieniä kokeiluja, jotta saat harjoiteltua kurssilla käytettyjä tekniikoita.
 * Myös materiaalin loppupuolella on asioita, jotka voivat olla hyödyllisiä sovelluksen kehityksen alussa. Esimerkiksi hyvä käytettävyys helpottaa myös omaa sovelluksen testaamista.
-* Neuvoja tietokannan suunnitteluun löydät kurssin _Tietokantojen perusteet_ materiaalista. Erityisesti kurssin materiaalin [luku 6](https://tikape.mooc.fi/kesa-2026/osa6/) on hyödyllinen.
+* Neuvoja tietokannan suunnitteluun löydät kurssin _Tietokantojen perusteet_ materiaalista. Erityisesti kurssin materiaalin [luku 6](https://tikape.mooc.fi/syksy-2026/osa6/) on hyödyllinen.
 * Sovellus ja tietokanta rakentuvat pikkuhiljaa ja niihin tulee muutoksia. Kannattaa aloittaa yksinkertaisesta ja muuttaa rakennetta tarvittaessa myöhemmin.
 * Palautuksissa ohjaaja tutustuu projektisi uusimpaan versioon GitHubissa. Pidä huoli siitä, että GitHubissa on sovelluksesi ajantasainen versio.
 * Sovelluksen dokumentaatio luodaan tiedostoon `README.md`, joka näkyy GitHubissa projektin etusivulla. Kirjoita dokumentaatio sellaista henkilöä varten, joka haluaa saada käsityksen sovelluksesta ja mahdollisesti ottaa sen käyttöön itse tai kehittää sovellusta.
