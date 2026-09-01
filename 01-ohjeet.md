@@ -8,11 +8,11 @@ permalink: /ohjeet/
 Syksyn 2026 periodin 1 aikataulu on seuraava:
 
 | ti 1.9.2026 | Aloitusluento klo 16–18 (Exactum D123) |
-| su 6.9.2026 | Välipalautus 1 |
-| su 20.9.2026 | Välipalautus 2 |
-| su 27.9.2026 | Vertaisarvioinnin deadline |
-| su 4.10.2026 | Välipalautus 3 |
-| su 11.10.2026 | Vertaisarvioinnin deadline |
+| su 6.9.2026 | Välipalautus 1 (aiheen valinta) |
+| su 20.9.2026 | Välipalautus 2 (toteutus aloitettu) |
+| su 27.9.2026 | Välipalautus 3 (vertaisarvioinnin deadline) |
+| su 4.10.2026 | Välipalautus 4 (toteutus edistynyt) |
+| su 11.10.2026 | Välipalautus 5 (vertaisarvioinnin deadline) |
 | su 18.10.2026 | Lopullinen palautus |
 | ma 19.10.2026 | Kurssipalautteen deadline |
 
@@ -67,6 +67,15 @@ Välipalautuksen ja palautuksen tekemiseen riittää, että repositoriosi on aja
 
 ### Välipalautus 3
 
+* Tämä on ensimmäisen vertaisarvioinnin deadline.
+* Sovelluksen toteutuksessa kiinnitä huomiota koodissa oleviin tarkastuksiin:
+  - Onko käyttäjällä oikeus katsoa tiettyä sivua?
+  - Onko käyttäjällä oikeus lisätä/muokata/poistaa tietoa?
+  - Tarkastetaanko syötteet ennen tietokantaan lisäämistä?
+* Saat seuraavan viikon alussa ohjaajalta palautteen sovelluksesta Labtooliin.
+
+### Välipalautus 4
+
 * Tavoitteena on, että sovelluksessa on ainakin seuraavat toiminnot:
   - Sovelluksessa on käyttäjäsivut, jotka näyttävät tilastoja ja käyttäjän lisäämät tietokohteet.
   - Käyttäjä pystyy valitsemaan tietokohteelle yhden tai useamman luokittelun. Mahdolliset luokat ovat tietokannassa.
@@ -76,6 +85,12 @@ Välipalautuksen ja palautuksen tekemiseen riittää, että repositoriosi on aja
 * Vinkkejä palautukseen:
   - Muista estää sovelluksessasi CSRF-aukko kurssimateriaalin mukaisesti.
   - Pylint on hyödyllinen työkalu, jonka avulla voit saada ehdotuksia koodisi parantamiseksi.
+
+### Välipalautus 5
+
+* Tämä on toisen vertaisarvioinnin deadline.
+* Tässä vaiheessa ohjaaja tarkastaa, ovatko sovelluksen perusvaatimukset kunnossa kurssin hyväksyttyä suoritusta varten.
+* Saat seuraavan viikon alussa ohjaajalta palautteen sovelluksesta Labtooliin.
 
 ### Vertaisarviointi
 
