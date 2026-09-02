@@ -10,6 +10,61 @@ Tällä sivulla julkaistaan yhteenvedot kurssin toteutuksilla kerätystä palaut
 
 ***
 
+## Loppukesä 2026
+
+Kurssipalautteen antoi 12 opiskelijaa.
+
+Palautelomakkeen kysymykset ovat ilmeisesti muuttuneet uudelle lukuvuodelle, ja ehkä tämän seurauksena kurssin palaute on aiempaa heikompaa.
+
+Erityisesti kurssin heikkoutena palautteessa näkyy, ettei kurssi kannusta keskustelemaan ajatuksista ja näkökulmista. Kun kyseessä on pääosin itsenäisesti suoritettava harjoitustyökurssi, kurssille voisi olla haastavaa saada mukaan tällaista keskustelua.
+
+Sanallisen palautteen perusteella kurssiin ollaan edelleen tyytyväisiä, ja palautteessa on hyviä kurssiin liittyviä kehitysehdotuksia. Konkreettisena muutoksena tarkoituksena on selventää vertaisarvioinnin ohjeistusta ja arviointia seuraavassa kurssin toteutuksessa.
+
+Pylint-työkalusta itse asiassa on [kirjallista materiaalia](../pylint/), mutta tämän materiaalin löytäminen voi olla nykyisellään vaikeaa.
+
+### Numeerinen palaute
+
+Arvioi seuraavia väitteitä (1 = täysin eri mieltä, 5 = täysin samaa mieltä):
+
+* Kurssin rakenne ja aikataulu olivat selkeät: 4.75
+* Kurssilla oli selvästi esitetty, mitä tulisi oppia: 4.17
+* Kurssi kannusti keskustelemaan ajatuksista ja näkökulmista: 3.83
+* Oppimisen arvioinnin vaatimukset olivat selvät: 4.67
+* Kurssi auttoi luomaan yhteyksiä aikaisempiin tietoihin: 4.08
+
+Kurssin raskaus (1 = turhan kevyt, 5 = turhan raskas):
+
+* Työmäärä suhteessa opintopisteisiin oli: 3.33
+
+Kurssin kokonaisarvosana:
+
+* Kokonaisarvosana kurssille: 4.50
+
+### Miten kehittäisit kurssia?
+
+* Arvosanan 5 saaminen on hieman haastavaa. Olisin toivonut enemmän opastusta mentoreilta sitä varten, koska fokusoitiin enemmän vain läpäisyyn.
+* Ehkä kurssimateriaali voisi olla organisoitu vielä selkeämmin. Videot olivat hyviä, mutta ainakin alussa pelkästään kirjallisen materiaalin käyttäminen oli hieman haastavaa.
+* Ei mitään.
+* enemmän selitystä db.py tiedoston toiminnoille
+* Kurssi oli loistava ja uusien opittujen taitojen lisäksi se nivoi hienosti yhteen myös esitetovaatimuskursella opittuja asioita. Ainoa, mikä tekee kurssin suorituksesta hivenen haastavan, on "pakkotahtisuus" ja tiukasti aikataulutetut välipalautukset. Olisi hienoa, jos kurssin voisi suorittaa omassa tahdissa.
+* Kurssi oli mielestäni kokonaisuudessaan erittäin hyödyllinen ja hyvin rakennettu. Pidin erityisesti siitä, että teoriaa pääsi soveltamaan käytännössä oman web-sovelluksen tekemisessä. Kurssimateriaali oli pääosin selkeää, ja projektin eteneminen vaiheittain auttoi ymmärtämään paremmin, miten tietokanta ja web-sovellus toimivat yhdessä.
+Minulla olisi muutama pieni kehitysehdotus kurssimateriaaliin:
+  1. Luvussa 7 (Suuri tietomäärä) voisi ehkä mainita, että suuren tietomäärän testaamisen ja siihen liittyvät muutokset voi tehdä myös sen jälkeen, kun sovelluksen CSS ja ulkoasu ovat jo valmiita. Tämä voisi helpottaa oman projektin työjärjestyksen suunnittelua.
+  2. Kurssilla tulee vastaan paljon uusia termejä, komentoja ja funktioita. Olisi hyödyllistä, jos materiaalissa olisi esimerkiksi erillinen sanasto tai yhteenvetolista, jossa olisi lyhyt selitys siitä, mitä termi tai funktio tarkoittaa ja mihin sitä käytetään. Funktioiden kohdalla voisi myös mainita, liittyvätkö ne esimerkiksi Pythonin, Flaskin, SQL:n tai SQLiten käyttöön. Tällaisesta listasta olisi helppo tarkistaa asioita projektia tehdessä.
+  3. Pylintista olisi mielestäni hyvä olla lyhyt kirjallinen osuus myös varsinaisessa kurssimateriaalissa. Asia käsiteltiin videoluennolla, mutta tekstimuotoisesta ohjeesta olisi helpompi myöhemmin tarkistaa esimerkiksi komentoja, ilmoitusten merkityksiä ja sitä, mitä Pylint-raportissa pitäisi huomioida.
+* Mielestäni kurssilla pidetään liikaa kädestä kiinni, toisaalta ensimmäisen vuoden kurssiksi se voi olla jopa suotavaa.
+* Mielestäni olisi hyvä tietää vertaisarvioinissa, mitä voi tehdä että arvosana olisi korkeampi.
+* omasta mielestä kurssi oli raskas, jos ei kauheasti ole ennen koodannut. ehkä olisi joillekki helpotus, jos olisi enemmän mallitehtäviä. ite sain paljon ideoita omaan koodiin, kun tein toiselle opiskelijalle vertaispalautteen ja hänen koodi oli siis edennyt aika pitkälle jo ihan alussa, ilman hänen malli koodia en olisi pärjännyt.
+* Selkeä kurssi, mukava suorittaa omaan tahtiin. Ei kehitysehdotuksia.
+* Tällainen hyvin itsenäisesti suoritettava projektiluonteinen kurssi on itselleni erittäin mieluinen ja tukee oppimistani. En siis oikein keksi mitään kehitettävää.
+
+### Muita huomioita
+
+* Kaiken kaikkiaan pidin kurssista paljon. Oman sovelluksen tekeminen teki oppimisesta konkreettista, ja kurssin jälkeen minulla on paljon selkeämpi käsitys tietokantojen ja web-ohjelmoinnin perusteista.
+* Todella kiva kurssi!
+
+***
+
 ## Alkukesä 2026
 
 Kurssipalautteen antoi 12 opiskelijaa.
