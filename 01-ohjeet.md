@@ -39,7 +39,7 @@ Kurssilla on sallittua käyttää tekoälytyökaluja, myös koodin tuottamiseen.
 
 ## Kurssin eteneminen
 
-Kurssiin kuuluu kolme välipalautusta ja lopullinen palautus. Kaikkien palautusten deadline on klo 23:59 sunnuntaina.
+Kurssiin kuuluu viisi välipalautusta ja lopullinen palautus. Kaikkien palautusten deadline on klo 23:59 sunnuntaina.
 
 Välipalautuksen ja palautuksen tekemiseen riittää, että repositoriosi on ajan tasalla. Sinun ei tarvitse tehdä mitään erityistä Labtoolissa palautusta varten.
 
