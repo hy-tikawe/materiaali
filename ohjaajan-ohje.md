@@ -8,13 +8,13 @@ hide: true
 
 Olennaista on antaa opiskelijoille _hyödyllistä_ palautetta, joka parantaa harjoitustyön laatua ja opettaa web-sovelluksen toteuttamiseen liittyviä asioita.
 
-Palautteessa on hyvä olla kannustava, mutta ei kuitenkaan kannata tarpeettomasti listata ongelmattomia kohtia yleisesti, vaan keskittyä parannettaviin puutteisiin.
+Palautteessa on hyvä olla kannustava, mutta kuitenkin keskittyä antamaan tietoa parannettavista asioista.
 
 Välipalautuksissa deadline on sunnuntaina ja ohjaajan tulee antaa palaute seuraavan viikon keskiviikkoon mennessä, jotta opiskelijat saavat nopeasti palautteen, jonka avulla he pystyvät kehittämään työtä.
 
 Välipalautuksen jälkeen merkitse Labtooliin pistemäärä, joka ilmaisee, miten hyvin välipalautuksen tavoitteet täyttyivät: 0 (ei ollenkaan), 1 (osittain), 2 (kokonaan). Välipalautusten pistemäärät eivät kuitenkaan vaikuta kurssin arviointiin.
 
-Labtoolissa on jokaiselle välipalautukselle ja loppupalautukselle checklist tarkastuksen avuksi. Checklist on tehty helpottamaan arviointityötä, mutta sen ei pitäisi antaa rajoittaa opiskelijalle tarvittaessa annettavaa palautetta. Checklistin "automaattipalaute"-kohdat tuottavat palautetekstiä, jonka voi halutessaan kopioida osaksi annettavaa palautetta. Huomioi kuitenkin, että automaattipalautteetkin tarvitsevat muokkausta ja että automaattipalautteet eivät ole vaatimusten kannalta kattavat (tai edes liity välittömiin välipalautteen vaatimuksiin). Monilta osin kommentoitavat asiat ovat sellaisia, että niistä ei edes voi järkevästi kirjoittaa vastaavia puolivalmiita palautetekstejä. Checklist ei myöskään sovellu tarkempiin selityksiin, joten lue myös tätä ohjaajan ohjetta arvostellessasi.
+Labtoolissa on jokaiselle välipalautukselle ja loppupalautukselle checklist tarkastuksen avuksi. Checklist on tehty helpottamaan arviointityötä, mutta anna sen lisäksi opiskelijalle tarvittaessa muutakin palautetta. Voit halutessasi kopioida osaksi annettavaa palautetta checklistin automaattisesti tuottamaa palautetekstiä. Huomaa kuitenkin, että automaattinen palauteteksti tarvitsee usein muokkausta eikä se ole vaatimusten kannalta kattavaa.
 
 ## Välipalautus 1
 
@@ -32,12 +32,12 @@ Labtoolissa on jokaiselle välipalautukselle ja loppupalautukselle checklist tar
 * Testaa opiskelijan sovellusta.
 * Tutustu sovelluksen koodiin.
 * Anna edellisten kohtien perusteella sovelluksesta palautetta.
-  - Harjoitustyöhön tutustuessa kannattaa puutteita kirjata checklist-merkintöjen lisäksi väliaikaisesti erilliseen tekstieditoriin tai labtoolin "review notes" -kohtaan, näin palautteen kirjoittaminen on helpompaa ja mahdolliset ongelmat eivät unohdu.
+  - Harjoitustyöhön tutustuessa kannattaa puutteita kirjata checklist-merkintöjen lisäksi väliaikaisesti erilliseen tekstieditoriin tai labtoolin "review notes" -kohtaan, jolloin palautteen kirjoittaminen on helpompaa eivätkä mahdolliset ongelmat unohdu.
 * Anna palautetta erityisesti seuraavista asioista:
   - Tekniset perusvaatimukset: toteuttaako opiskelija sovellusta oikealla tavalla?
   - Toimivuus ja käytettävyys: millainen kokemus sovelluksen käyttäjälle tulee?
-  - Versionhallinta: onko repositoriossa oikeat tiedostot ja ovatko commit-viestit hyviä?
-    - Kiinnitä huomiota myös commit-viestien kuvaavuuden lisäksi siihen ovatko commitit yhtenäisiä ja selkeästi rajattuja kokonaisuuksia.
+  - Versionhallinta: onko repositoriossa oikeat tiedostot ja onko commitit tehty hyvin?
+    - Kiinnitä huomiota commit-viestien kuvaavuuteen sekä siihen, ovatko commitit yhtenäisiä ja selkeästi rajattuja kokonaisuuksia.
   - Ohjelmointityyli: onko koodi siistiä ja seuraako se Python-kielen käytäntöjä?
   - Tietokanta-asiat: onko SQL-skeema kunnossa ja käytetäänkö tietokantaa koodissa järkevästi?
 * Jos sovelluksessa ei ole koodia, siitä ei tarvitse antaa palautetta.
@@ -47,8 +47,10 @@ Labtoolissa on jokaiselle välipalautukselle ja loppupalautukselle checklist tar
 
 ## Välipalautus 3
 
-* Testaa opiskelijan sovellusta kursorisesti ja lue koodia tarkastaaksesi, että työssä on jotain validointeja
-* Tarkista samassa yhteydessä tarkistetaanko työssä käyttäjän oikeus tehdä toiminto silloin kun se on tarpeen
+* Valitse opiskelijan sovelluksesta jokin keskeinen toiminto (kuten uuden tietokohteen lisäys) ja tarkasta, että:
+  - Sovellus varmistaa, että käyttäjällä on oikeus nähdä sivu ja suorittaa toiminto.
+  - Sovelluksessa on jotain tiedon validointia (esim. maksimipituus tietokantaan lisättävälle tiedolle).
+* Anna tarvittaessa palautetta oikeuksien tarkastamisen tai validoinnin puuttumisesta.
 * Tarkasta vertaispalautteet ja anna opiskelijalle palautetta siitä, oliko annettu vertaispalaute suppea vai kattava ja miten parantaa vertaispalautetta. Tämän ensimmäisen vertaisarvion palautteen on tarkoitus ohjeistaa opiskelijaa kattavan vertaispalautteen vaatimusten täyttämiseen, mutta olla pisteytyksessä salliva (eli vaatimustaso 2p voi olla hieman matalampi).
   - Jos vertaisarvio on mielestäsi suppea, mutta opiskelija on selkeästi hieman yrittänyt parempaa, niin anna 2p, mutta kuitenkin varoita opiskelijaa, että vastaava vertaisarvio ei riitä 2p vaatimuksiin jälkimmäisessä vertaisarviossa.
   - Oliko palautteessa kuvattu mitä oli testattu?
@@ -56,9 +58,9 @@ Labtoolissa on jokaiselle välipalautukselle ja loppupalautukselle checklist tar
   - Löysikö opiskelija sovellusta kokeillessaan jonkun ongelman/toimintavirheen? Etsikö opiskelija kyseisen ongelman aiheuttajan koodista ja kertoi missä se on? (Erityisen kiitettävää olisi konkreettinen korjausehdotus)
   - Oliko vertaisarvio riittävän kattava, vai jäikö se vain muutamaksi kommentiksi?
 * "Ongelmattomien" töiden vertaisarviointi:
-  - näissäkin olisi hyvä edes kertoa mitä on testattu
-  - [kattavan vertaisarvion esimerkissä](https://github.com/pllk/huutokauppa/issues/3) on mainittu monia laatutekijöitä, joista ainakin muutama (tai jotain vastaavaa) on usein relevantti millä tahansa harjoitustyöllä. 
-* Jos vertaisarvio on tehty, mutta siinä ei selkeästi ole edes yritetty kattavaa arviointia, anna 1p
+  - Näissäkin olisi hyvä edes kertoa, mitä on testattu.
+  - [Kattavan vertaisarvion esimerkissä](https://github.com/pllk/huutokauppa/issues/3) on mainittu monia laatutekijöitä, joista ainakin muutama (tai jotain vastaavaa) on usein relevantti millä tahansa harjoitustyöllä.
+* Jos vertaisarvio on tehty, mutta siinä ei selkeästi ole edes yritetty kattavaa arviointia, anna 1p.
 
 ## Välipalautus 4
 
@@ -81,21 +83,21 @@ Labtoolissa on jokaiselle välipalautukselle ja loppupalautukselle checklist tar
 ## Välipalautus 5
 
 * Testaa sovellusta ja lue koodia.
-* Labtoolin checklistissä on kaikki loppuarvostelun perusvaatimukset: käy ne läpi, ja anna palautetta opiskelijalle siitä, mikä on työn tämän hetkinen tilanne kurssin läpipääsyn kannalta, ja miten tarvittaessa korjata tilanne.
+* Labtoolin checklistissä on kaikki loppuarvostelun perusvaatimukset: käy ne läpi, ja anna palautetta opiskelijalle siitä, mikä on työn tämänhetkinen tilanne kurssin läpipääsyn kannalta, ja miten tarvittaessa korjata tilanne.
 * Tarkasta vertaispalautteet ja anna opiskelijalle palautetta siitä, oliko annettu vertaispalaute suppea vai kattava ja perustelut tälle.
   - Vertaa esimerkkiarvioihin: jos vertaisarvio vastaa selkeästi [suppeaa esimerkkiä](https://github.com/pllk/huutokauppa/issues/2), se saa 1p. Jos se taas mielestäsi vastaa tai on riittävän lähellä [kattavaa esimerkkiä](https://github.com/pllk/huutokauppa/issues/3), se saa 2p.
 
 ## Lopullinen palautus
 
-* Tavoitteena on, että arvostelut olisivat ainakin enimmäkseen valmiina 2 viikon sisään lopullisesta palautusmääräajasta. Jos tämä on aikataulusi kannalta ongelmallisen lyhyt aika, ota yhteys Anttiin. 
+* Tavoitteena on, että arvostelut olisivat valmiina 2 viikon sisään lopullisesta palautusmääräajasta. Jos tämä on aikataulusi kannalta ongelmallisen lyhyt aika, ota yhteys Anttiin.
 * Käy läpi [arvostelusivu](../arvostelu) ja kirjaa muistiin, mitkä kriteerit sovellus täyttää.
 * Kurssin vastuuhenkilö pystyy luomaan listan, jossa on kurssipalautteen antaneiden opiskelijoiden opiskelijanumerot.
 * Anna opiskelijalle palaute, jossa on:
   - kurssin arvosana (tai tieto että ei hyväksytty)
   - lyhyt sanallinen yleispalaute
-  - mainittu missä määrin kriteerit täyttyivät (esim: "Kaikki arvosanan 3 perusvaatimukset täyttyivät.")
-  - erittely kriteereistä jotka jäivät täyttymättä (esim: "Kaikki muuttujat ja funktiot on nimetty yhdellä kirjaimella, mikä tekee koodin ymmärtämisestä vaikeaa. ... (jne muut puutteet)")
-* Palautteessa voi olla hyvä ryhmitellä kunkin arvosanan kriteerit erillisiksi ryhmiksi, jota opiskelijalle ei tule epäselvyyttä mitkä kriteerit liittyvät mihin arvosanaan.
+  - mainittu, missä määrin kriteerit täyttyivät (esim: "Kaikki arvosanan 3 perusvaatimukset täyttyivät.")
+  - erittely kriteereistä, jotka jäivät täyttymättä (esim: "Kaikki muuttujat ja funktiot on nimetty yhdellä kirjaimella, mikä tekee koodin ymmärtämisestä vaikeaa. ... (jne. muut puutteet)")
+* Palautteessa voi olla hyvä ryhmitellä kunkin arvosanan kriteerit erillisiksi ryhmiksi, jota opiskelijalle ei tule epäselvyyttä, mitkä kriteerit liittyvät mihin arvosanaan.
 * Yksittäisestä pienimuotoisesta puutteesta ei ehkä kannata heti pudottaa arvosanaa. Jos on epävarmuutta mikä on pienimuotoista, kannattaa kysyä Slackissa tapauskohtaisesti.
 * Merkittävistä arvosteluun vaikuttamattomista puutteista tai parannusehdotuksista voi myös mainita, mutta tällöin tulee tuoda selkeästi ilmi, että nämä eivät vaikuttaneet arvosteluun.
 
