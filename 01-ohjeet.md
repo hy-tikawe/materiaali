@@ -94,7 +94,7 @@ Välipalautuksen ja palautuksen tekemiseen riittää, että repositoriosi on aja
 
 ### Vertaisarviointi
 
-Kurssiin kuuluu kaksi [vertaisarviointia](../vertaisarviointi), joissa annetaan palautetta toisen opiskelijan työstä. Saat ohjeet vertaisarviointiin sähköpostitse välipalautusten 2 ja 3 jälkeen.
+Kurssiin kuuluu kaksi [vertaisarviointia](../vertaisarviointi), joissa annetaan palautetta toisen opiskelijan työstä. Saat ohjeet vertaisarviointiin sähköpostitse välipalautusten 2 ja 4 jälkeen.
 
 Kurssin suoritus vaatii kummankin vertaisarvioinnin tekemistä. Lisäksi arvosanat 4 ja 5 vaativat, että kumpikin vertaisarviointi on tehty kattavasti.
 
