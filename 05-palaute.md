@@ -10,6 +10,103 @@ Tällä sivulla julkaistaan yhteenvedot kurssin toteutuksilla kerätystä palaut
 
 ***
 
+## Syksy 2026 periodi 1
+
+Kurssipalautteen antoi 22 opiskelijaa.
+
+Kiitos hyödyllisestä palautteesta, ja se tulee vaikuttamaan kurssin kehitykseen. Kurssin vastuuhenkilön kommentteja:
+
+"Hyötyisin enemmän kurssista, jos tekoälyn käyttö olisi kiellettyä."
+
+_Kommentti_: Tällä kurssilla tekoälyn kieltäminen olisi käytännössä vaikeaa, koska kieltoa ei olisi mahdollista valvoa. Toisaalta voi olla myös hyödyllistä opetella tekoälyn käyttämistä ohjelmointiprojektissa.
+
+"Olisiko parempi vain olla käyttämättä tekoälyä ja opetella ulkoa kaikki tarvittava syntaksi? Onko tämmöisestä taidosta hyötyä enää nykypäivänä, kun tekoäly kirjoittaa saman koodin muutamassa sekunnissa?"
+
+_Kommentti_: Nämä ovat hyviä kysymyksiä ja tätä voi myös verrata muihin taitoihin. Kannattaako opetella pelaamaan shakkia, kun tekoäly on siinä kuitenkin parempi? Kurssin vastuuhenkilön mielestä on hyödyllistä olla omaa osaamista ohjelmoinnissa, vaikka saman voisi tehdä tekoälyllä.
+
+"Kurssia voisi mahdollisesti kehittää, siten että labtoolissa näkyisi opettajan arvioinnin lisäksi myös vertaisarvioinnit."
+
+_Kommentti_: Tätä on mietitty tulevaisuuden vaihtoehtona, jos Labtoolia voidaan kehittää tähän suuntaan.
+
+"Kurssilla käytetyt menetelmät vaikuttavat melko epäintuitiivisilta. On vaikea uskoa, että kukaan tosiasiassa kehittäisi web-sovellusta nykypäivänä tällä tavoin."
+
+_Kommentti_: Ainakin kurssin vastuuhenkilö kehittää web-sovelluksia tällä tavalla. Mikä menetelmissä on epäintuitiivista?
+
+"Kurssilla ei ole missään selkeästi kerrottu miten pisteytys menee tai en ainakaan löytänyt mitään selkeää tietoa tästä. Labtool-tehtävistä voi saada 0-2 pistettä, mutta missään ei ole kerrottu miten nämä Labtoolissa jaetut pisteet vaikuttavat kurssin loppuarvosanaan."
+
+_Kommentti_: Tavoitteena on ollut kuvata [arvostelusivulla](../arvostelu/) kattavasti, miten kurssi arvostellaan. Labtoolin välipalautusten pisteet kertovat, miten palautusten tavoitteet täyttyivät, mutta ne eivät vaikuta arvosteluun. Tämä olisi tosiaan hyvä tuoda paremmin esille kurssin materiaalissa.
+
+"Minulle oli epäselvää mitä tarkoittaa että sovelluksen on muistutettava esimerkkisovellusta."
+
+_Kommentti_: Tämä kriteeri on ollut epäselvä joillekin opiskelijoille, ja koetamme selkeyttää sitä tulevaisuudessa.
+
+"Olisi kiva kuulla myös hyvää palautetta omasta projektista."
+
+_Kommentti_: Tämä on hyvä kommentti ja nykyisellään palaute tosiaan saattaa keskittyä liikaa sovelluksen puutteisiin. Koetamme parantaa tätä asiaa.
+
+"Projektin aihe annetaan ja se on kaikille sama. Aiheen vapaa valinta ei sovellu hyvin nykyisiin kurssivaatimuksiin."
+
+_Kommentti_: Tämä voisi tosiaan olla hyvä muutos kurssille. Toisaalta on tuntunut myös hyvältä sallia itseä kiinnostavan aiheen valitseminen.
+
+"Flask poistetaan vaatimuksista ja kielletään kokonaan frameworkkien käyttö. Pythonilla löytynee varmasti omat kirjastot yksinkertaisen webbisovelluksen rakentamiseen."
+
+_Kommentti_: Tämä on kiinnostava ehdotus (matalan tason web-ohjelmointia), mutta toisaalta tämä voisi olla raskas tapa tutustua asioihin, jos ei ole aiempaa taustaa web-ohjelmoinnista.
+
+### Numeerinen palaute
+
+Arvioi seuraavia väitteitä (1 = täysin eri mieltä, 5 = täysin samaa mieltä):
+
+* Kurssin rakenne ja aikataulu olivat selkeät: 4.55
+* Kurssilla oli selvästi esitetty, mitä tulisi oppia: 4.18
+* Kurssi kannusti keskustelemaan ajatuksista ja näkökulmista: 3.81
+* Oppimisen arvioinnin vaatimukset olivat selvät: 4.14
+* Kurssi auttoi luomaan yhteyksiä aikaisempiin tietoihin: 4.14
+
+Kurssin raskaus (1 = turhan kevyt, 5 = turhan raskas):
+
+* Työmäärä suhteessa opintopisteisiin oli: 3.10
+
+Kurssin kokonaisarvosana:
+
+* Kokonaisarvosana kurssille: 4.18
+
+### Miten kehittäisit kurssia?
+
+* Ei kehitys ehdotuksia.
+* Ei muuttaisi mitään
+* eos
+* eos
+* Esimerkiksi abort() kutsua käyttäessä palautteessa sanottiin että pitää käyttää errorhandleriä. Esimerkkisovelluksissa ei oltu käytetty, enkä löytänyt mainintaa asiasta kurssimateriaalista.
+* Hyötyisin enemmän kurssista, jos tekoälyn käyttö olisi kiellettyä. Motivoisi tekemään suuremman osan kurssista täysin itse, sillä tekoälyn kanssa on helppoa leikata kulmia huomaamatta.
+* Kurssi oli hyvä, mutta ehkä noilla tiedostoille voisi olla vähän järkevämpi järjestys, kun melkein kaikki oli rootissa... ? Myös työmäärä 3 ja 5 välillä tuntui melkein tuplilta :D Onkohan 3 työmäärä liian pieni?
+* Kurssi oli kokonaisuudessaan hyödyllinen, mutta rehellisesti sanottuna jäi vähän epäselväksi, mitä pitäisi oppia. Opin paljon asioita, mutta en tiedä oliko tässä kyse omasta huonosta lähtötasosta, tai siitä että on jäänyt välistä jotain kursseja, joilla nämä asiat olisi opeteltu. Minulla meni esimerkiksi kurssin alussa ihan todella paljon aikaa Linuxin asentamiseen, säätämiseen ja opettelemiseen. Samoin GitHubia käytin ensimmäistä kertaa ja senkin opetteluun meni aikaa, mutta uskon että molemmista näistä on paljon hyötyä tulevaisuudessa. Itse kurssin sisällöstä, käytin paljon tekoälyä selittämään asioita, koska tosiaan tuntui että oma lähtötaso ei ollut riittävä ymmärtämään kurssin materiaalia sellaisenaan. Ongelma ei ollut niinkään Pythonin kanssa, vaan kaikessa muussa. Olisin kaivannut jotain "Näin asennat Linuxin ja käytät Visual Studio Codea Linuxissa" -ohjetta. Samoin GET ja POST olivat epäselviä, ja HTML ei mielestäni paljon selitetty kurssin materiaalissa. Ehkä nämä asiat olivat muille tuttua joltain toiselta kurssilta, tai ehkä näihin oli ohjeita jossain, ja en vain löytänyt. Käytin lisäksi tekoälyä koodin kirjoittamiseen, kun se oli sallittu. Kurssin aikataulu oli aika tiukka, ja minulla ei riittänyt aika alkaa opettelemaan HTML että olisin voinut itse kirjoittaa sitä. Nyt jälkikäteen mietin, että oliko tämä virhe, ja olisiko kurssilla pitänyt oppia HTML niin, että sen kirjoitus onnistuisi ilman apuja? Olisi kiva kuulla kurssin vetäjältä kommenttia tähän. Olisiko parempi vain olla käyttämättä tekoälyä ja opetella ulkoa kaikki tarvittava syntaksi? Onko tämmöisestä taidosta hyötyä enää nykypäivänä, kun tekoäly kirjoittaa saman koodin muutamassa sekunnissa? Sama juttu Pythonin kanssa, mutta sitä toki osaan jo aiemmilta kursseilta, mutta jos näitä taitoja ei käytä, niin ne tuppaavat unohtumaan. Aikataulusta sen verran, että en tajunnut, että kurssin ohjaajilta saa palautetta omasta työstä myös vertaisarvioinnin viikoilla. Sain käytännössä kahteen kertaan samat palautteet, kun en ollut työstänyt edellisiä mainittuja ongelmia vertaisarvioinnin viikolla. Jos olisin tajunnut, olisin yrittänyt panostaa enemmän myös oman työn tekemiseen vertaisarviointiviikolla.
+* Kurssia voisi mahdollisesti kehittää, siten että labtoolissa näkyisi opettajan arvioinnin lisäksi myös vertaisarvioinnit.
+* Kurssilla käytetyt menetelmät vaikuttavat melko epäintuitiivisilta. On vaikea uskoa, että kukaan tosiasiassa kehittäisi web-sovellusta nykypäivänä tällä tavoin. Kurssilla on toki kyse asioiden yksinkertaistamisesta ja esimerkiksi tiettyjen haavoittuvuuksien opettamisesta, mutta tämä ei mielestäni poissulje sitä, että kurssilla käytettävä stack voisi olla sellainen, mistä voisi olla jotain käytännön hyötyä todellisessa web-sovellusten kehittämisessä. - -
+Kurssilla ei ole missään selkeästi kerrottu miten pisteytys menee tai en ainakaan löytänyt mitään selkeää tietoa tästä. Labtool-tehtävistä voi saada 0-2 pistettä, mutta missään ei ole kerrottu miten nämä Labtoolissa jaetut pisteet vaikuttavat kurssin loppuarvosanaan. Siis onko Labtoolissa mahdollista saada yksi piste vai onko pisteitä aina 0 tai 2. Tämä on opiskelijoiden oikeusturvan kannalta erittäin ongelmallista, sillä Helsingin yliopiston määräysten ja ohjeiden perusteella opiskelijoilla tulee olla tiedossa miten heidän työtään arvioidaan eikä tämä toteudu nyt lainkaan. - -
+Vertaisarvioiden arviointi vaikuttaa jokseenkin keinotekoiselta ja mielivaltaiselta. Laajan vertaisarviointiohjeen mukaisesti tehdystä vertaisarvioista on tullut palautetta, että vertaisarviointi olisi voinut olla vieläkin laajempi. Lisäksi esimerkiksi ensimmäisen vertaisarvion kohdalla on mielestäni kohtuutonta olettaa, että joku kurssia ensimmäistä kertaa tekevä voisi tehdä kovin syvällistä analyysiä jo valmiiksi tehdystä vertaisarvioitavasta projektista, sillä siinä vaiheessa kurssia esimerkiksi kurssimateriaalia ei ole välttämättä ehtinyt lukea kokonaan eikä ole välttämättä tietoa tietyistä haavoittuvuuksista tai muista johon voisi ottaa kantaa. Vaikuttaa melko absurdilta, että vertaisarviosta voisi menettää sen vuoksi pisteitä, että joku on tehnyt ja palauttanut valmiin projektin, jossa ei ole juurikaan huomautettavaa.
+* Kurssin aikana kehitin ohjelmointitaitojani, opin HTML: ää ja sain käsityksen siitä, miten taitoja voidaan käyttää oikean tuotteen luomiseen.
+* Kurssin haaste oli minulle enimmäkseen työn aikataulutksessa. Jotenkin tämä kurssi hukkuu helposti muiden sekaan.
+* Mielellään oppisin hieman lisää gitin toiminnoista, koska sitä käytetään työelämässäkin. Toisaalta sitä tulee varmasti lisää jatko-kursseilla. Yleisesti toimiva paketti web-ohjelmoinnin perusteisiin.
+* Mielstäni tämä on hyvä näin.
+* Minulle oli epäselvää mitä tarkoittaa että sovelluksen on muistutettava esimerkkisovellusta. Luulin pitkään että prioriteetti olisi ollut siinä, että sovelluksella on oltava samat ominaisuudet, mutta tähän sisältyi myös tarkkoja vaatimuksia backendille ja tietokannan rakenteelle.
+* Olisi kiva kuulla myös hyvää palautetta omasta projektista.
+* Olisin toivonnut viimeisessä välipalautuksessa ennen loppupalautusta tarkempia tietoja siitä, mitä suoritukselta vaaditaan. Palaute ”Muokkaa sovellusta enemmän kurssimateriaalin mukaiseksi” on hieman epämääräinen.
+* Pitäisi olla tarkemmin materiaalia miten tällä kurssilla on tarkoitus toteuttaa tietoturva
+* Pitäisin kurssin perusvaatimukset samoina (tietyt vaatimukset täyttävä projektityö). Muuttaisin kuitenkin seuraavia:
+  1. Projektin aihe annetaan ja se on kaikille sama. Aiheen vapaa valinta ei sovellu hyvin nykyisiin kurssivaatimuksiin. Jos opiskelija valitsee laajan aiheen, toteutusta on vaikea sovittaa yhteen kurssimateriaalin kanssa. Opiskelijan on vaikea tai jopa mahdotonta aihetta valittaessa ennakoida näitä haasteita toteutukseen liittyen.
+  2. Sallitaan JavaScriptin käyttö rajoitusti (esimerkiksi käyttökokemuksen parantamiseksi). Pitäisin kuitenkin ennallaan vaatimuksen palvelinpuolen sovelluksesta. Samoin pidän hyvänä vaatimuksena sitä, ettei ulkopuolisia kirjastoja saa lisätä projektiin.
+  3. Flask poistetaan vaatimuksista ja kielletään kokonaan frameworkkien käyttö. Pythonilla löytynee varmasti omat kirjastot yksinkertaisen webbisovelluksen rakentamiseen. Oppilas saisi niiden kanssa paljon paremman käsityksen palvelinpuolen sovelluksista ja niiden toimivuudesta kuin käyttämällä Flaskia tms. kehitysalustaa.
+* Videosarja oli todella hyödyllinen. En keksi mitään kehitettävää, tykkäsin kurssista paljon ja se toimi hyvin.
+* Vielä nykyistäkin selkeämpi kriteeristö sille, mitä kattava vertaisarviointi pitää sisällään. Käytännössä nyt kun jomman kumman "mokaa", ei voi saada parempaa arvosanaa kurssista, kuin 3. Tämä on turhan rankka painotus yhdelle hieman epäselvälle kriteerille.
+
+### Muita huomioita
+
+* "Oppimisen arvioinnin vaatimukset (tentti, harjoitus, kurssisuoritus) olivat minulle selvät" vähän hämäytti tentti tuossa lauseessa :P
+* Kurssi mielestäni etenee erittäin selkeästi ja sitä on helppo seurata videoista.
+* Saamani ohjaajapalaute oli melko ankaraa ja lannistavaa. Erityisesti harmitti se miten vasta viimeisen viikon palautteessa ohjaaja sanoi että tietokantani (jonka päälle olin rakentanut sovellusta jo pari viikkoa) ei vastannutkaan kurssin vaatimuksia. Tuntui kohtuuttomalta joutua refaktoroimaan koko tietokanta ja siihen liittyvä koodi viimeisellä viikolla. Siihen upposi viimehetkillä aikaa ja stressi vei parit yöunet. :(
+
+***
+
 ## Loppukesä 2026
 
 Kurssipalautteen antoi 12 opiskelijaa.
