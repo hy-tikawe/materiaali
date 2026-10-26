@@ -5,16 +5,16 @@ permalink: /ohjeet/
 
 # Ohjeet ja aikataulu
 
-Syksyn 2026 periodin 1 aikataulu on seuraava:
+Syksyn 2026 periodin 2 aikataulu on seuraava:
 
-| ti 1.9.2026 | Aloitusluento klo 16–18 (Exactum D123) |
-| su 6.9.2026 | Välipalautus 1 (aiheen valinta) |
-| su 20.9.2026 | Välipalautus 2 (toteutus aloitettu) |
-| su 27.9.2026 | Välipalautus 3 (vertaisarvioinnin deadline) |
-| su 4.10.2026 | Välipalautus 4 (toteutus edistynyt) |
-| su 11.10.2026 | Välipalautus 5 (vertaisarvioinnin deadline) |
-| su 18.10.2026 | Lopullinen palautus |
-| ma 19.10.2026 | Kurssipalautteen deadline |
+| ti 27.10.2026 | Aloitusluento klo 16–18 (Exactum D122) |
+| su 1.11.2026 | Välipalautus 1 (aiheen valinta) |
+| su 15.11.2026 | Välipalautus 2 (toteutus aloitettu) |
+| su 22.11.2026 | Välipalautus 3 (vertaisarvioinnin deadline) |
+| su 29.11.2026 | Välipalautus 4 (toteutus edistynyt) |
+| su 6.12.2026 | Välipalautus 5 (vertaisarvioinnin deadline) |
+| su 13.12.2026 | Lopullinen palautus |
+| ma 14.12.2026 | Kurssipalautteen deadline |
 
 Voit keskustella kurssiin liittyvistä asioista kurssin [Discord-ryhmässä](https://study.cs.helsinki.fi/discord/join/tikawe), jossa on paikalla kurssin ohjaajia ja opiskelijoita. Lisäksi järjestetään pajaohjausta Exactumin salissa BK107 maanantaisin klo 16–19, tiistaisin klo 13–16, torstaisin klo 16–19 sekä perjantaisin klo 13–16.
 
@@ -47,7 +47,7 @@ Välipalautuksen ja palautuksen tekemiseen riittää, että repositoriosi on aja
 
 * Luo GitHubiin julkinen repositorio harjoitustyötä varten. Nimeä repositoriosi kuvaavasti.
 * Valitse projektille aihe ja kirjoita `README.md`-tiedostoon kuvaus, joka esittelee sovelluksen keskeiset toiminnot. Kirjoita kuvaus samassa muodossa kuin aloitussivun esimerkkiaiheissa ja esimerkkisovelluksessa.
-* Kirjaudu [Labtooliin](https://study.cs.helsinki.fi/labtool/courses/TKT20019.2026.S.K.2) ja ilmoita siellä projektisi GitHub-osoite.
+* Kirjaudu [Labtooliin](https://study.cs.helsinki.fi/labtool/courses/TKT20019.2026.S.K.1) ja ilmoita siellä projektisi GitHub-osoite.
 * Saat seuraavan viikon alussa ohjaajalta palautteen aiheesta Labtooliin.
 * Vinkkejä palautukseen:
   - Valitse repositorion nimi niin, että se kuvaa hyvin sovellustasi. Esimerkiksi jos teet reseptisovelluksen, voit valita esimerkiksi nimen `reseptit`.
@@ -106,7 +106,7 @@ Kurssin suoritus vaatii kummankin vertaisarvioinnin tekemistä. Lisäksi arvosan
 
 ### Kurssipalaute
 
-Anna [kurssipalaute](https://norppa.helsinki.fi/targets/113054633) viimeistään seuraavana päivänä lopullisen palautuksen deadlinen jälkeen. Palaute on anonyymia ja vaikuttaa kurssin kehitykseen.
+Anna [kurssipalaute](https://norppa.helsinki.fi/targets/113056121) viimeistään seuraavana päivänä lopullisen palautuksen deadlinen jälkeen. Palaute on anonyymia ja vaikuttaa kurssin kehitykseen.
 
 Kurssipalaute ja vastuuhenkilön kommentit kootaan [palauteyhteenvetoon](../palaute).
 
