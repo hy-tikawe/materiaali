@@ -43,6 +43,8 @@ Kurssiin kuuluu viisi välipalautusta ja lopullinen palautus. Kaikkien palautust
 
 Välipalautuksen ja lopullisen palautuksen tekemiseen riittää, että repositoriosi on ajan tasalla. Sinun ei tarvitse tehdä mitään erityistä Labtoolissa palautusta varten.
 
+Varmista palautuksissa, että repositorio sisältää oikean version sovelluksesta ja siellä on kaikki tarvittavat tiedostot. Voit kokeilla hakea tiedostot GitHubista uuteen hakemistoon koneellasi ja testata, että sovellus toimii varmasti.
+
 Saat Labtooliin välipalautuksen jälkeen pistemäärän 0–2, joka kuvaa sitä, miten hyvin välipalautuksen tavoitteet toteutuivat. Nämä pisteet eivät kuitenkaan vaikuta kurssin arvosteluun, vaan arvostelu tehdään lopullisen sovelluksen perusteella.
 
 ### Välipalautus 1
