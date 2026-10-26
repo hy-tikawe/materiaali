@@ -41,7 +41,9 @@ Kurssilla on sallittua käyttää tekoälytyökaluja, myös koodin tuottamiseen.
 
 Kurssiin kuuluu viisi välipalautusta ja lopullinen palautus. Kaikkien palautusten deadline on klo 23:59 sunnuntaina.
 
-Välipalautuksen ja palautuksen tekemiseen riittää, että repositoriosi on ajan tasalla. Sinun ei tarvitse tehdä mitään erityistä Labtoolissa palautusta varten.
+Välipalautuksen ja lopullisen palautuksen tekemiseen riittää, että repositoriosi on ajan tasalla. Sinun ei tarvitse tehdä mitään erityistä Labtoolissa palautusta varten.
+
+Saat Labtooliin välipalautuksen jälkeen pistemäärän 0–2, joka kuvaa sitä, miten hyvin välipalautuksen tavoitteet toteutuivat. Nämä pisteet eivät kuitenkaan vaikuta kurssin arvosteluun, vaan arvostelu tehdään lopullisen sovelluksen perusteella.
 
 ### Välipalautus 1
 
@@ -97,6 +99,8 @@ Välipalautuksen ja palautuksen tekemiseen riittää, että repositoriosi on aja
 Kurssiin kuuluu kaksi [vertaisarviointia](../vertaisarviointi), joissa annetaan palautetta toisen opiskelijan työstä. Saat ohjeet vertaisarviointiin sähköpostitse välipalautusten 2 ja 4 jälkeen.
 
 Kurssin suoritus vaatii kummankin vertaisarvioinnin tekemistä. Lisäksi arvosanat 4 ja 5 vaativat, että kumpikin vertaisarviointi on tehty kattavasti.
+
+Labtoolissa pistemäärä 1 tarkoittaa suppeasti tehtyä vertaisarviointia ja pistemäärä 2 tarkoittaa kattavasti tehtyä vertaisarviointia.
 
 ### Lopullinen palautus
 
