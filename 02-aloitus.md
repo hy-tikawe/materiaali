@@ -37,7 +37,7 @@ Voit halutessasi toteuttaa perusvaatimusten lisäksi sovellukseen muitakin omina
 
 Tekniset perusvaatimukset ovat:
 
-* Sovellus on toteutettu samaan tapaan kuin kurssimateriaalin esimerkeissä.
+* Sovellus on toteutettu samaan tapaan kuin kurssin materiaalissa.
 * Sovellus on toteutettu Python-kielellä ja Flask-kirjastoa käyttäen.
 * Sovellus käyttää SQLite-tietokantaa.
 * Kehitystyössä on käytetty Git-versionhallintaa ja GitHub-palvelua.
@@ -46,6 +46,8 @@ Tekniset perusvaatimukset ovat:
 * Tietokantaa käytetään suoraan SQL-komennoilla (ei ORMin kautta).
 * Sovellus ei käytä Flaskin lisäksi muita erikseen asennettavia Python-kirjastoja.
 * Sovelluksen ulkoasu (HTML/CSS) on toteutettu itse ilman kirjastoja.
+
+Ensimmäinen vaatimus toteutuu, jos sovellus on rakennettu samaan tapaan kuin kurssin [esimerkkisovellus](https://github.com/pllk/huutokauppa). Tässä kannattaa olla tarkkana, jos liität sovellukseen tekoälyn tuottamaa koodia.
 
 Vältä sovelluksessa Pythonin uusimpia ominaisuuksia, koska ne eivät välttämättä toimi ohjaajalla tai vertaisarvioinnin tekijällä. Hyvä tavoite on, että sovellus toimii Pythonin versiolla 3.12.
 
