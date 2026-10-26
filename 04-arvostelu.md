@@ -11,6 +11,8 @@ Tämä sivu kuvaa kurssin arvosteluperusteet, jotka kurssin ohjaaja käy läpi t
 * Saat kurssista arvosanan 4, jos arvosanojen 3–4 vaatimukset täyttyvät.
 * Saat kurssista arvosanan 5, jos arvosanojen 3–5 vaatimukset täyttyvät.
 
+Kurssin ohjaaja voi harkintansa mukaan antaa suorituksen alemmalla arvosanalla, jos sovellus täyttää useimmat vaatimukset mutta siinä on pieniä puutteita.
+
 Voit käyttää myös [teknistä tarkastuslistaa](../lista) apuna sovelluksen viimeistelyssä.
 
 <style>
@@ -88,6 +90,7 @@ Tarkempaa tietoa vertaisarvioinnin vaatimuksista on [vertaisarviointiohjeissa](.
 | Muuttujien ja funktioiden nimet muotoa `total_count` (ei `totalCount`) |
 | Välit oikein `=`- ja `,`-merkkien ympärillä |
 | Ei ylimääräisiä sulkeita `if`- ja `while`-rakenteissa |
+| Ei funktioita/moduuleita, joita ei käytetä |
 
 <!-- TODO: ohjeita näiden tarkastamiseen -->
 
