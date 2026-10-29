@@ -137,4 +137,10 @@ Esimerkkisovelluksen repositoriossa on tiedosto [pylint-report.md](https://githu
 | Sovelluksessa käytössä tietokohteiden sivutus |
 | Tietokantaan lisätty indeksi, joka nopeuttaa suuren tietomäärän käsittelyä |
 
-Sopiva tapa raportoida tulokset on lisätä tiedosto `seed.py` repositorioon ja kirjoittaa tiedostoon `README.md` selostus sovelluksen toiminnasta suurella tietomäärällä. Mittauksiin liittyvät koodimuutokset kannattaa raportin kirjoittamisen jälkeen poistaa tai kommentoida pois koodista.
+Sopiva tapa raportoida tulokset on lisätä tiedosto `seed.py` repositorioon ja kirjoittaa tiedostoon `README.md` selostus sovelluksen tehokkuudesta. Mainitse ainakin seuraavat asiat:
+
+- Millaisella tietokannalla testasit sovelluksen tehokkuutta?
+- Mitä sivua testasit ja kauanko sivun lataus kesti ilman indeksiä?
+- Miten tilanne muuttui, kun lisäsit indeksin tietokantaan?
+
+Mittauksiin liittyvät koodimuutokset kannattaa raportin kirjoittamisen jälkeen poistaa tai kommentoida pois koodista.
